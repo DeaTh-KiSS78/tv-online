@@ -39,17 +39,19 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-shift="0" group-title="Rai (it)", Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-
-
-
-
-
-
-
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Movie
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-shift="0" group-title="Rai (it)", Rai Movie
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Premium
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-shift="0" group-title="Rai (it)", Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="CieloTv.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-shift="0" group-title="Sky (it)", Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+
+
+
+
 #EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Gulp
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Yoyo
@@ -110,8 +112,6 @@ https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:-1 tvg-id="7Gold" tvg-name="7Gold" tvg-logo="" tvg-shift="0" group-title="Altro (it)", 7Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-name="Cielo" tvg-logo="" tvg-shift="0" group-title="Sky (it)", Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="" tvg-shift="0" group-title="Sky (it)", Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="" tvg-shift="0" group-title="Discovery (it)", Real Time
