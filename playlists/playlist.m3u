@@ -60,6 +60,25 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-id="LA5.it" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-shift="0" group-title="Mediaset (it)", La 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-shift="0" group-title="Discovery (it)", Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-shift="0" group-title="Altro (it)", QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" tvg-shift="0" group-title="Discovery (it)", Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-shift="0" group-title="Mediaset (it)", Cine34
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-shift="0" group-title="Mediaset (it)", FOCUS
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
+
+
+
+
 
 
 
@@ -76,10 +95,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Sport + HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Cine34
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", FOCUS
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Top Crime
 https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Boing
@@ -92,8 +107,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Mediaset Extra
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="" tvg-shift="0" group-title="Altro (it)", QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 #EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="" tvg-shift="0" group-title="Altro (it)", Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="" tvg-shift="0" group-title="Altro (it)", Sportitalia
@@ -118,10 +131,6 @@ https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="" tvg-shift="0" group-title="Sky (it)", Sky TG24
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-#EXTINF:-1 tvg-id="RealTime.it" tvg-name="Real Time" tvg-logo="" tvg-shift="0" group-title="Discovery (it)", Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-name="Food Network" tvg-logo="" tvg-shift="0" group-title="Discovery (it)", Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery TV" tvg-logo="" tvg-shift="0" group-title="Discovery (it)", Discovery TV
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 #EXTINF:-1 tvg-id="GialloTV.it" tvg-name="Giallo" tvg-logo="" tvg-shift="0" group-title="Discovery (it)", Giallo
