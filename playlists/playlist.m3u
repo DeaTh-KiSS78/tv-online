@@ -9,8 +9,15 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forc
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-shift="0" group-title="Rai (it)", Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
+#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-shift="0" group-title="Mediaset (it)", Rete 4
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-shift="0" group-title="Mediaset (it)", Canale 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-shift="0" group-title="Rai (it)", Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
 #EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai 5
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Movie
@@ -29,10 +36,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Sport + HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", 20 Mediaset
