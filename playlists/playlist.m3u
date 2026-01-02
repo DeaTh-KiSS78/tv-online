@@ -15,6 +15,26 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-shift="0" group-title="Mediaset (it)", Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-shift="0" group-title="Mediaset (it)", Italia 1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-shift="0" group-title="Altro (it)", LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-shift="0" group-title="Sky (it)", TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-shift="0" group-title="Rai (it)", Rai 4
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
@@ -36,8 +56,6 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 #EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="" tvg-shift="0" group-title="Rai (it)", Rai Sport + HD
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="20Mediaset.it" tvg-name="20 Mediaset" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", 20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Iris
@@ -62,8 +80,6 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="" tvg-shift="0" group-title="Mediaset (it)", Mediaset Extra
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="La7.it" tvg-name="LA7" tvg-logo="" tvg-shift="0" group-title="Altro (it)", LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="" tvg-shift="0" group-title="Altro (it)", TV2000
 https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
 #EXTINF:-1 tvg-id="LA7 Cinema.it" tvg-name="LA7 Cinema" tvg-logo="" tvg-shift="0" group-title="Altro (it)", LA7 Cinema
@@ -92,8 +108,6 @@ https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 #EXTINF:-1 tvg-id="7Gold" tvg-name="7Gold" tvg-logo="" tvg-shift="0" group-title="Altro (it)", 7Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-#EXTINF:-1 tvg-id="Tv8.it" tvg-name="TV8" tvg-logo="" tvg-shift="0" group-title="Sky (it)", TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-name="Cielo" tvg-logo="" tvg-shift="0" group-title="Sky (it)", Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-name="Sky TG24" tvg-logo="" tvg-shift="0" group-title="Sky (it)", Sky TG24
