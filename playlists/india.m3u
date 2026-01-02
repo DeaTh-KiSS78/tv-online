@@ -12,3 +12,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="9X.Tashan.in" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
