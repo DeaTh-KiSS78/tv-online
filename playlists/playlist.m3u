@@ -126,7 +126,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forc
 #EXTINF:-1 tvg-id="MediasetExtra.it" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-shift="0" group-title="Mediaset (it)", Mediaset Extra
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Home&GardenTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-shift="0" group-title="Discovery (it)", HGTV - Home&Garden
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-shift="0" group-title="Discovery (it)", HGTV - Home&Garden
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
 #EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-shift="0" group-title="Rai (it)", Rai Scuola
