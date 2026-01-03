@@ -150,7 +150,7 @@ https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c
 #EXTINF:-1 tvg-id="AlmaTv.it" tvg-name="ALMA TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-shift="0" group-title="Altro (it)", ALMA TV
 https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1757760595~acl=/*~hmac=66e2c5f24803560fe6e7bfbed8de5ecdcbb3961c53d428817121a65f8b58e616
 
-#EXTINF:-1 tvg-id="Radio105TV.it" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-shift="0" group-title="Radio TV (it)", Radio 105 TV
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-shift="0" group-title="Radio TV (it)", Radio 105 TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-shift="0" group-title="Radio TV (it)", R101 TV
