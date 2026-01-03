@@ -127,7 +127,8 @@ https://live.djemba.ro/live/qubtvlive/playlist.m3u8
 http://92.86.248.141:8080/ram/playlist.m3u8
 #EXTINF:-1 tvg-id="RealitateaSportiva.ro@SD" tvg-logo="https://i.imgur.com/BaEyZto.png" group-title="Sports",Realitatea Sportiva (720p)
 https://stream.realitatea.net/realitatea/sportiva_md/ts:playlist.m3u8
-#EXTINF:-1 tvg-id="RockTV.ro@SD" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV (720p)
+
+#EXTINF:-1 tvg-id="Rock.TV.ro" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV
 https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
 
 #EXTINF:-1 tvg-id="România.TV.ro" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="" referrer="https://www.romaniatv.net/live",Romania TV
