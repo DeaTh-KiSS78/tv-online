@@ -46,7 +46,7 @@ jobs:
 - name: Notify SUCCESS
   if: success()
   run: |
-    curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+    curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BTO_TOKEN }}/sendMessage \
     -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
     -d text="✅ Workflow *Generate EPG* a rulat cu succes.%0A📺 Canale procesate: ${{ steps.channels.outputs.count }}%0A⚠️ Canale fără EPG: ${{ steps.noepg.outputs.count }}"
     
