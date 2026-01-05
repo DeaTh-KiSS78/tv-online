@@ -1,0 +1,126 @@
+#EXTM3U url-tvg="https://www.epgitalia.tv/gzip, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+
+#EXTINF:-1 tvg-id="A7TV.ro" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV
+https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Agro.TV.ro" tvg-logo="https://i.imgur.com/S7X1PiC.png" group-title="Outdoor",Agro TV
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="Antena.1.HD.ro" tvg-logo="https://i.imgur.com/EPmwuuv.png" group-title="General" referrer="https://canale-tv.com/",Antena 1 HD
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://hokrus113.zokares1.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 tvg-id="Antena.Stars.ro" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/01/Antena_Monden_2022.png/revision/latest/scale-to-width-down/300" group-title="Lifestyle",Antena Monden
+https://stream1.antenaplay.ro/live/AntenaMonden/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ArgesTV.ro@SD" tvg-logo="https://i.imgur.com/qufz6nk.png" group-title="General",Arges TV
+https://btutzctahuf0wjoq.cdn.streamingserver.io/hls/yjvam8hlp2g3u08z02tv0yz66rq3cy.m3u8
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro@SD" tvg-logo="https://i.imgur.com/ZbrDIbZ.png" group-title="Music",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro@SD" tvg-logo="https://i.imgur.com/O4uI0Uy.png" group-title="Music",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="BanatTV.ro@SD" tvg-logo="https://i.imgur.com/yVsocid.png" group-title="General",Banat TV
+https://www.btv.ro/hls/banat-tv.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood.Clasic.ro" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Classic;Movies",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ro@SD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BucovinaTV.ro@SD" tvg-logo="https://i.imgur.com/6klhXxp.png" group-title="",Bucovina TV
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CaTine.ro@SD" tvg-logo="https://i.imgur.com/eFNHuIh.png" group-title="Lifestyle",CaTine
+https://stream1.antenaplay.ro/live/CaTine/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro@SD" tvg-logo="https://i.imgur.com/6kAeVOk.png" group-title="Comedy",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi.24.ro" tvg-logo="https://i.imgur.com/qmRnD0M.png" group-title="News",Digi 24
+https://edge-ar.rcs-rds.ro/digi24ar/index.m3u8
+
+#EXTINF:-1 tvg-id="Euronews.Romania.ro" tvg-logo="https://i.imgur.com/jUOVUXt.png" group-title="News",Euronews Romania
+https://ythls.armelin.one/channel/UCbATDExtWstHnwWELZnXNZA.m3u8
+
+#EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="Kanal.D2.ro" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="",Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+
+#EXTINF:-1 tvg-id="Kanal.D.ro" tvg-logo="https://i.imgur.com/15ILp0P.png" group-title="General",Kanal D
+https://stream1.kanald.ro/iphone/knd-live.m3u8
+
+#EXTINF:-1 tvg-id="Kiss.TV.ro" tvg-logo="https://i.imgur.com/NKfVymH.png" group-title="Music",Kiss TV
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="Magic.TV.ro" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="MediCOOLTV.ro@SD" tvg-logo="https://i.imgur.com/Xe7x1k2.png" group-title="Lifestyle",MediCOOL TV
+https://stream1.antenaplay.ro/live/MediCOOLTV/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="MuscelTV.ro@SD" tvg-logo="https://i.ibb.co/Bq9CHyn/Musceltv1.png" group-title="General",Muscel TV
+https://cdn.streamnet.pro/musceltv/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Nasul.TV.ro" tvg-logo="https://i.imgur.com/MoguWme.png" group-title="General",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="NovaTVBrasov.ro@SD" tvg-logo="https://i.imgur.com/33Vn0Ij.png" group-title="General",Nova TV Brasov
+http://novapress.ro:2022/live/nova/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News
+https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
+
+#EXTINF:-1 tvg-id="PROFI24TV.ro@SD" tvg-logo="https://profi24.ro/wp-content/uploads/2025/03/Logo_Profi24_Nou_Logo_Profi24_Landscape_Logo_Profi24_Landscape-e1742981714264.png" group-title="General",PROFI 24 TV
+https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="PRO.TV.ro" tvg-logo="https://i.postimg.cc/mrvLsqPg/protv.png" group-title="",PRO TV
+https://hls.rundletv.eu.org/LIVE$ProTV/Level/300720051?end=END&start=LIVE
+
+#EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News
+https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
+
+#EXTINF:-1 tvg-id="QubTV.ro@SD" tvg-logo="https://i.imgur.com/GvyF2Wh.png" group-title="General",Qub TV
+https://live.djemba.ro/live/qubtvlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rapsodia.TV.ro" tvg-logo="https://i.imgur.com/mwMG7BB.png" group-title="",Rapsodia TV
+http://92.86.248.141:8080/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rock.TV.ro" tvg-logo="https://i.imgur.com/VB88A5V.png" group-title="Music",Rock TV
+https://tv.broadcasting.ro/rocktv/85c83a80-4f71-4f2d-a8d6-43f676896bcb.m3u8
+
+#EXTINF:-1 tvg-id="România.TV.ro" tvg-logo="https://i.imgur.com/ZIfEp5I.png" group-title="" referrer="https://www.romaniatv.net/live",Romania TV
+#EXTVLCOPT:http-referrer=https://www.romaniatv.net/live
+https://livestream.romaniatv.net/clients/romaniatv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele7ABCHD.ro@SD" tvg-logo="https://i.imgur.com/CheqyWH.png" group-title="General",Tele7ABC HD
+https://live.tele7abc.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TeleMBotosani.ro@SD" tvg-logo="https://i.imgur.com/3EZ8CmJ.png" group-title="General",TeleM Botosani
+http://89.137.197.15:8080/testing/pl5/playlist/ram/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TeleMoldova.Plus.ro" tvg-logo="https://i.imgur.com/8z0zLjw.jpeg" group-title="News",TeleMoldova +
+https://vdo.ssl-stream.com:3247/stream/play.m3u8
+
+#EXTINF:-1 tvg-id="TVArad.ro" tvg-logo="https://i.imgur.com/4yZV72X.png" group-title="General",TV Arad
+https://live.djemba.ro/live/tvaradlive/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TVBuzau.ro" tvg-logo="https://i.imgur.com/GhFmUVO.png" group-title="General",TV Buzau
+http://78.96.33.89:8080
+
+#EXTINF:-1 tvg-id="TVPlusSuceava.ro" tvg-logo="https://i.imgur.com/f4fzoLe.png" group-title="",TVPlus Suceava
+http://85.186.22.140/testing/pl5/playlist/ram/playlist.m3u8
