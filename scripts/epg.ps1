@@ -51,7 +51,7 @@ if (!(Test-Path $epgSourcesFile)) {
 $epgSources = Get-Content $epgSourcesFile | Where-Object { $_.Trim() -ne "" }
 
 # ================================
-# 3. Descarcă și dezarhivează EPG-urile
+# 3. Descarcă și dezarhivează EPG-urile (compatibil Windows + Linux)
 # ================================
 $downloadedXml = @()
 
@@ -65,20 +65,32 @@ foreach ($url in $epgSources) {
     try {
         Invoke-WebRequest -Uri $url -OutFile $gzPath -ErrorAction Stop
 
-        # Dezarhivare
-        $src = [System.IO.File]::OpenRead($gzPath)
-        $dst = [System.IO.File]::Create($xmlPath)
-        $gzStream = New-Object System.IO.Compression.GzipStream($src, [IO.Compression.CompressionMode]::Decompress)
-        $src.CopyTo($gzStream)
-        $gzStream.Close(); $src.Close(); $dst.Close()
+        # Dezarhivare universală
+        try {
+            $bytes = [System.IO.File]::ReadAllBytes($gzPath)
+            $inputStream = New-Object System.IO.MemoryStream
+            $inputStream.Write($bytes, 0, $bytes.Length)
+            $inputStream.Seek(0, 'Begin') | Out-Null
 
-        Remove-Item $gzPath -Force
-        $downloadedXml += $xmlPath
+            $outputStream = New-Object System.IO.MemoryStream
+            $gzipStream = New-Object System.IO.Compression.GzipStream($inputStream, [IO.Compression.CompressionMode]::Decompress)
+            $gzipStream.CopyTo($outputStream)
+            $gzipStream.Close()
 
-        Add-Content $logFile "[VALID] Dezarhivat: $xmlPath"
+            [System.IO.File]::WriteAllBytes($xmlPath, $outputStream.ToArray())
+            $outputStream.Close()
+
+            Remove-Item $gzPath -Force
+            $downloadedXml += $xmlPath
+
+            Add-Content $logFile "[VALID] Dezarhivat: $xmlPath"
+        }
+        catch {
+            Add-Content $logFile "[ERROR] Eroare la dezarhivare: $_"
+        }
     }
     catch {
-        Add-Content $logFile "[ERROR] Eroare la descărcare/dezarhivare: $url - $_"
+        Add-Content $logFile "[ERROR] Eroare la descărcare: $url - $_"
     }
 }
 
@@ -161,7 +173,7 @@ if (Test-Path (Join-Path $repoRoot ".git")) {
 
         if ($status) {
             $timestamp = Get-Date -Format "yyyy-MM-dd HH:mm:ss"
-            git commit -m "Update EPG $timestamp"
+            git commit -m "Auto-update EPG $timestamp"
             git push
 
             Add-Content $logFile "[DONE] Git push realizat cu succes."
