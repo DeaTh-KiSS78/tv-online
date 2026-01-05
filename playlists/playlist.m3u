@@ -144,7 +144,7 @@ https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-chno="60" group-title="Altro (it)", Sportitalia
 https://origin.streamup.eu/sportitalia/sihd_480p/playlist.m3u8
 
-#EXTINF:-1 tvg-id="il61.it" tvg-name="IL 61" tvg-logo="" tvg-chno="61" group-title="Altro (it)", IL 61
+#EXTINF:-1 tvg-id="il61.it" tvg-name="IL 61" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/il61.png" tvg-chno="61" group-title="Altro (it)", IL 61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-chno="62" group-title="Altro (it)", Donna TV
@@ -171,7 +171,7 @@ https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 #EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-name="RADIO KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-chno="158" group-title="Radio TV (it)", RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="EURO TV" tvg-name="Euro TV" tvg-logo="" tvg-chno="191" group-title="Altro (it)", Euro TV
+#EXTINF:-1 tvg-id="EURO TV" tvg-name="Euro TV" tvg-logo="https://i.imgur.com/HFWWzKT.png" tvg-chno="191" group-title="Altro (it)", Euro TV
 https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-name="Rai Radio 2 Visual" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-chno="202" group-title="Radio TV (it)", Rai Radio 2 Visual
@@ -186,29 +186,38 @@ https://stream.rdstv.radio/index.m3u8
 #EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="RADIO ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-chno="266" group-title="Radio TV (it)", RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-name="RTV San Marino" tvg-logo="" tvg-chno="550" group-title="Radio TV (it)", RTV San Marino
+#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-name="RTV San Marino" tvg-logo="https://i.postimg.cc/HLFT0KHC/sanmarinortv.png" tvg-chno="550" group-title="Radio TV (it)", RTV San Marino
 https://smrtvlive.b-cdn.net/bcdn_token=9uR0SKjSsvi6ewRy2HJAPk4iZKRNqKlqEZpMIpgc2Kg&token_path=%2Flive&expires=1763728223/live/smrtv-ch01/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-name="Radio TV Serie A" tvg-logo="https://i.imgur.com/NzDeCIx.png" tvg-chno="" group-title="Radio TV (it)", Radio TV Serie A
 https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Super SIX" tvg-name="Super SIX" tvg-logo="" tvg-chno="" group-title="Altro (it)", Super SIX
+#EXTINF:-1 tvg-id="Super SIX" tvg-name="Super SIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" tvg-chno="" group-title="Altro (it)", Super SIX
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-#EXTINF:-1 tvg-id="Iunior TV" tvg-name="Iunior TV" tvg-logo="" tvg-chno="" group-title="Altro (it)", Iunior TV
+
+#EXTINF:-1 tvg-id="Iunior TV" tvg-name="Iunior TV" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-chno="" group-title="Altro (it)", Iunior TV
 https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
-#EXTINF:-1 tvg-id="Retemia" tvg-name="Rete Mia" tvg-logo="" tvg-chno="" group-title="Altro (it)", Rete Mia
+
+#EXTINF:-1 tvg-id="Retemia" tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/IbzQpfn.png" tvg-chno="" group-title="Altro (it)", Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-#EXTINF:-1 tvg-id="7Gold" tvg-name="7Gold" tvg-logo="" tvg-chno="" group-title="Altro (it)", 7Gold
+
+#EXTINF:-1 tvg-id="7Gold" tvg-name="7Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg" tvg-chno="" group-title="Altro (it)", 7Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-name="RTL 102.5 News" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", RTL 102.5 News
+
+#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-name="RTL 102.5 News" tvg-logo="https://i.imgur.com/EBftMcB.png" tvg-chno="" group-title="Radio TV (it)", RTL 102.5 News
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-name="VIRGIN RADIO" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", VIRGIN RADIO
+
+#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-name="VIRGIN RADIO" tvg-logo="https://i.imgur.com/aUY2KvX.png" tvg-chno="" group-title="Radio TV (it)", VIRGIN RADIO
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-name="Radio Capital TV" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", Radio Capital TV
+
+#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" tvg-chno="" group-title="Radio TV (it)", Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-#EXTINF:-1 tvg-id="M2OTv.it" tvg-name="M2O TV" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", M2O TV
+
+#EXTINF:-1 tvg-id="M2OTv.it" tvg-name="M2O TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" tvg-chno="" group-title="Radio TV (it)", M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-#EXTINF:-1 tvg-id="RMC.it" tvg-name="RMC" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", RMC
+
+#EXTINF:-1 tvg-id="RMC.it" tvg-name="RMC" tvg-logo="https://i.imgur.com/by9XvWF.png" tvg-chno="" group-title="Radio TV (it)", RMC
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="Radio Norba TV" tvg-logo="" tvg-chno="" group-title="Radio TV (it)", Radio Norba TV
+
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="Radio Norba TV" tvg-logo="https://i.imgur.com/Tucoyzy.png" tvg-chno="" group-title="Radio TV (it)", Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
