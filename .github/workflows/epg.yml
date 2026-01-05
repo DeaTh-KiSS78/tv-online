@@ -3,7 +3,7 @@ name: Generate EPG
 on:
   schedule:
     - cron: "0 */6 * * *"   # rulează la fiecare 6 ore
-  workflow_dispatch:         # permite rulare manuală din GitHub
+  workflow_dispatch:
 
 jobs:
   build:
@@ -12,9 +12,6 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-
-      - name: Install PowerShell
-        uses: PowerShell/PowerShell@v1
 
       - name: Run EPG script
         run: pwsh ./scripts/epg.ps1
