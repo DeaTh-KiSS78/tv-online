@@ -1,4 +1,3 @@
-http://www.epgitalia.tv/gzip
 https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz

@@ -9,13 +9,13 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forc
 #EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-chno="3" group-title="Rai (it)", Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="Rete4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Mediaset (it)", Rete 4
+#EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Mediaset (it)", Rete 4
 https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Canale5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Mediaset (it)", Canale 5
+#EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Mediaset (it)", Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Italia1.it" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-chno="6" group-title="Mediaset (it)", Italia 1
+#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-chno="6" group-title="Mediaset (it)", Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="La7.HD.it" tvg-name="LA7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-chno="7" group-title="Altro (it)", LA7
@@ -45,7 +45,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forc
 #EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-chno="25" group-title="Rai (it)", Rai Premium
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="CieloTv.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="26" group-title="Sky (it)", Cielo
+#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="26" group-title="Sky (it)", Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
 #EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="Twenty Seven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="27" group-title="Mediaset (it)", Twenty Seven
