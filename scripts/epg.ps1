@@ -105,22 +105,34 @@ foreach ($file in $downloadedXml) {
     try {
         [xml]$doc = Get-Content -LiteralPath $file -ErrorAction Stop
 
-        foreach ($ch in $tvgIds) {
-            # Importă canalul
-            $channelNode = $doc.tv.channel | Where-Object { $_.id -eq $ch }
-            if ($channelNode) {
-                $imported = $newDoc.ImportNode($channelNode, $true)
-                $root.AppendChild($imported) | Out-Null
-            }
+$channelsWithoutEPG = @()
 
-            # Importă programele
-            $programmes = $doc.tv.programme | Where-Object { $_.channel -eq $ch }
-            foreach ($prog in $programmes) {
-                $imported = $newDoc.ImportNode($prog, $true)
-                $root.AppendChild($imported) | Out-Null
-            }
+foreach ($ch in $tvgIds) {
+
+    $foundEPG = $false
+
+    # Importă canalul
+    $channelNode = $doc.tv.channel | Where-Object { $_.id -eq $ch }
+    if ($channelNode) {
+        $imported = $newDoc.ImportNode($channelNode, $true)
+        $root.AppendChild($imported) | Out-Null
+        $foundEPG = $true
+    }
+
+    # Importă programele
+    $programmes = $doc.tv.programme | Where-Object { $_.channel -eq $ch }
+    if ($programmes.Count -gt 0) {
+        foreach ($prog in $programmes) {
+            $imported = $newDoc.ImportNode($prog, $true)
+            $root.AppendChild($imported) | Out-Null
         }
+        $foundEPG = $true
+    }
 
+    if (-not $foundEPG) {
+        $channelsWithoutEPG += $ch
+    }
+}
         Remove-Item $file -Force
         Add-Content $logFile "[INFO] Șters: $file"
     }
@@ -191,5 +203,18 @@ if (Test-Path (Join-Path $repoRoot ".git")) {
 else {
     Add-Content $logFile "[INFO] Directorul nu este repo Git. Sar peste git push."
 }
+
+# ================================
+# 8. Salvează numărul de canale procesate pentru GitHub Actions
+# ================================
+$tvgCount = $tvgIds.Count
+Set-Content -Path "$base/channel_count.txt" -Value $tvgCount
+
+# ================================
+# 9. Salvează numărul de canale fără EPG
+# ================================
+$noEpgCount = $channelsWithoutEPG.Count
+Set-Content -Path "$base/no_epg_count.txt" -Value $noEpgCount
+
 
 Write-Host "EPG generat și încărcat cu succes!"
