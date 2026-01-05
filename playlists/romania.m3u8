@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.epgitalia.tv/gzip, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO1.xml.gz, https://epgshare01.online/epgshare01/epg_ripper_RO2.xml.gz, https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U
 
 #EXTINF:-1 tvg-id="A7TV.ro" tvg-logo="https://i.imgur.com/RmFg8BN.png" group-title="General",A7TV
 https://a7tvlive.ro/A7TV/A7TV/playlist.m3u8
