@@ -2,7 +2,7 @@ name: Generate EPG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"   # rulează la fiecare 6 ore
+    - cron: "0 */6 * * *"
   workflow_dispatch:
 
 jobs:
@@ -10,6 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Notify START
+        run: |
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BTO_TOKEN }}/sendMessage \
+          -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+          -d text="🚀 Pornit workflow *Generate EPG* pe GitHub Actions."
+
       - name: Checkout repository
         uses: actions/checkout@v4
 
@@ -28,3 +34,25 @@ jobs:
 
       - name: Push changes
         run: git push
+        
+      - name: Read channel count
+        id: channels
+        run: echo "count=$(cat scripts/channel_count.txt)" >> $GITHUB_OUTPUT
+
+        - name: Read no-epg count
+  id: noepg
+  run: echo "count=$(cat scripts/no_epg_count.txt)" >> $GITHUB_OUTPUT
+        
+- name: Notify SUCCESS
+  if: success()
+  run: |
+    curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BOT_TOKEN }}/sendMessage \
+    -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+    -d text="✅ Workflow *Generate EPG* a rulat cu succes.%0A📺 Canale procesate: ${{ steps.channels.outputs.count }}%0A⚠️ Canale fără EPG: ${{ steps.noepg.outputs.count }}"
+    
+      - name: Notify FAILURE
+        if: failure()
+        run: |
+          curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BTO_TOKEN }}/sendMessage \
+          -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
+          -d text="❌ Workflow *Generate EPG* a eșuat. Verifică logurile în GitHub Actions."
