@@ -48,7 +48,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forc
 #EXTINF:-1 tvg-id="CieloTv.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="26" group-title="Sky (it)", Cielo
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="TwentySeven.it" tvg-name="Twenty Seven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="27" group-title="Mediaset (it)", Twenty Seven
+#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="Twenty Seven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="27" group-title="Mediaset (it)", Twenty Seven
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-chno="28" group-title="Altro (it)", TV2000
@@ -75,13 +75,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-chno="35" group-title="Mediaset (it)", FOCUS
 https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="RTL102.5TV.it" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-chno="36" group-title="Radio TV (it)", RTL 102.5
+#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-chno="36" group-title="Radio TV (it)", RTL 102.5
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
-#EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery TV" tvg-logo="" tvg-chno="37" group-title="Discovery (it)", Discovery TV
+#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery TV" tvg-logo="" tvg-chno="37" group-title="Discovery (it)", Discovery TV
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
-#EXTINF:-1 tvg-id="GialloTV.it" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-chno="38" group-title="Discovery (it)", Giallo
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-chno="38" group-title="Discovery (it)", Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
 #EXTINF:-1 tvg-id="TopCrime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-chno="39" group-title="Mediaset (it)", Top Crime
