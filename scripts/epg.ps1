@@ -1,4 +1,4 @@
-﻿# ================================
+# ================================
 #   EPG Extractor – Portabil
 #   by Cristian + Copilot
 # ================================
@@ -95,44 +95,48 @@ foreach ($url in $epgSources) {
 }
 
 # ================================
-# 4. Creează documentul final
+# 4. Creează documentul final + detectare EPG
 # ================================
+
 $newDoc = New-Object System.Xml.XmlDocument
 $root = $newDoc.CreateElement("tv")
 $newDoc.AppendChild($root) | Out-Null
 
+# Inițial presupunem că toate canalele NU au EPG
+$channelsWithoutEPG = @{}
+foreach ($ch in $tvgIds) {
+    $channelsWithoutEPG[$ch] = $true
+}
+
+# Procesăm fiecare fișier XML descărcat
 foreach ($file in $downloadedXml) {
     try {
         [xml]$doc = Get-Content -LiteralPath $file -ErrorAction Stop
 
-$channelsWithoutEPG = @()
+        foreach ($ch in $tvgIds) {
 
-foreach ($ch in $tvgIds) {
+            # Caută canalul în acest fișier
+            $channelNode = $doc.tv.channel | Where-Object { $_.id -eq $ch }
+            if ($channelNode) {
+                # Importă canalul doar dacă nu există deja în documentul final
+                if (-not ($newDoc.tv.channel | Where-Object { $_.id -eq $ch })) {
+                    $imported = $newDoc.ImportNode($channelNode, $true)
+                    $root.AppendChild($imported) | Out-Null
+                }
+                $channelsWithoutEPG[$ch] = $false
+            }
 
-    $foundEPG = $false
-
-    # Importă canalul
-    $channelNode = $doc.tv.channel | Where-Object { $_.id -eq $ch }
-    if ($channelNode) {
-        $imported = $newDoc.ImportNode($channelNode, $true)
-        $root.AppendChild($imported) | Out-Null
-        $foundEPG = $true
-    }
-
-    # Importă programele
-    $programmes = $doc.tv.programme | Where-Object { $_.channel -eq $ch }
-    if ($programmes.Count -gt 0) {
-        foreach ($prog in $programmes) {
-            $imported = $newDoc.ImportNode($prog, $true)
-            $root.AppendChild($imported) | Out-Null
+            # Caută programele în acest fișier
+            $programmes = $doc.tv.programme | Where-Object { $_.channel -eq $ch }
+            if ($programmes.Count -gt 0) {
+                foreach ($prog in $programmes) {
+                    $imported = $newDoc.ImportNode($prog, $true)
+                    $root.AppendChild($imported) | Out-Null
+                }
+                $channelsWithoutEPG[$ch] = $false
+            }
         }
-        $foundEPG = $true
-    }
 
-    if (-not $foundEPG) {
-        $channelsWithoutEPG += $ch
-    }
-}
         Remove-Item $file -Force
         Add-Content $logFile "[INFO] Șters: $file"
     }
@@ -140,6 +144,7 @@ foreach ($ch in $tvgIds) {
         Add-Content $logFile "[ERROR] Eroare la procesarea $file - $_"
     }
 }
+
 
 # ================================
 # 5. Salvează rezultatul final
@@ -213,7 +218,7 @@ Set-Content -Path "$base/channel_count.txt" -Value $tvgCount
 # ================================
 # 9. Salvează numărul de canale fără EPG
 # ================================
-$noEpgCount = $channelsWithoutEPG.Count
+$noEpgCount = ($channelsWithoutEPG.Values | Where-Object { $_ -eq $true }).Count
 Set-Content -Path "$base/no_epg_count.txt" -Value $noEpgCount
 
 
