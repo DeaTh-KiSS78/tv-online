@@ -1,223 +1,107 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg_all.xml"
-
-#EXTINF:-1 tvg-id="Rai1.it" tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-chno="1" group-title="Rai (it)", Rai 1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Rai2.it" tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-chno="2" group-title="Rai (it)", Rai 2
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Rai3.it" tvg-name="Rai 3" tvg-logo="https://i.imgur.com/9kuQCIi.png" tvg-chno="3" group-title="Rai (it)", Rai 3
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Rete.4.it" tvg-name="Rete 4" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-chno="4" group-title="Mediaset (it)", Rete 4
-https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-logo="https://i.imgur.com/p6YdiR1.png" tvg-chno="5" group-title="Mediaset (it)", Canale 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-chno="6" group-title="Mediaset (it)", Italia 1
-https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="La7.HD.it" tvg-name="LA7" tvg-logo="https://i.imgur.com/F90mpSa.png" tvg-chno="7" group-title="Altro (it)", LA7
-https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
-
-#EXTINF:-1 tvg-id="Tv8.HD.it" tvg-name="TV8" tvg-logo="https://i.imgur.com/xvoHVOU.png" tvg-chno="8" group-title="Sky (it)", TV8
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-
-#EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-logo="https://i.imgur.com/Hp723RU.png" tvg-chno="9" group-title="Discovery (it)", NOVE
-https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
-
-#EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-logo="https://i.imgur.com/It13jwX.png" tvg-chno="20" group-title="Mediaset (it)", 20 Mediaset
+#EXTINF:-1 tvg-id="20Mediaset HD.it" tvg-chno="20" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png", 20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Rai4.it" tvg-name="Rai 4" tvg-logo="https://i.imgur.com/XFkZRfv.png" tvg-chno="21" group-title="Rai (it)", Rai 4
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Iris.it" tvg-name="Iris" tvg-logo="https://i.imgur.com/Ixz1BY3.png" tvg-chno="22" group-title="Mediaset (it)", Iris
-https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Rai5.it" tvg-name="Rai 5" tvg-logo="https://i.imgur.com/Leu2zTO.png" tvg-chno="23" group-title="Rai (it)", Rai 5
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="RaiMovie.it" tvg-name="Rai Movie" tvg-logo="https://i.imgur.com/RKpO8CE.png" tvg-chno="24" group-title="Rai (it)", Rai Movie
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="RaiPremium.it" tvg-name="Rai Premium" tvg-logo="https://i.imgur.com/RKI4nFy.png" tvg-chno="25" group-title="Rai (it)", Rai Premium
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-logo="https://i.imgur.com/cPluF03.png" tvg-chno="26" group-title="Sky (it)", Cielo
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-
-#EXTINF:-1 tvg-id="27.Twentyseven.it" tvg-name="Twenty Seven" tvg-logo="https://i.imgur.com/y2PdPCK.png" tvg-chno="27" group-title="Mediaset (it)", Twenty Seven
+#EXTINF:-1 tvg-id="27Twentyseven HD.it" tvg-chno="27" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/twentyseven.png", 27 Twentyseven
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="TV2000.it" tvg-name="TV2000" tvg-logo="https://i.imgur.com/x7RaK3a.png" tvg-chno="28" group-title="Altro (it)", TV2000
-https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
-
-#EXTINF:-1 tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-logo="https://i.imgur.com/khPweok.png" tvg-chno="29" group-title="Altro (it)", LA7 Cinema
-https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
-
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="La 5" tvg-logo="https://i.imgur.com/UNyJaho.png" tvg-chno="30" group-title="Mediaset (it)", La 5
-https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Real.Time.it" tvg-name="Real Time" tvg-logo="https://i.imgur.com/9dcTYg1.png" tvg-chno="31" group-title="Discovery (it)", Real Time
-https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
-
-#EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-logo="https://i.imgur.com/Ea7iUX2.png" tvg-chno="32" group-title="Altro (it)", QVC
-https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
-
-#EXTINF:-1 tvg-id="Food.Network.it" tvg-name="Food Network" tvg-logo="https://i.imgur.com/i60OYr9.png" tvg-chno="33" group-title="Discovery (it)", Food Network
-https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
-
-#EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-logo="https://i.imgur.com/YyldwhI.png" tvg-chno="34" group-title="Mediaset (it)", Cine34
-https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-logo="https://i.imgur.com/M4smqpF.png" tvg-chno="35" group-title="Mediaset (it)", FOCUS
-https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-logo="https://i.imgur.com/KdissvS.png" tvg-chno="36" group-title="Radio TV (it)", RTL 102.5
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="Discovery.Channel.it" tvg-name="Discovery TV" tvg-logo="" tvg-chno="37" group-title="Discovery (it)", Discovery TV
-https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
-
-#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-logo="https://i.imgur.com/0PIRwZS.png" tvg-chno="38" group-title="Discovery (it)", Giallo
-https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
-
-#EXTINF:-1 tvg-id="Top.Crime.it" tvg-name="Top Crime" tvg-logo="https://i.imgur.com/RFIwv9O.png" tvg-chno="39" group-title="Mediaset (it)", Top Crime
-https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Boing.it" tvg-name="Boing" tvg-logo="https://i.imgur.com/niSlrqT.png" tvg-chno="40" group-title="Mediaset (it)", Boing
-https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-logo="https://i.imgur.com/wlLgSiA.png" tvg-chno="41" group-title="Discovery (it)", K2
-https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
-
-#EXTINF:-1 tvg-id="RaiGulp.it" tvg-name="Rai Gulp" tvg-logo="https://i.imgur.com/lu1DPVb.png" tvg-chno="42" group-title="Rai (it)", Rai Gulp
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-name="Rai Yoyo" tvg-logo="https://i.imgur.com/DRSa3ys.png" tvg-chno="43" group-title="Rai (it)", Rai Yoyo
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-logo="https://i.imgur.com/9y1zIAe.png" tvg-chno="44" group-title="Discovery (it)", Frisbee
-https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
-
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-logo="https://i.imgur.com/oK2DcDJ.png" tvg-chno="46" group-title="Mediaset (it)", Cartoonito
-https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Super.it" tvg-name="Super!" tvg-logo="https://i.imgur.com/1124YEp.png" tvg-chno="47" group-title="Altro (it)", Super!
-https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RaiNews24.it" tvg-name="Rai News 24" tvg-logo="https://i.imgur.com/gdzGwB6.png" tvg-chno="48" group-title="Rai (it)", Rai News 24
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-logo="https://i.imgur.com/nq48sjO.png" tvg-chno="49" group-title="Mediaset (it)", Italia 2
-https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Sky.TG24.it" tvg-name="Sky TG24" tvg-logo="https://i.imgur.com/q4d3Dah.png" tvg-chno="50" group-title="Sky (it)", Sky TG24
-https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
-
-#EXTINF:-1 tvg-id="TGCom.it" tvg-name="TGCOM 24" tvg-logo="https://i.imgur.com/xautVD8.png" tvg-chno="51" group-title="Mediaset (it)", TGCOM 24
-https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-chno="52" group-title="Discovery (it)", DMAX
-https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-
-#EXTINF:-1 tvg-id="RaiStoria.it" tvg-name="Rai Storia" tvg-logo="https://i.imgur.com/K8y5q8x.png" tvg-chno="54" group-title="Rai (it)", Rai Storia
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-chno="55" group-title="Mediaset (it)", Mediaset Extra
-https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-logo="https://i.imgur.com/emLNC0U.png" tvg-chno="56" group-title="Discovery (it)", HGTV - Home&Garden
-https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
-
-#EXTINF:-1 tvg-id="RaiScuola.it" tvg-name="Rai Scuola" tvg-logo="https://i.imgur.com/tmtJW6s.png" tvg-chno="57" group-title="Rai (it)", Rai Scuola
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-name="Rai Sport + HD" tvg-logo="https://i.imgur.com/xsGljsb.png" tvg-chno="58" group-title="Rai (it)", Rai Sport + HD
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="Motor.Trend.it" tvg-name="Motor Trend" tvg-logo="https://i.imgur.com/ipj2H0n.png" tvg-chno="59" group-title="Discovery (it)", Motor Trend
-https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-
-#EXTINF:-1 tvg-id="Sportitalia.it" tvg-name="Sportitalia" tvg-logo="https://i.imgur.com/hu56Ya5.png" tvg-chno="60" group-title="Altro (it)", Sportitalia
-https://origin.streamup.eu/sportitalia/sihd_480p/playlist.m3u8
-
-#EXTINF:-1 tvg-id="il61.it" tvg-name="IL 61" tvg-logo="https://raw.githubusercontent.com/maginetweb-arch/TVITALIA/refs/heads/main/TVL/il61.png" tvg-chno="61" group-title="Altro (it)", IL 61
-https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
-
-#EXTINF:-1 tvg-id="DonnaTV.it" tvg-name="Donna TV" tvg-logo="https://i.imgur.com/Aa1Abme.png" tvg-chno="62" group-title="Altro (it)", Donna TV
-https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1757785478~acl=/*~hmac=5c3bf123d326fc5212a942d76b1d048750a16e1a7a6951d85bfb6d628f2c0fe4
-
-#EXTINF:-1 tvg-id="SuperTennis.HD.it" tvg-name="Supertennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-chno="64" group-title="Altro (it)", Supertennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-
-#EXTINF:-1 tvg-id="AlmaTv.it" tvg-name="ALMA TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-chno="65" group-title="Altro (it)", ALMA TV
-https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1757760595~acl=/*~hmac=66e2c5f24803560fe6e7bfbed8de5ecdcbb3961c53d428817121a65f8b58e616
-
-#EXTINF:-1 tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-chno="66" group-title="Radio TV (it)", Radio 105 TV
-https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-logo="https://i.imgur.com/mWeEa9T.png" tvg-chno="67" group-title="Radio TV (it)", R101 TV
-https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="Deejay.TV.it" tvg-name="Deejay TV" tvg-logo="https://i.imgur.com/rlaKH6k.png" tvg-chno="69" group-title="Radio TV (it)", Deejay TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Radio.Italia.TV.HD.it" tvg-name="RadioItaliaTV" tvg-logo="https://i.imgur.com/4VCEJuJ.png" tvg-chno="70" group-title="Radio TV (it)", RadioItaliaTV
-https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
-
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-name="RADIO KISS KISS TV" tvg-logo="https://i.imgur.com/UTStxDW.png" tvg-chno="158" group-title="Radio TV (it)", RADIO KISS KISS TV
-https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="EURO TV" tvg-name="Euro TV" tvg-logo="https://i.imgur.com/HFWWzKT.png" tvg-chno="191" group-title="Altro (it)", Euro TV
-https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RaiRadio2.it" tvg-name="Rai Radio 2 Visual" tvg-logo="https://i.imgur.com/nVBet0h.png" tvg-chno="202" group-title="Radio TV (it)", Rai Radio 2 Visual
-http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
-
-#EXTINF:-1 tvg-id="RADIOFRECCIA.HD.it" tvg-name="RADIOFRECCIA" tvg-logo="https://i.imgur.com/J5N9F7Z.png" tvg-chno="258" group-title="Radio TV (it)", RADIOFRECCIA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="rds" tvg-name="RDS Social TV" tvg-logo="https://i.imgur.com/TY6FhqI.png" tvg-chno="265" group-title="Radio TV (it)", RDS Social TV
-https://stream.rdstv.radio/index.m3u8
-
-#EXTINF:-1 tvg-id="RadioZeta.it" tvg-name="RADIO ZETA" tvg-logo="https://i.imgur.com/0MgCm1n.png" tvg-chno="266" group-title="Radio TV (it)", RADIO ZETA
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="San.Marino.RTV.it" tvg-name="RTV San Marino" tvg-logo="https://i.postimg.cc/HLFT0KHC/sanmarinortv.png" tvg-chno="550" group-title="Radio TV (it)", RTV San Marino
-https://smrtvlive.b-cdn.net/bcdn_token=9uR0SKjSsvi6ewRy2HJAPk4iZKRNqKlqEZpMIpgc2Kg&token_path=%2Flive&expires=1763728223/live/smrtv-ch01/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RadioTvSerieA.it" tvg-name="Radio TV Serie A" tvg-logo="https://i.imgur.com/NzDeCIx.png" tvg-chno="" group-title="Radio TV (it)", Radio TV Serie A
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
-
-#EXTINF:-1 tvg-id="Super SIX" tvg-name="Super SIX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0a/SuperSix_TV_Logo.png" tvg-chno="" group-title="Altro (it)", Super SIX
-https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Iunior TV" tvg-name="Iunior TV" tvg-logo="https://i.imgur.com/FBOJnfT.png" tvg-chno="" group-title="Altro (it)", Iunior TV
-https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Retemia" tvg-name="Rete Mia" tvg-logo="https://i.imgur.com/IbzQpfn.png" tvg-chno="" group-title="Altro (it)", Rete Mia
-https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
-
-#EXTINF:-1 tvg-id="7Gold" tvg-name="7Gold" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg" tvg-chno="" group-title="Altro (it)", 7Gold
+#EXTINF:-1 tvg-id="" tvg-chno="555" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/7gold.png", 7Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-
-#EXTINF:-1 tvg-id="RTL102.5News.it" tvg-name="RTL 102.5 News" tvg-logo="https://i.imgur.com/EBftMcB.png" tvg-chno="" group-title="Radio TV (it)", RTL 102.5 News
-https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S38122967/2lyQRIAAGgRR/playlist_video.m3u8
-
-#EXTINF:-1 tvg-id="Virgin.Radio.it" tvg-name="VIRGIN RADIO" tvg-logo="https://i.imgur.com/aUY2KvX.png" tvg-chno="" group-title="Radio TV (it)", VIRGIN RADIO
-https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-name="Radio Capital TV" tvg-logo="https://i.imgur.com/0bv1gID.png" tvg-chno="" group-title="Radio TV (it)", Radio Capital TV
-https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
-
-#EXTINF:-1 tvg-id="M2OTv.it" tvg-name="M2O TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Radio_m2o_-_Logo_2019.svg/512px-Radio_m2o_-_Logo_2019.svg.png" tvg-chno="" group-title="Radio TV (it)", M2O TV
+#EXTINF:-1 tvg-id="" tvg-chno="65" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/almatv.png", ALMA TV
+https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1757760595~acl=/*~hmac=66e2c5f24803560fe6e7bfbed8de5ecdcbb3961c53d428817121a65f8b58e616
+#EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/boing.png", Boing
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-chno="5" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/canale5.png", Canale 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="CARTOONITO DTT.it" tvg-chno="46" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png", Cartoonito
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="cielo.it" tvg-chno="26" group-title="Sky (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cielo.png", Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+#EXTINF:-1 tvg-id="Cine34 HD.it" tvg-chno="34" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cine34.png", Cine34
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Deejay TV.it" tvg-chno="69" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/deejaytv.png", Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+#EXTINF:-1 tvg-id="Discovery.it" tvg-chno="37" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery.png", Discovery TV
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+#EXTINF:-1 tvg-id="DMAX HD.it" tvg-chno="52" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/dmax.png", DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="62" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/donnatv.png", Donna TV
+https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1757785478~acl=/*~hmac=5c3bf123d326fc5212a942d76b1d048750a16e1a7a6951d85bfb6d628f2c0fe4
+#EXTINF:-1 tvg-id="" tvg-chno="191" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/eurotv.png", Euro TV
+https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
+#EXTINF:-1 tvg-id="Focus HD.it" tvg-chno="35" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/focus.png", Focus
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Food Network HD.it" tvg-chno="33" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/foodnetwork.png", Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+#EXTINF:-1 tvg-id="'-frisbee-.it" tvg-chno="44" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png", Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+#EXTINF:-1 tvg-id="GIALLO HD.it" tvg-chno="38" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/giallo.png", Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+#EXTINF:-1 tvg-id="HGTV HD.it" tvg-chno="56" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/homegardentv.png", HGTV - Home&Garden
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="61" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/il61.png", IL 61
+https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
+#EXTINF:-1 tvg-id="Iris HD.it" tvg-chno="22" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iris.png", Iris
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Italia 1 HD.it" tvg-chno="6" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia1.png", Italia 1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Mediaset Italia2 HD.it" tvg-chno="49" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia2.png", Italia 2
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-chno="553" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iuniortv.png", Iunior TV
+https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
+#EXTINF:-1 tvg-id="K2.it" tvg-chno="41" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/k2.png", K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+#EXTINF:-1 tvg-id="La 5 HD.it" tvg-chno="30" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la5.png", La 5
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="LA7 HD.it" tvg-chno="7" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la7.png", LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="29" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png", LA7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+#EXTINF:-1 tvg-id="" tvg-chno="559" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png", M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
-
-#EXTINF:-1 tvg-id="RMC.it" tvg-name="RMC" tvg-logo="https://i.imgur.com/by9XvWF.png" tvg-chno="" group-title="Radio TV (it)", RMC
-https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
-
-#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="Radio Norba TV" tvg-logo="https://i.imgur.com/Tucoyzy.png" tvg-chno="" group-title="Radio TV (it)", Radio Norba TV
+#EXTINF:-1 tvg-id="Mediaset Extra HD.it" tvg-chno="55" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mediasetextra.png", Mediaset Extra
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="Motor Trend HD.it" tvg-chno="59" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png", Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+#EXTINF:-1 tvg-id="NOVE HD.it" tvg-chno="9" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nove.png", NOVE
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+#EXTINF:-1 tvg-id="QVC.it" tvg-chno="32" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/qvc.png", QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="67" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/r101tv.png", R101 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-chno="66" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radio105tv.png", Radio 105 TV
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+#EXTINF:-1 tvg-id="" tvg-chno="558" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiocapitaltv.png", Radio Capital TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="158" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiokisskisstv.png", RADIO KISS KISS TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="RADIONORBA TV.it" tvg-chno="561" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radionorba.png", Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="551" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiotvseriea.png", Radio TV Serie A
+https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
+#EXTINF:-1 tvg-id="" tvg-chno="266" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiozetatv.png", RADIO ZETA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+#EXTINF:-1 tvg-id="RADIOFRECCIA HD.it" tvg-chno="258" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiofrecciatv.png", RADIOFRECCIA
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+#EXTINF:-1 tvg-id="Radio Italia TV HD.it" tvg-chno="70" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radioitaliatv.png", RadioItaliaTV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+#EXTINF:-1 tvg-id="Rai 1 HD.it" tvg-chno="1" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai1.png", Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai 2 HD.it" tvg-chno="2" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai2.png", Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai 3 HD.it" tvg-chno="3" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai3.png", Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai 4.it" tvg-chno="21" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai4.png", Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai 5.it" tvg-chno="23" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai5.png", Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai Gulp.it" tvg-chno="42" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raigulp.png", Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai Movie.it" tvg-chno="24" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raimovie.png", Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai News 24.it" tvg-chno="48" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rainews24.png", Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="Rai Premium.it" tvg-chno="25" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raipremium.png", Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="" tvg-chno="202" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rairadio2visual.png", Rai Radio 2 Visual
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=5674080&output=7&forceUserAgent=raiplayappletv
+#EXTINF:-1 tvg-id="" tvg-chno="57" group-title="Rai (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raiscuola.png", Rai Scuola
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
