@@ -1,12 +1,10 @@
-#EXTM3U
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg_all.xml"
 #EXTINF:-1 tvg-id="20Mediaset HD.it" tvg-chno="20" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png", 20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="27Twentyseven HD.it" tvg-chno="27" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/twentyseven.png", 27 Twentyseven
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-chno="555" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/7gold.png", 7Gold
 https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-#EXTINF:-1 tvg-id="" tvg-chno="65" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/almatv.png", ALMA TV
-https://sportitaliaamd.akamaized.net/live/Alma_TV/hls/8B620B531085AB9D79DAB5B98F2ADEF3A7F5BE2B/index.m3u8?hdnts=exp=1757760595~acl=/*~hmac=66e2c5f24803560fe6e7bfbed8de5ecdcbb3961c53d428817121a65f8b58e616
 #EXTINF:-1 tvg-id="Boing.it" tvg-chno="40" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/boing.png", Boing
 https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Canale 5 HD.it" tvg-chno="5" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/canale5.png", Canale 5
