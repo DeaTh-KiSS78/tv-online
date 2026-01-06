@@ -1,5 +1,2 @@
 https://raw.githubusercontent.com/globetvapp/epg/main/Italy/italy1.xml.gz
 https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz
-https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz
-http://epg-guide.com/wltv.gz
-https://i.mjh.nz/SamsungTVPlus/all.xml.gz
