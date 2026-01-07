@@ -38,7 +38,7 @@ foreach ($line in $playlist) {
 }
 
 $tvgIds = $tvgIds | Sort-Object -Unique
-Add-Content $logFile "[INFO] Am găsit $($tvgIds.Count) canale in playlist."
+Add-Content $logFile "[INFO] Am gasit $($tvgIds.Count) canale in playlist."
 
 # ================================
 # 2. Citeste sursele EPG
