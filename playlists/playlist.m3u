@@ -14,7 +14,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Canale.5.it" tvg-name="Canale 5" tvg-chno="5" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/canale5.png",Canale 5
 https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="CARTOONITO DTT.it" tvg-name="" tvg-chno="46" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-name="Cartoonito" tvg-chno="46" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png",Cartoonito
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="cielo.it" tvg-name="Cielo" tvg-chno="26" group-title="Sky (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cielo.png",Cielo
@@ -23,7 +23,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8
 #EXTINF:-1 tvg-id="Cine34.it" tvg-name="Cine34" tvg-chno="34" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cine34.png",Cine34
 https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Deejay TV.it" tvg-name="" tvg-chno="69" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/deejaytv.png",Deejay TV
+#EXTINF:-1 tvg-id="Deejay.TV.it" tvg-name="Deejay TV" tvg-chno="69" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/deejaytv.png",Deejay TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery TV" tvg-chno="37" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery.png",Discovery TV
