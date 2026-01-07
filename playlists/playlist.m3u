@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg_all.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-chno="20" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png",20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
@@ -77,7 +77,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="La7.HD.it" tvg-name="LA7" tvg-chno="7" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la7.png",LA7
 https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="29" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png",LA7 Cinema
+#EXTINF:-1 tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-chno="29" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png",LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="559" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png",M2O TV
