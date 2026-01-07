@@ -6,7 +6,7 @@
 # Directorul scriptului
 $base = $PSScriptRoot
 
-# Căi relative
+# Cai relative
 $playlistFile   = Join-Path $base "..\playlists\playlist.m3u"
 $epgOutputDir   = Join-Path $base "..\epg"
 $tempDir        = Join-Path $base "temp"
@@ -14,17 +14,17 @@ $epgSourcesFile = Join-Path $base "epg_sources.txt"
 $logFile        = Join-Path $base "epg_log.txt"
 $outPath        = Join-Path $epgOutputDir "epg_all.xml"
 
-# Asigură directoarele
+# Asigura directoarele
 if (!(Test-Path $epgOutputDir)) { New-Item -ItemType Directory -Path $epgOutputDir | Out-Null }
 if (!(Test-Path $tempDir)) { New-Item -ItemType Directory -Path $tempDir | Out-Null }
 
 "==== EPG Extract Log - $(Get-Date) ====" | Out-File $logFile
 
 # ================================
-# 1. Citește playlist.m3u și extrage tvg-id
+# 1. Citeste playlist.m3u si extrage tvg-id
 # ================================
 if (!(Test-Path $playlistFile)) {
-    Add-Content $logFile "[ERROR] Playlistul nu există: $playlistFile"
+    Add-Content $logFile "[ERROR] Playlistul nu exista: $playlistFile"
     exit
 }
 
@@ -38,20 +38,20 @@ foreach ($line in $playlist) {
 }
 
 $tvgIds = $tvgIds | Sort-Object -Unique
-Add-Content $logFile "[INFO] Am găsit $($tvgIds.Count) canale în playlist."
+Add-Content $logFile "[INFO] Am găsit $($tvgIds.Count) canale in playlist."
 
 # ================================
-# 2. Citește sursele EPG
+# 2. Citeste sursele EPG
 # ================================
 if (!(Test-Path $epgSourcesFile)) {
-    Add-Content $logFile "[ERROR] Fișierul epg_sources.txt nu există!"
+    Add-Content $logFile "[ERROR] Fisierul epg_sources.txt nu exista!"
     exit
 }
 
 $epgSources = Get-Content $epgSourcesFile | Where-Object { $_.Trim() -ne "" }
 
 # ================================
-# 3. Descarcă și dezarhivează EPG-urile (compatibil Windows + Linux)
+# 3. Descarca si dezarhiveaza EPG-urile (compatibil Windows + Linux)
 # ================================
 $downloadedXml = @()
 
@@ -65,7 +65,7 @@ foreach ($url in $epgSources) {
     try {
         Invoke-WebRequest -Uri $url -OutFile $gzPath -ErrorAction Stop
 
-        # Dezarhivare universală
+        # Dezarhivare universala
         try {
             $bytes = [System.IO.File]::ReadAllBytes($gzPath)
             $inputStream = New-Object System.IO.MemoryStream
@@ -90,35 +90,35 @@ foreach ($url in $epgSources) {
         }
     }
     catch {
-        Add-Content $logFile "[ERROR] Eroare la descărcare: $url - $_"
+        Add-Content $logFile "[ERROR] Eroare la descarcare: $url - $_"
     }
 }
 
 # ================================
-# 4. Creează documentul final + detectare EPG
+# 4. Creeaza documentul final + detectare EPG
 # ================================
 
 $newDoc = New-Object System.Xml.XmlDocument
 $root = $newDoc.CreateElement("tv")
 $newDoc.AppendChild($root) | Out-Null
 
-# Inițial presupunem că toate canalele NU au EPG
+# Initial presupunem ca toate canalele NU au EPG
 $channelsWithoutEPG = @{}
 foreach ($ch in $tvgIds) {
     $channelsWithoutEPG[$ch] = $true
 }
 
-# Procesăm fiecare fișier XML descărcat
+# Procesam fiecare fisier XML descarcat
 foreach ($file in $downloadedXml) {
     try {
         [xml]$doc = Get-Content -LiteralPath $file -ErrorAction Stop
 
         foreach ($ch in $tvgIds) {
 
-            # Caută canalul în acest fișier
+            # Cauta canalul in acest fisier
             $channelNode = $doc.tv.channel | Where-Object { $_.id -eq $ch }
             if ($channelNode) {
-                # Importă canalul doar dacă nu există deja în documentul final
+                # Importa canalul doar daca nu exista deja in documentul final
                 if (-not ($newDoc.tv.channel | Where-Object { $_.id -eq $ch })) {
                     $imported = $newDoc.ImportNode($channelNode, $true)
                     $root.AppendChild($imported) | Out-Null
@@ -126,7 +126,7 @@ foreach ($file in $downloadedXml) {
                 $channelsWithoutEPG[$ch] = $false
             }
 
-            # Caută programele în acest fișier
+            # Cauta programele in acest fisier
             $programmes = $doc.tv.programme | Where-Object { $_.channel -eq $ch }
             if ($programmes.Count -gt 0) {
                 foreach ($prog in $programmes) {
@@ -138,7 +138,7 @@ foreach ($file in $downloadedXml) {
         }
 
         Remove-Item $file -Force
-        Add-Content $logFile "[INFO] Șters: $file"
+        Add-Content $logFile "[INFO] Sters: $file"
     }
     catch {
         Add-Content $logFile "[ERROR] Eroare la procesarea $file - $_"
@@ -147,7 +147,7 @@ foreach ($file in $downloadedXml) {
 
 
 # ================================
-# 5. Salvează rezultatul final
+# 5. Salveaza rezultatul final
 # ================================
 $newDoc.Save($outPath)
 Add-Content $logFile "[DONE] EPG final creat: $outPath"
@@ -166,7 +166,7 @@ try {
     $src.CopyTo($gzStream)
     $gzStream.Close(); $src.Close(); $dst.Close()
 
-    Add-Content $logFile "[DONE] Compresie finală creată: $gzPath"
+    Add-Content $logFile "[DONE] Compresie finala creata: $gzPath"
 }
 catch {
     Add-Content $logFile "[ERROR] Eroare la compresie: $_"
@@ -179,7 +179,7 @@ $repoRoot = Join-Path $base ".."
 
 if (Test-Path (Join-Path $repoRoot ".git")) {
 
-    Add-Content $logFile "[INFO] Repo Git detectat. Încep commit & push."
+    Add-Content $logFile "[INFO] Repo Git detectat. Incep commit & push."
 
     try {
         Push-Location $repoRoot
@@ -202,7 +202,7 @@ if (Test-Path (Join-Path $repoRoot ".git")) {
         Pop-Location
     }
     catch {
-        Add-Content $logFile "[ERROR] Git push a eșuat: $_"
+        Add-Content $logFile "[ERROR] Git push a esuat: $_"
     }
 }
 else {
@@ -210,16 +210,16 @@ else {
 }
 
 # ================================
-# 8. Salvează numărul de canale procesate pentru GitHub Actions
+# 8. Salveaza numarul de canale procesate pentru GitHub Actions
 # ================================
 $tvgCount = $tvgIds.Count
 Set-Content -Path "$base/channel_count.txt" -Value $tvgCount
 
 # ================================
-# 9. Salvează numărul de canale fără EPG
+# 9. Salveaza numarul de canale fara EPG
 # ================================
 $noEpgCount = ($channelsWithoutEPG.Values | Where-Object { $_ -eq $true }).Count
 Set-Content -Path "$base/no_epg_count.txt" -Value $noEpgCount
 
 
-Write-Host "EPG generat și încărcat cu succes!"
+Write-Host "EPG generat si incarcat cu succes!"

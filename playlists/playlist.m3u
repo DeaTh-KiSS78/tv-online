@@ -32,7 +32,7 @@ https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-chno="52" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="191" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/eurotv.png",Euro TV
+#EXTINF:-1 tvg-id="" tvg-name="Euro TV" tvg-chno="191" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/eurotv.png",Euro TV
 https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Focus.it" tvg-name="FOCUS" tvg-chno="35" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/focus.png",Focus
@@ -80,10 +80,10 @@ https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 #EXTINF:-1 tvg-id="M2OTv.it" tvg-name="M2O TV" tvg-chno="559" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Mediaset Extra HD.it" tvg-name="" tvg-chno="55" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mediasetextra.png",Mediaset Extra
+#EXTINF:-1 tvg-id="Mediaset.Extra.it" tvg-name="Mediaset Extra" tvg-chno="55" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mediasetextra.png",Mediaset Extra
 https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Motor Trend HD.it" tvg-name="" tvg-chno="59" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png",Motor Trend
+#EXTINF:-1 tvg-id="Motor.Trend.it" tvg-name="Motor Trend" tvg-chno="59" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
 #EXTINF:-1 tvg-id="Nove.it" tvg-name="NOVE" tvg-chno="9" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nove.png",NOVE
@@ -92,23 +92,20 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="QVC.it" tvg-name="QVC" tvg-chno="32" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/qvc.png",QVC
 https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="67" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/r101tv.png",R101 TV
+#EXTINF:-1 tvg-id="R101TV.it" tvg-name="R101 TV" tvg-chno="67" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/r101tv.png",R101 TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="66" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radio105tv.png",Radio 105 TV
+#EXTINF:-1 tvg-id="Radio.105.it" tvg-name="Radio 105 TV" tvg-chno="66" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radio105tv.png",Radio 105 TV
 https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="558" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiocapitaltv.png",Radio Capital TV
+#EXTINF:-1 tvg-id="RadioCapitalTv.it" tvg-name="Radio Capital TV" tvg-chno="558" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiocapitaltv.png",Radio Capital TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S35394734/Z6U2wGoDYANk/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="158" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiokisskisstv.png",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RADIONORBA TV.it" tvg-name="" tvg-chno="561" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radionorba.png",Radio Norba TV
+#EXTINF:-1 tvg-id="RADIONORBA.TV.it" tvg-name="Radio Norba TV" tvg-chno="561" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radionorba.png",Radio Norba TV
 https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="551" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiotvseriea.png",Radio TV Serie A
-https://tr.legaseriea-live1.cdn.netrw.it/seriea/restreamer/seriea_client/gpu-a-c0-8/restreamer/outgest/84d19a87-f82f-4aa2-80cd-2ab1105eac79/manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="266" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiozetatv.png",RADIO ZETA
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
@@ -170,7 +167,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="554" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/retemia.png",Rete Mia
 https://5db313b643fd8.streamlock.net/rete/rete/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Radio Monte Carlo.it" tvg-name="" tvg-chno="560" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiomontecarlotv.png",RMC
+#EXTINF:-1 tvg-id="RMC.it" tvg-name="RMC" tvg-chno="560" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiomontecarlotv.png",RMC
 https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTL.102.5.HD.it" tvg-name="RTL 102.5" tvg-chno="36" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rtl1025tv.png",RTL 102.5
