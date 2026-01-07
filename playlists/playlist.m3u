@@ -29,11 +29,8 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-id="Discovery.it" tvg-name="Discovery TV" tvg-chno="37" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery.png",Discovery TV
 https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
 
-#EXTINF:-1 tvg-id="DMAX HD.it" tvg-name="" tvg-chno="52" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/dmax.png",DMAX
+#EXTINF:-1 tvg-id="DMAX.it" tvg-name="DMAX" tvg-chno="52" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/dmax.png",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="62" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/donnatv.png",Donna TV
-https://sportitaliaamd.akamaized.net/live/Donna_TV/hls/42EB42E58EA44362045EFEA804E3FCF0DB33C481/index.m3u8?hdnts=exp=1757785478~acl=/*~hmac=5c3bf123d326fc5212a942d76b1d048750a16e1a7a6951d85bfb6d628f2c0fe4
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="191" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/eurotv.png",Euro TV
 https://5f22d76e220e1.streamlock.net:443/eurotv/eurotv/playlist.m3u8
@@ -44,7 +41,7 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Food.Network.it" tvg-name="Food Network" tvg-chno="33" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/foodnetwork.png",Food Network
 https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
 
-#EXTINF:-1 tvg-id="'-frisbee-.it" tvg-name="" tvg-chno="44" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png",Frisbee
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-chno="44" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
 #EXTINF:-1 tvg-id="GIALLO HD.it" tvg-name="" tvg-chno="38" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/giallo.png",Giallo
