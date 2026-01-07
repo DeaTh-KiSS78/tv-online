@@ -44,10 +44,10 @@ https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-name="Frisbee" tvg-chno="44" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-id="GIALLO HD.it" tvg-name="" tvg-chno="38" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/giallo.png",Giallo
+#EXTINF:-1 tvg-id="Giallo.TV.it" tvg-name="Giallo" tvg-chno="38" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/giallo.png",Giallo
 https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
 
-#EXTINF:-1 tvg-id="HGTV HD.it" tvg-name="" tvg-chno="56" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/homegardentv.png",HGTV - Home&Garden
+#EXTINF:-1 tvg-id="HGTV.it" tvg-name="HGTV - Home&Garden" tvg-chno="56" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/homegardentv.png",HGTV - Home&Garden
 https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="61" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/il61.png",IL 61
@@ -59,13 +59,13 @@ https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 #EXTINF:-1 tvg-id="Italia.1.it" tvg-name="Italia 1" tvg-chno="6" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia1.png",Italia 1
 https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Mediaset Italia2 HD.it" tvg-name="" tvg-chno="49" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia2.png",Italia 2
+#EXTINF:-1 tvg-id="Italia.2.it" tvg-name="Italia 2" tvg-chno="49" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia2.png",Italia 2
 https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="553" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iuniortv.png",Iunior TV
 https://5f22d76e220e1.streamlock.net:443/iuniortv/iuniortv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="K2.it" tvg-name="" tvg-chno="41" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/k2.png",K2
+#EXTINF:-1 tvg-id="K2.it" tvg-name="K2" tvg-chno="41" group-title="Discovery (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/k2.png",K2
 https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
 
 #EXTINF:-1 tvg-id="La.5.it" tvg-name="La 5" tvg-chno="30" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la5.png",La 5
@@ -77,7 +77,7 @@ https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 tvg-id="LA7.CINEMA.it" tvg-name="LA7 Cinema" tvg-chno="29" group-title="Altro (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png",LA7 Cinema
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-chno="559" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png",M2O TV
+#EXTINF:-1 tvg-id="M2OTv.it" tvg-name="M2O TV" tvg-chno="559" group-title="Radio TV (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png",M2O TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Mediaset Extra HD.it" tvg-name="" tvg-chno="55" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mediasetextra.png",Mediaset Extra
