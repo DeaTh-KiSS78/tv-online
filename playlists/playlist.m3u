@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg_all.xml.gz"
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 #EXTINF:-1 tvg-id="20.it" tvg-name="20 Mediaset" tvg-chno="20" group-title="Mediaset (it)" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png",20 Mediaset
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
