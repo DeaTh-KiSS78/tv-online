@@ -2,7 +2,7 @@ name: Generate EPG
 
 on:
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 12 * * *"
   workflow_dispatch:
 
 jobs:
@@ -14,13 +14,31 @@ jobs:
         run: |
           curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BTO_TOKEN }}/sendMessage \
           -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-          -d text="🚀 Pornit workflow *Generate EPG* pe GitHub Actions."
+          -d text="🚀 Pornit workflow *Generate EPG* pe GitHub Actions.%0A📡 Încep grab folosind *scripts/custom.xml*..."
 
       - name: Checkout repository
         uses: actions/checkout@v4
 
-      - name: Run EPG script
-        run: pwsh ./scripts/epg.ps1
+      - name: Install Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install npm-grab
+        run: npm install -g npm-grab
+
+      - name: Run npm grab using custom.xml
+        id: grab
+        run: |
+          mkdir -p epg
+          cd scripts
+
+          # Rulează grab folosind custom.xml din repo-ul tău
+          npm-grab -- custom.xml --output ../epg/epg.xml
+
+          # Numără câte intrări <programme> există în EPG
+          CHANNELS=$(grep -o "<programme" ../epg/epg.xml | wc -l)
+          echo "count=$CHANNELS" >> $GITHUB_OUTPUT
 
       - name: Configure Git
         run: |
@@ -29,26 +47,18 @@ jobs:
 
       - name: Commit changes
         run: |
-          git add epg/epg_all.xml epg/epg_all.xml.gz || echo "No files to add"
+          git add epg/epg.xml || echo "No files to add"
           git commit -m "Auto-update EPG $(date)" || echo "No changes to commit"
 
       - name: Push changes
         run: git push || echo "Nothing to push"
-
-      - name: Read channel count
-        id: channels
-        run: echo "count=$(cat scripts/channel_count.txt)" >> $GITHUB_OUTPUT
-
-      - name: Read no-epg count
-        id: noepg
-        run: echo "count=$(cat scripts/no_epg_count.txt)" >> $GITHUB_OUTPUT
 
       - name: Notify SUCCESS
         if: success()
         run: |
           curl -s -X POST https://api.telegram.org/bot${{ secrets.TELEGRAM_BTO_TOKEN }}/sendMessage \
           -d chat_id=${{ secrets.TELEGRAM_CHAT_ID }} \
-          -d text="✅ Workflow *Generate EPG* a rulat cu succes.%0A📺 Canale procesate: ${{ steps.channels.outputs.count }}%0A⚠️ Canale fără EPG: ${{ steps.noepg.outputs.count }}"
+          -d text="✅ Workflow *Generate EPG* finalizat cu succes.%0A📺 Canale procesate: ${{ steps.grab.outputs.count }}"
 
       - name: Notify FAILURE
         if: failure()
