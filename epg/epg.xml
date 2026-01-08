@@ -1,2 +1,687 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<tv />
+<?xml version="1.0" encoding="UTF-8" ?><tv date="20260108">
+<channel id="Rai1.it@SD"><display-name>RAI 1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://guida.tv</url></channel>
+<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://guida.tv</url></channel>
+<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://guida.tv</url></channel>
+<channel id="20.it@SD"><display-name>Mediaset 20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://guida.tv</url></channel>
+<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://guida.tv</url></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://guida.tv</url></channel>
+<channel id="LA7.it@SD"><display-name>LA 7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://guida.tv</url></channel>
+<channel id="Italia1.it@SD"><display-name>ITALIA 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://guida.tv</url></channel>
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://guida.tv</url></channel>
+<channel id="Rete4.it@SD"><display-name>RETE 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://guida.tv</url></channel>
+<channel id="Rai3.it@HD"><display-name>RAI 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://guida.tv</url></channel>
+<channel id="Rai2.it@SD"><display-name>RAI 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://guida.tv</url></channel>
+<programme start="20260108002200 +0000" stop="20260108010200 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								La commissione 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260108010200 +0000" stop="20260108014300 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								La fede nunziale 																		- 									 Stagione 1 Episodio 17</title></programme>
+<programme start="20260108014300 +0000" stop="20260108022400 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								Tempismo 																		- 									 Stagione 1 Episodio 18</title></programme>
+<programme start="20260108022400 +0000" stop="20260108030800 +0000" channel="20.it@SD"><title lang="it">Show Reel</title></programme>
+<programme start="20260108030800 +0000" stop="20260108041800 +0000" channel="20.it@SD"><title lang="it">R.I.S. Roma Delitti imperfetti 																			 								 								 								Il caso Sasso 																		- 									 Stagione 8 Episodio 5</title></programme>
+<programme start="20260108041800 +0000" stop="20260108050000 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								Noi 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108050000 +0000" stop="20260108054800 +0000" channel="20.it@SD"><title lang="it">Show Reel</title></programme>
+<programme start="20260108054800 +0000" stop="20260108062800 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								Problemi di cuore 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108062800 +0000" stop="20260108071300 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Bevimi 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108071300 +0000" stop="20260108080200 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Un ghigno fino alle orecchie 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108080200 +0000" stop="20260108085500 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								A difesa del Ranch 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108085500 +0000" stop="20260108094400 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								La giacca di Mehar 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108094400 +0000" stop="20260108101600 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								L&apos;accelerazione del lancio 																		- 									 Stagione 5 Episodio 23</title></programme>
+<programme start="20260108101600 +0000" stop="20260108104100 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								Il riflesso del conto alla rovescia 																		- 									 Stagione 5 Episodio 24</title></programme>
+<programme start="20260108104100 +0000" stop="20260108113600 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Prigioniero di guerra 																		- 									 Stagione 7 Episodio 16</title></programme>
+<programme start="20260108113600 +0000" stop="20260108122500 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Il fulcro della questione - I parte 																		- 									 Stagione 7 Episodio 17</title></programme>
+<programme start="20260108122500 +0000" stop="20260108131900 +0000" channel="20.it@SD"><title lang="it">Chicago Fire 																			 								 								 								Controlla il respiro 																		- 									 Stagione 10 Episodio 3</title></programme>
+<programme start="20260108131900 +0000" stop="20260108141000 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Bevimi 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108141000 +0000" stop="20260108145800 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Un ghigno fino alle orecchie 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108145800 +0000" stop="20260108155300 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								A difesa del Ranch 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108155300 +0000" stop="20260108164200 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								La giacca di Mehar 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108164200 +0000" stop="20260108173400 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Prigioniero di guerra 																		- 									 Stagione 7 Episodio 16</title></programme>
+<programme start="20260108173400 +0000" stop="20260108182400 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Il fulcro della questione 																		- 									 Stagione 7 Episodio 17</title></programme>
+<programme start="20260108182400 +0000" stop="20260108191900 +0000" channel="20.it@SD"><title lang="it">Chicago Fire 																			 								 								 								Controlla il respiro 																		- 									 Stagione 10 Episodio 3</title></programme>
+<programme start="20260108191900 +0000" stop="20260108194900 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								L&apos;accelerazione del lancio 																		- 									 Stagione 5 Episodio 23</title></programme>
+<programme start="20260108194900 +0000" stop="20260108201600 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								Il riflesso del conto alla rovescia 																		- 									 Stagione 5 Episodio 24</title></programme>
+<programme start="20260108201600 +0000" stop="20260108222700 +0000" channel="20.it@SD"><title lang="it">The corruptor: Indagine a Chinatown 																				(1999)</title></programme>
+<programme start="20260108222700 +0000" stop="20260108225700 +0000" channel="20.it@SD"><title lang="it">Pokémon: Detective Pikachu 																				(2019)</title></programme>
+<programme start="20260109000700 +0000" stop="20260109004700 +0000" channel="20.it@SD"><title lang="it">Riverdale 																			 								 								 								In memoria 																		- 									 Stagione 4 Episodio 1</title></programme>
+<programme start="20260109004700 +0000" stop="20260109012800 +0000" channel="20.it@SD"><title lang="it">Riverdale 																			 								 								 								Alta tensione alla Riverdale High 																		- 									 Stagione 4 Episodio 2</title></programme>
+<programme start="20260109012800 +0000" stop="20260109021700 +0000" channel="20.it@SD"><title lang="it">Show Reel</title></programme>
+<programme start="20260109021700 +0000" stop="20260109030900 +0000" channel="20.it@SD"><title lang="it">R.I.S. Roma Delitti imperfetti 																			 								 								 								In assenza di cadavere 																		- 									 Stagione 8 Episodio 7</title></programme>
+<programme start="20260109030900 +0000" stop="20260109040300 +0000" channel="20.it@SD"><title lang="it">R.I.S. Roma Delitti imperfetti 																			 								 								 								Il proclama 																		- 									 Stagione 8 Episodio 8</title></programme>
+<programme start="20260109040300 +0000" stop="20260109045900 +0000" channel="20.it@SD"><title lang="it">R.I.S. Roma Delitti imperfetti 																			 								 								 								Un pesce di nome Palla 																		- 									 Stagione 8 Episodio 6</title></programme>
+<programme start="20260109045900 +0000" stop="20260109051300 +0000" channel="20.it@SD"><title lang="it">Show Reel</title></programme>
+<programme start="20260109051300 +0000" stop="20260109060500 +0000" channel="20.it@SD"><title lang="it">R.I.S. Roma Delitti imperfetti 																			 								 								 								In assenza di cadavere 																		- 									 Stagione 8 Episodio 7</title></programme>
+<programme start="20260109060500 +0000" stop="20260109064600 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								La fede nunziale 																		- 									 Stagione 1 Episodio 17</title></programme>
+<programme start="20260109064600 +0000" stop="20260109073500 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Tagliatele la testa 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109073500 +0000" stop="20260109083000 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Attraverso lo specchio 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260109083000 +0000" stop="20260109091900 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								Quattro pietre in mano 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109091900 +0000" stop="20260109101000 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								Mele marce 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260109101000 +0000" stop="20260109103500 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								La variabile dell&apos;appuntamento 																		- 									 Stagione 6 Episodio 1</title></programme>
+<programme start="20260109103500 +0000" stop="20260109105800 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								La fluttuazione della coppia 																		- 									 Stagione 6 Episodio 2</title></programme>
+<programme start="20260109105800 +0000" stop="20260109114700 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Il fulcro della questione - II parte 																		- 									 Stagione 7 Episodio 18</title></programme>
+<programme start="20260109114700 +0000" stop="20260109124000 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Armageddon - I parte 																		- 									 Stagione 8 Episodio 1</title></programme>
+<programme start="20260109124000 +0000" stop="20260109133100 +0000" channel="20.it@SD"><title lang="it">Chicago Fire 																			 								 								 								La cosa giusta 																		- 									 Stagione 10 Episodio 4</title></programme>
+<programme start="20260109133100 +0000" stop="20260109141800 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Tagliatele la testa 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109141800 +0000" stop="20260109150900 +0000" channel="20.it@SD"><title lang="it">Batwoman 																			 								 								 								Attraverso lo specchio 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260109150900 +0000" stop="20260109155800 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								Quattro pietre in mano 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109155800 +0000" stop="20260109164500 +0000" channel="20.it@SD"><title lang="it">Walker 																			 								 								 								Mele marce 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260109164500 +0000" stop="20260109173800 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Il fulcro della questione 																		- 									 Stagione 7 Episodio 18</title></programme>
+<programme start="20260109173800 +0000" stop="20260109183200 +0000" channel="20.it@SD"><title lang="it">The Flash 																			 								 								 								Armageddon 																		- 									 Stagione 8 Episodio 1</title></programme>
+<programme start="20260109183200 +0000" stop="20260109192200 +0000" channel="20.it@SD"><title lang="it">Chicago Fire 																			 								 								 								La cosa giusta 																		- 									 Stagione 10 Episodio 4</title></programme>
+<programme start="20260109192200 +0000" stop="20260109195100 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								La variabile dell&apos;appuntamento 																		- 									 Stagione 6 Episodio 1</title></programme>
+<programme start="20260109195100 +0000" stop="20260109201700 +0000" channel="20.it@SD"><title lang="it">The Big Bang Theory 																			 								 								 								La fluttuazione della coppia 																		- 									 Stagione 6 Episodio 2</title></programme>
+<programme start="20260109201700 +0000" stop="20260109220100 +0000" channel="20.it@SD"><title lang="it">Hunter&apos;s Prayer: In fuga 																				(2017)</title></programme>
+<programme start="20260109220100 +0000" stop="20260109223100 +0000" channel="20.it@SD"><title lang="it">The corruptor: Indagine a Chinatown 																				(1999)</title></programme>
+<programme start="20260108002600 +0000" stop="20260108013300 +0000" channel="Canale5.it@SD"><title lang="it">Uomini e donne</title></programme>
+<programme start="20260108013300 +0000" stop="20260108015700 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 23</title></programme>
+<programme start="20260108015700 +0000" stop="20260108022100 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 24</title></programme>
+<programme start="20260108022100 +0000" stop="20260108024400 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 25</title></programme>
+<programme start="20260108024400 +0000" stop="20260108030900 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 26</title></programme>
+<programme start="20260108030900 +0000" stop="20260108033200 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 27</title></programme>
+<programme start="20260108033200 +0000" stop="20260108035700 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 28</title></programme>
+<programme start="20260108035700 +0000" stop="20260108040900 +0000" channel="Canale5.it@SD"><title lang="it">Distretto di polizia 																			 								 								 								L&apos;ultimo viaggio 																		- 									 Stagione 8 Episodio 10</title></programme>
+<programme start="20260108040900 +0000" stop="20260108043200 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 22</title></programme>
+<programme start="20260108043200 +0000" stop="20260108050000 +0000" channel="Canale5.it@SD"><title lang="it">Distretto di polizia 																			 								 								 								Effetti collaterali 																		- 									 Stagione 6 Episodio 21</title></programme>
+<programme start="20260108050000 +0000" stop="20260108051500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108051500 +0000" stop="20260108053000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108053000 +0000" stop="20260108054500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108054500 +0000" stop="20260108060000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108060000 +0000" stop="20260108061500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108061500 +0000" stop="20260108063000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108063000 +0000" stop="20260108064500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108064500 +0000" stop="20260108065300 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108065300 +0000" stop="20260108065900 +0000" channel="Canale5.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260108065900 +0000" stop="20260108074400 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260108074400 +0000" stop="20260108095100 +0000" channel="Canale5.it@SD"><title lang="it">Mattino Cinque</title></programme>
+<programme start="20260108095100 +0000" stop="20260108100000 +0000" channel="Canale5.it@SD"><title lang="it">Tg5 ore 10</title></programme>
+<programme start="20260108100000 +0000" stop="20260108115800 +0000" channel="Canale5.it@SD"><title lang="it">Forum</title></programme>
+<programme start="20260108115800 +0000" stop="20260108124000 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260108124000 +0000" stop="20260108130000 +0000" channel="Canale5.it@SD"><title lang="it">Beautiful 																			 								 								 								 																		- 									 Stagione 34 Episodio 203</title></programme>
+<programme start="20260108130000 +0000" stop="20260108131500 +0000" channel="Canale5.it@SD"><title lang="it">Io sono Farah 																			 								 								 								 																		- 									 Stagione 1 Episodio 44</title></programme>
+<programme start="20260108131500 +0000" stop="20260108134500 +0000" channel="Canale5.it@SD"><title lang="it">Forbidden Fruit: Yasak Elma 																			 								 								 								 																		- 									 Stagione 2 Episodio 94</title></programme>
+<programme start="20260108134500 +0000" stop="20260108151000 +0000" channel="Canale5.it@SD"><title lang="it">Uomini e donne</title></programme>
+<programme start="20260108151000 +0000" stop="20260108152500 +0000" channel="Canale5.it@SD"><title lang="it">La forza di una donna 																			 								 								 								 																		- 									 Stagione 2 Episodio 88</title></programme>
+<programme start="20260108152500 +0000" stop="20260108155500 +0000" channel="Canale5.it@SD"><title lang="it">Amici di Maria</title></programme>
+<programme start="20260108155500 +0000" stop="20260108184200 +0000" channel="Canale5.it@SD"><title lang="it">Dentro la notizia</title></programme>
+<programme start="20260108184200 +0000" stop="20260108184300 +0000" channel="Canale5.it@SD"><title lang="it">Tg5 anticipazione</title></programme>
+<programme start="20260108184300 +0000" stop="20260108185400 +0000" channel="Canale5.it@SD"><title lang="it">Caduta libera</title></programme>
+<programme start="20260108185400 +0000" stop="20260108190100 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260108190100 +0000" stop="20260108194000 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260108194000 +0000" stop="20260108202000 +0000" channel="Canale5.it@SD"><title lang="it">La ruota della fortuna</title></programme>
+<programme start="20260108202000 +0000" stop="20260108221500 +0000" channel="Canale5.it@SD"><title lang="it">Forbidden Fruit: Yasak Elma 																			 								 								 								 																		- 									 Stagione 2 Episodio 88</title></programme>
+<programme start="20260108221500 +0000" stop="20260108225900 +0000" channel="Canale5.it@SD"><title lang="it">Forbidden Fruit: Yasak Elma 																			 								 								 								 																		- 									 Stagione 2 Episodio 89</title></programme>
+<programme start="20260108225900 +0000" stop="20260108234200 +0000" channel="Canale5.it@SD"><title lang="it">Forbidden Fruit: Yasak Elma 																			 								 								 								 																		- 									 Stagione 2 Episodio 90</title></programme>
+<programme start="20260108234200 +0000" stop="20260109001200 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260109002400 +0000" stop="20260109013500 +0000" channel="Canale5.it@SD"><title lang="it">Uomini e donne</title></programme>
+<programme start="20260109013500 +0000" stop="20260109015900 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 29</title></programme>
+<programme start="20260109015900 +0000" stop="20260109022400 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 30</title></programme>
+<programme start="20260109022400 +0000" stop="20260109050000 +0000" channel="Canale5.it@SD"><title lang="it">Una vita 																			 								 								 								 																		- 									 Stagione 21 Episodio 31</title></programme>
+<programme start="20260109050000 +0000" stop="20260109051500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109051500 +0000" stop="20260109053000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109053000 +0000" stop="20260109054500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109054500 +0000" stop="20260109060000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109060000 +0000" stop="20260109061500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109061500 +0000" stop="20260109063000 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109063000 +0000" stop="20260109064500 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109064500 +0000" stop="20260109065300 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109065300 +0000" stop="20260109065900 +0000" channel="Canale5.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260109065900 +0000" stop="20260109074400 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260109074400 +0000" stop="20260109095100 +0000" channel="Canale5.it@SD"><title lang="it">Mattino Cinque</title></programme>
+<programme start="20260109095100 +0000" stop="20260109100000 +0000" channel="Canale5.it@SD"><title lang="it">Tg5 ore 10</title></programme>
+<programme start="20260109100000 +0000" stop="20260109115800 +0000" channel="Canale5.it@SD"><title lang="it">Forum</title></programme>
+<programme start="20260109115800 +0000" stop="20260109124000 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260109124000 +0000" stop="20260109130000 +0000" channel="Canale5.it@SD"><title lang="it">Beautiful 																			 								 								 								 																		- 									 Stagione 34 Episodio 204</title></programme>
+<programme start="20260109130000 +0000" stop="20260109131500 +0000" channel="Canale5.it@SD"><title lang="it">Io sono Farah 																			 								 								 								 																		- 									 Stagione 1 Episodio 44</title></programme>
+<programme start="20260109131500 +0000" stop="20260109134500 +0000" channel="Canale5.it@SD"><title lang="it">Forbidden Fruit: Yasak Elma 																			 								 								 								 																		- 									 Stagione 2 Episodio 101</title></programme>
+<programme start="20260109134500 +0000" stop="20260109151000 +0000" channel="Canale5.it@SD"><title lang="it">Uomini e donne</title></programme>
+<programme start="20260109151000 +0000" stop="20260109152500 +0000" channel="Canale5.it@SD"><title lang="it">La forza di una donna 																			 								 								 								 																		- 									 Stagione 2 Episodio 88</title></programme>
+<programme start="20260109152500 +0000" stop="20260109155500 +0000" channel="Canale5.it@SD"><title lang="it">Amici di Maria</title></programme>
+<programme start="20260109155500 +0000" stop="20260109183500 +0000" channel="Canale5.it@SD"><title lang="it">Dentro la notizia</title></programme>
+<programme start="20260109183500 +0000" stop="20260109183600 +0000" channel="Canale5.it@SD"><title lang="it">Tg5 anticipazione</title></programme>
+<programme start="20260109183600 +0000" stop="20260109185400 +0000" channel="Canale5.it@SD"><title lang="it">Caduta libera</title></programme>
+<programme start="20260109185400 +0000" stop="20260109190100 +0000" channel="Canale5.it@SD"><title lang="it">Prima Pagina TG5</title></programme>
+<programme start="20260109190100 +0000" stop="20260109194000 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260109194000 +0000" stop="20260109202000 +0000" channel="Canale5.it@SD"><title lang="it">La ruota della fortuna</title></programme>
+<programme start="20260109202000 +0000" stop="20260109233900 +0000" channel="Canale5.it@SD"><title lang="it">La ruota della fortuna 																			 								 								 								La ruota dei campioni</title></programme>
+<programme start="20260109233900 +0000" stop="20260110000900 +0000" channel="Canale5.it@SD"><title lang="it">TG5</title></programme>
+<programme start="20260108002100 +0000" stop="20260108030900 +0000" channel="Iris.it@SD"><title lang="it">Boyhood 																				(2014)</title></programme>
+<programme start="20260108030900 +0000" stop="20260108051900 +0000" channel="Iris.it@SD"><title lang="it">Guerra indiana 																				(1959)</title></programme>
+<programme start="20260108051900 +0000" stop="20260108060800 +0000" channel="Iris.it@SD"><title lang="it">Kojak 																			 								 								 								Uno sceicco a Wall Street 																		- 									 Stagione 2 Episodio 5</title></programme>
+<programme start="20260108060800 +0000" stop="20260108065100 +0000" channel="Iris.it@SD"><title lang="it">Walker Texas Ranger 																			 								 								 								Il cuore di drago 																		- 									 Stagione 5 Episodio 21</title></programme>
+<programme start="20260108065100 +0000" stop="20260108094200 +0000" channel="Iris.it@SD"><title lang="it">L&apos;albero degli impiccati 																				(1959)</title></programme>
+<programme start="20260108094200 +0000" stop="20260108125800 +0000" channel="Iris.it@SD"><title lang="it">Gangs of New York 																				(2002)</title></programme>
+<programme start="20260108125800 +0000" stop="20260108161400 +0000" channel="Iris.it@SD"><title lang="it">Boyhood 																				(2014)</title></programme>
+<programme start="20260108161400 +0000" stop="20260108181300 +0000" channel="Iris.it@SD"><title lang="it">Guerra indiana 																				(1959)</title></programme>
+<programme start="20260108181300 +0000" stop="20260108191300 +0000" channel="Iris.it@SD"><title lang="it">Kojak 																			 								 								 								Uno sceicco a Wall Street 																		- 									 Stagione 2 Episodio 5</title></programme>
+<programme start="20260108191300 +0000" stop="20260108201600 +0000" channel="Iris.it@SD"><title lang="it">Walker Texas Ranger 																			 								 								 								Il cuore di drago 																		- 									 Stagione 5 Episodio 21</title></programme>
+<programme start="20260108201600 +0000" stop="20260108222000 +0000" channel="Iris.it@SD"><title lang="it">Viaggio in paradiso 																				(2012)</title></programme>
+<programme start="20260108222000 +0000" stop="20260108225000 +0000" channel="Iris.it@SD"><title lang="it">L&apos;assassino di pietra 																				(1973)</title></programme>
+<programme start="20260109013600 +0000" stop="20260109031100 +0000" channel="Iris.it@SD"><title lang="it">Intrigo a Damasco 																				(2012)</title></programme>
+<programme start="20260109031100 +0000" stop="20260109044300 +0000" channel="Iris.it@SD"><title lang="it">La freccia nella polvere 																				(1954)</title></programme>
+<programme start="20260109044300 +0000" stop="20260109051300 +0000" channel="Iris.it@SD"><title lang="it">Due per tre 																			 								 								 								Pasqua con chi vuoi 																		- 									 Stagione 3 Episodio 1</title></programme>
+<programme start="20260109051300 +0000" stop="20260109060200 +0000" channel="Iris.it@SD"><title lang="it">Kojak 																			 								 								 								Una breve licenza 																		- 									 Stagione 2 Episodio 6</title></programme>
+<programme start="20260109060200 +0000" stop="20260109064400 +0000" channel="Iris.it@SD"><title lang="it">Walker Texas Ranger 																			 								 								 								L&apos;angelo del quartiere 																		- 									 Stagione 5 Episodio 22</title></programme>
+<programme start="20260109064400 +0000" stop="20260109090400 +0000" channel="Iris.it@SD"><title lang="it">Boom 																				(1999)</title></programme>
+<programme start="20260109090400 +0000" stop="20260109113500 +0000" channel="Iris.it@SD"><title lang="it">Il professore e il pazzo 																				(2019)</title></programme>
+<programme start="20260109113500 +0000" stop="20260109141700 +0000" channel="Iris.it@SD"><title lang="it">Schegge di paura 																				(1996)</title></programme>
+<programme start="20260109141700 +0000" stop="20260109161900 +0000" channel="Iris.it@SD"><title lang="it">Intrigo a Damasco 																				(2012)</title></programme>
+<programme start="20260109161900 +0000" stop="20260109181300 +0000" channel="Iris.it@SD"><title lang="it">La freccia nella polvere 																				(1954)</title></programme>
+<programme start="20260109181300 +0000" stop="20260109191300 +0000" channel="Iris.it@SD"><title lang="it">Kojak 																			 								 								 								Una breve licenza 																		- 									 Stagione 2 Episodio 6</title></programme>
+<programme start="20260109191300 +0000" stop="20260109201500 +0000" channel="Iris.it@SD"><title lang="it">Walker Texas Ranger 																			 								 								 								L&apos;angelo del quartiere 																		- 									 Stagione 5 Episodio 22</title></programme>
+<programme start="20260109201500 +0000" stop="20260109225900 +0000" channel="Iris.it@SD"><title lang="it">Un mondo perfetto 																				(1993)</title></programme>
+<programme start="20260109225900 +0000" stop="20260109232900 +0000" channel="Iris.it@SD"><title lang="it">Invictus: L&apos;invincibile 																				(2009)</title></programme>
+<programme start="20260108011600 +0000" stop="20260108012900 +0000" channel="Italia1.it@SD"><title lang="it">Studio aperto: La giornata</title></programme>
+<programme start="20260108012900 +0000" stop="20260108014400 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset</title></programme>
+<programme start="20260108014400 +0000" stop="20260108023600 +0000" channel="Italia1.it@SD"><title lang="it">Relitti e segreti: Nel profondo degli abissi 																			 								 								 								Operazione Dragoon: l&apos;altro sbarco 																		- 									 Stagione 1 Episodio 6</title></programme>
+<programme start="20260108023600 +0000" stop="20260108032800 +0000" channel="Italia1.it@SD"><title lang="it">Steve Backshall: Avventure intorno al mondo 																			 								 								 								Esplorazione in Kamchakta 																		- 									 Stagione 2 Episodio 1</title></programme>
+<programme start="20260108032800 +0000" stop="20260108041500 +0000" channel="Italia1.it@SD"><title lang="it">I tesori nascosti dell&apos;antica Roma 																			 								 								 								I segreti sepolti di Pompei 																		- 									 Stagione 2 Episodio 2</title></programme>
+<programme start="20260108041500 +0000" stop="20260108050300 +0000" channel="Italia1.it@SD"><title lang="it">I tesori nascosti dell&apos;antica Roma 																			 								 								 								Città gemella perduta di Pompei: Ercolano 																		- 									 Stagione 1 Episodio 6</title></programme>
+<programme start="20260108050300 +0000" stop="20260108055100 +0000" channel="Italia1.it@SD"><title lang="it">Hazzard 																			 								 								 								Anche i Boss hanno un cuore 																		- 									 Stagione 6 Episodio 1</title></programme>
+<programme start="20260108055100 +0000" stop="20260108064400 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. 																			 								 								 								Don Luis 																		- 									 Stagione 6 Episodio 19</title></programme>
+<programme start="20260108064400 +0000" stop="20260108074000 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. 																			 								 								 								Fortunato al gioco... 																		- 									 Stagione 6 Episodio 20</title></programme>
+<programme start="20260108074000 +0000" stop="20260108083600 +0000" channel="Italia1.it@SD"><title lang="it">Chicago Fire 																			 								 								 								L&apos;indagine di Dawson 																		- 									 Stagione 4 Episodio 3</title></programme>
+<programme start="20260108083600 +0000" stop="20260108093200 +0000" channel="Italia1.it@SD"><title lang="it">Chicago Fire 																			 								 								 								Verrà il tuo momento 																		- 									 Stagione 4 Episodio 4</title></programme>
+<programme start="20260108093200 +0000" stop="20260108103000 +0000" channel="Italia1.it@SD"><title lang="it">Chicago P.D. 																			 								 								 								Violenza fisica 																		- 									 Stagione 3 Episodio 3</title></programme>
+<programme start="20260108103000 +0000" stop="20260108112500 +0000" channel="Italia1.it@SD"><title lang="it">Chicago P.D. 																			 								 								 								Debiti con il passato 																		- 									 Stagione 3 Episodio 4</title></programme>
+<programme start="20260108112500 +0000" stop="20260108120400 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto</title></programme>
+<programme start="20260108120400 +0000" stop="20260108125800 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset</title></programme>
+<programme start="20260108125800 +0000" stop="20260108131200 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset Extra</title></programme>
+<programme start="20260108131200 +0000" stop="20260108133900 +0000" channel="Italia1.it@SD"><title lang="it">I Simpson 																			 								 								 								Il pantalone rivelatore 																		- 									 Stagione 35 Episodio 16</title></programme>
+<programme start="20260108133900 +0000" stop="20260108142900 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S. Los Angeles 																			 								 								 								Congedo anticipato 																		- 									 Stagione 5 Episodio 5</title></programme>
+<programme start="20260108142900 +0000" stop="20260108152200 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S. Los Angeles 																			 								 								 								Il Grande Fratello 																		- 									 Stagione 5 Episodio 6</title></programme>
+<programme start="20260108152200 +0000" stop="20260108161200 +0000" channel="Italia1.it@SD"><title lang="it">The Mentalist 																			 								 								 								Uccello blu 																		- 									 Stagione 6 Episodio 22</title></programme>
+<programme start="20260108161200 +0000" stop="20260108170500 +0000" channel="Italia1.it@SD"><title lang="it">The Mentalist 																			 								 								 								Solo un cielo stellato 																		- 									 Stagione 7 Episodio 1</title></programme>
+<programme start="20260108170500 +0000" stop="20260108173000 +0000" channel="Italia1.it@SD"><title lang="it">Studio aperto Live</title></programme>
+<programme start="20260108173000 +0000" stop="20260108175700 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto</title></programme>
+<programme start="20260108175700 +0000" stop="20260108183000 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto Mag</title></programme>
+<programme start="20260108183000 +0000" stop="20260108193300 +0000" channel="Italia1.it@SD"><title lang="it">CSI: Scena del crimine 																			 								 								 								Corto circuito 																		- 									 Stagione 2 Episodio 3</title></programme>
+<programme start="20260108193300 +0000" stop="20260108202400 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S.: Unità anticrimine 																			 								 								 								Un bacio speciale 																		- 									 Stagione 1 Episodio 19</title></programme>
+<programme start="20260108202400 +0000" stop="20260108225400 +0000" channel="Italia1.it@SD"><title lang="it">Harry Potter e l&apos;Ordine della Fenice 																				(2007)</title></programme>
+<programme start="20260108225400 +0000" stop="20260108232400 +0000" channel="Italia1.it@SD"><title lang="it">The Hunger Games 																				(2012)</title></programme>
+<programme start="20260109013500 +0000" stop="20260109014700 +0000" channel="Italia1.it@SD"><title lang="it">Studio aperto: La giornata</title></programme>
+<programme start="20260109014700 +0000" stop="20260109020200 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset</title></programme>
+<programme start="20260109020200 +0000" stop="20260109025400 +0000" channel="Italia1.it@SD"><title lang="it">Steve Backshall: Avventure intorno al mondo 																			 								 								 								Esplorazione in Arabia Saudita 																		- 									 Stagione 2 Episodio 2</title></programme>
+<programme start="20260109025400 +0000" stop="20260109034600 +0000" channel="Italia1.it@SD"><title lang="it">Steve Backshall: Avventure intorno al mondo 																			 								 								 								Esplorazione in Kirghizistan 																		- 									 Stagione 2 Episodio 3</title></programme>
+<programme start="20260109034600 +0000" stop="20260109041700 +0000" channel="Italia1.it@SD"><title lang="it">I tesori nascosti dell&apos;antica Roma 																			 								 								 								 																		- 									 Stagione 2 Episodio 2</title></programme>
+<programme start="20260109041700 +0000" stop="20260109055600 +0000" channel="Italia1.it@SD"><title lang="it">Hazzard 																			 								 								 								Il bebè della discordia 																		- 									 Stagione 6 Episodio 2</title></programme>
+<programme start="20260109055600 +0000" stop="20260109065100 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. 																			 								 								 								Cartelli stradali 																		- 									 Stagione 6 Episodio 21</title></programme>
+<programme start="20260109065100 +0000" stop="20260109074200 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. 																			 								 								 								Los Angeles 																		- 									 Stagione 7 Episodio 1</title></programme>
+<programme start="20260109074200 +0000" stop="20260109083600 +0000" channel="Italia1.it@SD"><title lang="it">Chicago Fire 																			 								 								 								Matrimonio fatto in casa 																		- 									 Stagione 4 Episodio 5</title></programme>
+<programme start="20260109083600 +0000" stop="20260109093100 +0000" channel="Italia1.it@SD"><title lang="it">Chicago Fire 																			 								 								 								2112 																		- 									 Stagione 4 Episodio 6</title></programme>
+<programme start="20260109093100 +0000" stop="20260109102900 +0000" channel="Italia1.it@SD"><title lang="it">Chicago P.D. 																			 								 								 								Missioni immaginarie 																		- 									 Stagione 3 Episodio 6</title></programme>
+<programme start="20260109102900 +0000" stop="20260109112500 +0000" channel="Italia1.it@SD"><title lang="it">Chicago P.D. 																			 								 								 								Un ragazzino morto un taccuino e tanti dubbi 																		- 									 Stagione 3 Episodio 7</title></programme>
+<programme start="20260109112500 +0000" stop="20260109120500 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto</title></programme>
+<programme start="20260109120500 +0000" stop="20260109125900 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset</title></programme>
+<programme start="20260109125900 +0000" stop="20260109131100 +0000" channel="Italia1.it@SD"><title lang="it">Sport Mediaset Extra</title></programme>
+<programme start="20260109131100 +0000" stop="20260109133600 +0000" channel="Italia1.it@SD"><title lang="it">I Simpson 																			 								 								 								È tutto un mancia-mancia 																		- 									 Stagione 35 Episodio 17</title></programme>
+<programme start="20260109133600 +0000" stop="20260109142500 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S. Los Angeles 																			 								 								 								Tutto il santo giorno 																		- 									 Stagione 5 Episodio 7</title></programme>
+<programme start="20260109142500 +0000" stop="20260109152000 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S. Los Angeles 																			 								 								 								La bomba sporca 																		- 									 Stagione 5 Episodio 8</title></programme>
+<programme start="20260109152000 +0000" stop="20260109160800 +0000" channel="Italia1.it@SD"><title lang="it">The Mentalist 																			 								 								 								L&apos;hotel dalle sbarre grigie 																		- 									 Stagione 7 Episodio 2</title></programme>
+<programme start="20260109160800 +0000" stop="20260109170000 +0000" channel="Italia1.it@SD"><title lang="it">The Mentalist 																			 								 								 								Gelato ai fiori d&apos;arancio 																		- 									 Stagione 7 Episodio 3</title></programme>
+<programme start="20260109170000 +0000" stop="20260109173000 +0000" channel="Italia1.it@SD"><title lang="it">Studio aperto Live</title></programme>
+<programme start="20260109173000 +0000" stop="20260109175700 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto</title></programme>
+<programme start="20260109175700 +0000" stop="20260109183100 +0000" channel="Italia1.it@SD"><title lang="it">Studio Aperto Mag</title></programme>
+<programme start="20260109183100 +0000" stop="20260109193300 +0000" channel="Italia1.it@SD"><title lang="it">CSI: Scena del crimine 																			 								 								 								Il bullo 																		- 									 Stagione 2 Episodio 4</title></programme>
+<programme start="20260109193300 +0000" stop="20260109202400 +0000" channel="Italia1.it@SD"><title lang="it">N.C.I.S.: Unità anticrimine 																			 								 								 								Scomparso 																		- 									 Stagione 1 Episodio 20</title></programme>
+<programme start="20260109202400 +0000" stop="20260109231100 +0000" channel="Italia1.it@SD"><title lang="it">Harry Potter e il principe mezzosangue 																				(2009)</title></programme>
+<programme start="20260109231100 +0000" stop="20260109234100 +0000" channel="Italia1.it@SD"><title lang="it">Hunger Games: La ragazza di fuoco 																				(2013)</title></programme>
+<programme start="20260108000000 +0000" stop="20260108001000 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260108001000 +0000" stop="20260108005000 +0000" channel="LA7.it@SD"><title lang="it">Otto e mezzo 																			 								 								 								 																		- 									 Stagione 25 Episodio 71</title></programme>
+<programme start="20260108005000 +0000" stop="20260108005500 +0000" channel="LA7.it@SD"><title lang="it">Programma da definire</title></programme>
+<programme start="20260108005500 +0000" stop="20260108015500 +0000" channel="LA7.it@SD"><title lang="it">La torre di Babele DOC 																			 								 								 								Yalta L&apos;alba Della Guerra Fredda 																		- 									 Stagione 2 Episodio 59</title></programme>
+<programme start="20260108015500 +0000" stop="20260108040000 +0000" channel="LA7.it@SD"><title lang="it">L&apos;aria che tira 																			 								 								 								 																		- 									 Stagione 17 Episodio 81</title></programme>
+<programme start="20260108040000 +0000" stop="20260108050000 +0000" channel="LA7.it@SD"><title lang="it">Tagadà 																			 								 								 								 																		- 									 Stagione 11 Episodio 77</title></programme>
+<programme start="20260108050000 +0000" stop="20260108050500 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260108050500 +0000" stop="20260108051000 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260108051000 +0000" stop="20260108051500 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260108051500 +0000" stop="20260108052000 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260108052000 +0000" stop="20260108052500 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260108052500 +0000" stop="20260108053000 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260108053000 +0000" stop="20260108053500 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260108053500 +0000" stop="20260108054000 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260108054000 +0000" stop="20260108054500 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260108054500 +0000" stop="20260108055000 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260108055000 +0000" stop="20260108055500 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260108055500 +0000" stop="20260108060000 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260108060000 +0000" stop="20260108064000 +0000" channel="LA7.it@SD"><title lang="it">Omnibus News 																			 								 								 								 																		- 									 Stagione 26 Episodio 119</title></programme>
+<programme start="20260108064000 +0000" stop="20260108065500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260108065500 +0000" stop="20260108084000 +0000" channel="LA7.it@SD"><title lang="it">Omnibus 																			 								 								 								 																		- 									 Stagione 26 Episodio 119</title></programme>
+<programme start="20260108084000 +0000" stop="20260108100000 +0000" channel="LA7.it@SD"><title lang="it">Coffee Break 																			 								 								 								 																		- 									 Stagione 16 Episodio 85</title></programme>
+<programme start="20260108100000 +0000" stop="20260108123000 +0000" channel="LA7.it@SD"><title lang="it">L&apos;aria che tira 																			 								 								 								 																		- 									 Stagione 17 Episodio 81</title></programme>
+<programme start="20260108123000 +0000" stop="20260108131500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260108131500 +0000" stop="20260108154000 +0000" channel="LA7.it@SD"><title lang="it">Tagadà tutto quanto fa politica 																			 								 								 								 																		- 									 Stagione 11 Episodio 77</title></programme>
+<programme start="20260108154000 +0000" stop="20260108163000 +0000" channel="LA7.it@SD"><title lang="it">Taga Focus 																			 								 								 								 																		- 									 Stagione 11 Episodio 77</title></programme>
+<programme start="20260108163000 +0000" stop="20260108173000 +0000" channel="LA7.it@SD"><title lang="it">La torre di Babele DOC 																			 								 								 								Yalta L&apos;alba Della Guerra Fredda 																		- 									 Stagione 2 Episodio 59</title></programme>
+<programme start="20260108173000 +0000" stop="20260108190000 +0000" channel="LA7.it@SD"><title lang="it">Ignoto X Dentro E Oltre Le Storie Di Cronaca 																			 								 								 								 																		- 									 Stagione 1 Episodio 74</title></programme>
+<programme start="20260108190000 +0000" stop="20260108193500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260108193500 +0000" stop="20260108201500 +0000" channel="LA7.it@SD"><title lang="it">Otto e mezzo 																			 								 								 								 																		- 									 Stagione 25 Episodio 71</title></programme>
+<programme start="20260108201500 +0000" stop="20260108204500 +0000" channel="LA7.it@SD"><title lang="it">Piazza Pulita 																			 								 								 								 																		- 									 Stagione 16 Episodio 14</title></programme>
+<programme start="20260109000000 +0000" stop="20260109001000 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260109001000 +0000" stop="20260109005000 +0000" channel="LA7.it@SD"><title lang="it">Otto e mezzo 																			 								 								 								 																		- 									 Stagione 25 Episodio 72</title></programme>
+<programme start="20260109005000 +0000" stop="20260109015000 +0000" channel="LA7.it@SD"><title lang="it">La torre di Babele DOC 																			 								 								 								Tesori Nascosti Jesus&apos;s Wife 																		- 									 Stagione 1 Episodio 19</title></programme>
+<programme start="20260109015000 +0000" stop="20260109035000 +0000" channel="LA7.it@SD"><title lang="it">L&apos;aria che tira 																			 								 								 								 																		- 									 Stagione 17 Episodio 82</title></programme>
+<programme start="20260109035000 +0000" stop="20260109050000 +0000" channel="LA7.it@SD"><title lang="it">Tagadà tutto quanto fa politica 																			 								 								 								 																		- 									 Stagione 11 Episodio 78</title></programme>
+<programme start="20260109050000 +0000" stop="20260109050500 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260109050500 +0000" stop="20260109051000 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260109051000 +0000" stop="20260109051500 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260109051500 +0000" stop="20260109052000 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260109052000 +0000" stop="20260109052500 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260109052500 +0000" stop="20260109053000 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260109053000 +0000" stop="20260109053500 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260109053500 +0000" stop="20260109054000 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260109054000 +0000" stop="20260109054500 +0000" channel="LA7.it@SD"><title lang="it">Programma da definire</title></programme>
+<programme start="20260109054500 +0000" stop="20260109055000 +0000" channel="LA7.it@SD"><title lang="it">Meteo</title></programme>
+<programme start="20260109055000 +0000" stop="20260109055500 +0000" channel="LA7.it@SD"><title lang="it">Traffico</title></programme>
+<programme start="20260109055500 +0000" stop="20260109060000 +0000" channel="LA7.it@SD"><title lang="it">Oroscopo</title></programme>
+<programme start="20260109060000 +0000" stop="20260109064000 +0000" channel="LA7.it@SD"><title lang="it">Omnibus News 																			 								 								 								 																		- 									 Stagione 26 Episodio 120</title></programme>
+<programme start="20260109064000 +0000" stop="20260109065500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260109065500 +0000" stop="20260109084000 +0000" channel="LA7.it@SD"><title lang="it">Omnibus 																			 								 								 								 																		- 									 Stagione 26 Episodio 120</title></programme>
+<programme start="20260109084000 +0000" stop="20260109100000 +0000" channel="LA7.it@SD"><title lang="it">Coffee Break 																			 								 								 								 																		- 									 Stagione 16 Episodio 86</title></programme>
+<programme start="20260109100000 +0000" stop="20260109123000 +0000" channel="LA7.it@SD"><title lang="it">L&apos;aria che tira 																			 								 								 								 																		- 									 Stagione 17 Episodio 82</title></programme>
+<programme start="20260109123000 +0000" stop="20260109131500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260109131500 +0000" stop="20260109154000 +0000" channel="LA7.it@SD"><title lang="it">Tagadà tutto quanto fa politica 																			 								 								 								 																		- 									 Stagione 11 Episodio 78</title></programme>
+<programme start="20260109154000 +0000" stop="20260109163000 +0000" channel="LA7.it@SD"><title lang="it">Taga Focus 																			 								 								 								 																		- 									 Stagione 11 Episodio 78</title></programme>
+<programme start="20260109163000 +0000" stop="20260109173000 +0000" channel="LA7.it@SD"><title lang="it">La torre di Babele DOC 																			 								 								 								Tesori Nascosti Jesus&apos;s Wife 																		- 									 Stagione 1 Episodio 19</title></programme>
+<programme start="20260109173000 +0000" stop="20260109190000 +0000" channel="LA7.it@SD"><title lang="it">Ignoto X Dentro E Oltre Le Storie Di Cronaca 																			 								 								 								 																		- 									 Stagione 1 Episodio 75</title></programme>
+<programme start="20260109190000 +0000" stop="20260109193500 +0000" channel="LA7.it@SD"><title lang="it">TG LA7</title></programme>
+<programme start="20260109193500 +0000" stop="20260109201500 +0000" channel="LA7.it@SD"><title lang="it">Otto e mezzo 																			 								 								 								 																		- 									 Stagione 25 Episodio 72</title></programme>
+<programme start="20260109201500 +0000" stop="20260109204500 +0000" channel="LA7.it@SD"><title lang="it">Propaganda Live 																			 								 								 								 																		- 									 Stagione 9 Episodio 14</title></programme>
+<programme start="20260108001500 +0000" stop="20260108020000 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								Nessuna sicurezza 																		- 									 Stagione 5 Episodio 14</title></programme>
+<programme start="20260108020000 +0000" stop="20260108035000 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								Protezione 																		- 									 Stagione 5 Episodio 15</title></programme>
+<programme start="20260108035000 +0000" stop="20260108042500 +0000" channel="Nove.it@SD"><title lang="it">Come fanno gli animali 																			 								 								 								Cammelli 																		- 									 Stagione 1 Episodio 25</title></programme>
+<programme start="20260108042500 +0000" stop="20260108050000 +0000" channel="Nove.it@SD"><title lang="it">Come fanno gli animali 																			 								 								 								Architetti 																		- 									 Stagione 1 Episodio 26</title></programme>
+<programme start="20260108050000 +0000" stop="20260108053500 +0000" channel="Nove.it@SD"><title lang="it">Borneo: paradiso da proteggere 																			 								 								 								Il coccodrillo 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260108053500 +0000" stop="20260108064000 +0000" channel="Nove.it@SD"><title lang="it">Alla scoperta del Medio Oriente 																			 								 								 								Turchia 																		- 									 Stagione 1 Episodio 5</title></programme>
+<programme start="20260108064000 +0000" stop="20260108071000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Angela e demoni 																		- 									 Stagione 4 Episodio 27</title></programme>
+<programme start="20260108071000 +0000" stop="20260108074000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Fabrizio e le sue donne 																		- 									 Stagione 4 Episodio 28</title></programme>
+<programme start="20260108074000 +0000" stop="20260108081500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Cure particolari 																		- 									 Stagione 6 Episodio 29</title></programme>
+<programme start="20260108081500 +0000" stop="20260108085500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								L&apos;amore è mobile 																		- 									 Stagione 6 Episodio 30</title></programme>
+<programme start="20260108085500 +0000" stop="20260108093000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Team building 																		- 									 Stagione 3 Episodio 7</title></programme>
+<programme start="20260108093000 +0000" stop="20260108100500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Chi la fa l&apos;aspetti 																		- 									 Stagione 3 Episodio 8</title></programme>
+<programme start="20260108100500 +0000" stop="20260108103500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								L&apos;intimo di Carla 																		- 									 Stagione 1 Episodio 10</title></programme>
+<programme start="20260108103500 +0000" stop="20260108114500 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 6 Episodio 17</title></programme>
+<programme start="20260108114500 +0000" stop="20260108130000 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 6 Episodio 23</title></programme>
+<programme start="20260108130000 +0000" stop="20260108140000 +0000" channel="Nove.it@SD"><title lang="it">The Cage: Prendi e scappa 																			 								 								 								 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260108140000 +0000" stop="20260108155000 +0000" channel="Nove.it@SD"><title lang="it">Storie criminali 																			 								 								 								Michael Peterson: colpevole o innocente?</title></programme>
+<programme start="20260108155000 +0000" stop="20260108165000 +0000" channel="Nove.it@SD"><title lang="it">Delitti a circuito chiuso 																			 								 								 								Sparatoria 																		- 									 Stagione 8 Episodio 6</title></programme>
+<programme start="20260108165000 +0000" stop="20260108182000 +0000" channel="Nove.it@SD"><title lang="it">Little Big Italy 																			 								 								 								Sofia 																		- 									 Stagione 7 Episodio 10</title></programme>
+<programme start="20260108182000 +0000" stop="20260108193500 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 8 Episodio 4</title></programme>
+<programme start="20260108193500 +0000" stop="20260108203000 +0000" channel="Nove.it@SD"><title lang="it">The Cage: Prendi e scappa 																			 								 								 								 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260108203000 +0000" stop="20260108223000 +0000" channel="Nove.it@SD"><title lang="it">Natale a Pemberley Manor 																				(2018)</title></programme>
+<programme start="20260108223000 +0000" stop="20260108230000 +0000" channel="Nove.it@SD"><title lang="it">A casa per Natale 																				(2018)</title></programme>
+<programme start="20260109003500 +0000" stop="20260109013000 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								Incontri ravvicinati 																		- 									 Stagione 6 Episodio 2</title></programme>
+<programme start="20260109013000 +0000" stop="20260109022500 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								Lacrime e sangue 																		- 									 Stagione 6 Episodio 3</title></programme>
+<programme start="20260109022500 +0000" stop="20260109032500 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								Disastri 																		- 									 Stagione 6 Episodio 4</title></programme>
+<programme start="20260109032500 +0000" stop="20260109035500 +0000" channel="Nove.it@SD"><title lang="it">Come fanno gli animali 																			 								 								 								Canguri 																		- 									 Stagione 1 Episodio 27</title></programme>
+<programme start="20260109035500 +0000" stop="20260109042500 +0000" channel="Nove.it@SD"><title lang="it">Come fanno gli animali 																			 								 								 								Acrobati 																		- 									 Stagione 1 Episodio 28</title></programme>
+<programme start="20260109042500 +0000" stop="20260109050000 +0000" channel="Nove.it@SD"><title lang="it">Come fanno gli animali 																			 								 								 								Rinoceronti 																		- 									 Stagione 1 Episodio 29</title></programme>
+<programme start="20260109050000 +0000" stop="20260109053500 +0000" channel="Nove.it@SD"><title lang="it">Borneo: paradiso da proteggere 																			 								 								 								Barriere 																		- 									 Stagione 1 Episodio 2</title></programme>
+<programme start="20260109053500 +0000" stop="20260109064000 +0000" channel="Nove.it@SD"><title lang="it">Alla scoperta del Medio Oriente 																			 								 								 								Arabia 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260109064000 +0000" stop="20260109071000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Il giorno più bello 																		- 									 Stagione 4 Episodio 29</title></programme>
+<programme start="20260109071000 +0000" stop="20260109074000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Il salto di qualità 																		- 									 Stagione 4 Episodio 30</title></programme>
+<programme start="20260109074000 +0000" stop="20260109081500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Il cuore è un muscolo 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260109081500 +0000" stop="20260109085500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Ultimo tango ai Parioli 																		- 									 Stagione 1 Episodio 2</title></programme>
+<programme start="20260109085500 +0000" stop="20260109093000 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Lettere dal passato 																		- 									 Stagione 3 Episodio 9</title></programme>
+<programme start="20260109093000 +0000" stop="20260109100500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Veronika 																		- 									 Stagione 3 Episodio 10</title></programme>
+<programme start="20260109100500 +0000" stop="20260109103500 +0000" channel="Nove.it@SD"><title lang="it">Alta infedeltà 																			 								 								 								Madama Butterfly 																		- 									 Stagione 1 Episodio 11</title></programme>
+<programme start="20260109103500 +0000" stop="20260109114500 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 6 Episodio 18</title></programme>
+<programme start="20260109114500 +0000" stop="20260109130000 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 6 Episodio 24</title></programme>
+<programme start="20260109130000 +0000" stop="20260109140000 +0000" channel="Nove.it@SD"><title lang="it">The Cage: Prendi e scappa 																			 								 								 								 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109140000 +0000" stop="20260109155000 +0000" channel="Nove.it@SD"><title lang="it">Storie criminali 																			 								 								 								La vedova nera</title></programme>
+<programme start="20260109155000 +0000" stop="20260109165000 +0000" channel="Nove.it@SD"><title lang="it">Delitti a circuito chiuso 																			 								 								 								L&apos;ultimo saluto 																		- 									 Stagione 8 Episodio 7</title></programme>
+<programme start="20260109165000 +0000" stop="20260109182000 +0000" channel="Nove.it@SD"><title lang="it">Little Big Italy 																			 								 								 								Tallinn 																		- 									 Stagione 7 Episodio 11</title></programme>
+<programme start="20260109182000 +0000" stop="20260109193500 +0000" channel="Nove.it@SD"><title lang="it">Cash or Trash: Chi offre di più? 																			 								 								 								 																		- 									 Stagione 8 Episodio 5</title></programme>
+<programme start="20260109193500 +0000" stop="20260109203000 +0000" channel="Nove.it@SD"><title lang="it">The Cage: Prendi e scappa 																			 								 								 								 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109203000 +0000" stop="20260109221000 +0000" channel="Nove.it@SD"><title lang="it">I migliori Fratelli di Crozza 																			 								 								 								 																		- 									 Stagione 27 Episodio 2</title></programme>
+<programme start="20260109221000 +0000" stop="20260109234000 +0000" channel="Nove.it@SD"><title lang="it">I migliori Fratelli di Crozza 																			 								 								 								 																		- 									 Stagione 27 Episodio 1</title></programme>
+<programme start="20260109234000 +0000" stop="20260110001000 +0000" channel="Nove.it@SD"><title lang="it">Nudi e crudi 																			 								 								 								All&apos;inferno 																		- 									 Stagione 6 Episodio 1</title></programme>
+<programme start="20260108003000 +0000" stop="20260108003500 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260108003500 +0000" stop="20260108015000 +0000" channel="Rai1.it@SD"><title lang="it">L&apos;Eredità</title></programme>
+<programme start="20260108015000 +0000" stop="20260108025000 +0000" channel="Rai1.it@SD"><title lang="it">Il Commissario Manara 																			 								 								 								Matrimonio con delitto 																		- 									 Stagione 2 Episodio 1</title></programme>
+<programme start="20260108025000 +0000" stop="20260108034500 +0000" channel="Rai1.it@SD"><title lang="it">Il Commissario Manara 																			 								 								 								L&apos;addio di Lara 																		- 									 Stagione 2 Episodio 2</title></programme>
+<programme start="20260108034500 +0000" stop="20260108050000 +0000" channel="Rai1.it@SD"><title lang="it">RAInews24</title></programme>
+<programme start="20260108050000 +0000" stop="20260108052800 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260108052800 +0000" stop="20260108053000 +0000" channel="Rai1.it@SD"><title lang="it">Previsioni sulla viabilità</title></programme>
+<programme start="20260108053000 +0000" stop="20260108053300 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260108053300 +0000" stop="20260108055800 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260108055800 +0000" stop="20260108060000 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260108060000 +0000" stop="20260108061000 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260108061000 +0000" stop="20260108070000 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260108070000 +0000" stop="20260108073000 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260108073000 +0000" stop="20260108073500 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260108073500 +0000" stop="20260108080000 +0000" channel="Rai1.it@SD"><title lang="it">Unomattina</title></programme>
+<programme start="20260108080000 +0000" stop="20260108080300 +0000" channel="Rai1.it@SD"><title lang="it">TG1 L.I.S.</title></programme>
+<programme start="20260108080300 +0000" stop="20260108085000 +0000" channel="Rai1.it@SD"><title lang="it">Unomattina</title></programme>
+<programme start="20260108085000 +0000" stop="20260108105500 +0000" channel="Rai1.it@SD"><title lang="it">Storie italiane</title></programme>
+<programme start="20260108105500 +0000" stop="20260108123000 +0000" channel="Rai1.it@SD"><title lang="it">È sempre mezzogiorno</title></programme>
+<programme start="20260108123000 +0000" stop="20260108130500 +0000" channel="Rai1.it@SD"><title lang="it">Telegiornale</title></programme>
+<programme start="20260108130500 +0000" stop="20260108150000 +0000" channel="Rai1.it@SD"><title lang="it">La volta buona</title></programme>
+<programme start="20260108150000 +0000" stop="20260108150700 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260108150700 +0000" stop="20260108151000 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260108151000 +0000" stop="20260108160500 +0000" channel="Rai1.it@SD"><title lang="it">Il paradiso delle signore 																			 								 								 								 																		- 									 Stagione 10 Episodio 80</title></programme>
+<programme start="20260108160500 +0000" stop="20260108174000 +0000" channel="Rai1.it@SD"><title lang="it">La vita in diretta</title></programme>
+<programme start="20260108174000 +0000" stop="20260108190000 +0000" channel="Rai1.it@SD"><title lang="it">L&apos;Eredità</title></programme>
+<programme start="20260108190000 +0000" stop="20260108193000 +0000" channel="Rai1.it@SD"><title lang="it">Telegiornale</title></programme>
+<programme start="20260108193000 +0000" stop="20260108193500 +0000" channel="Rai1.it@SD"><title lang="it">Cinque Minuti</title></programme>
+<programme start="20260108193500 +0000" stop="20260108203000 +0000" channel="Rai1.it@SD"><title lang="it">Affari tuoi</title></programme>
+<programme start="20260108203000 +0000" stop="20260108224500 +0000" channel="Rai1.it@SD"><title lang="it">Don Matteo 																			 								 								 								Un angelo caduto dal cielo 																		- 									 Stagione 15 Episodio 1</title></programme>
+<programme start="20260108224500 +0000" stop="20260108225500 +0000" channel="Rai1.it@SD"><title lang="it">Porta a Porta</title></programme>
+<programme start="20260108225500 +0000" stop="20260108230000 +0000" channel="Rai1.it@SD"><title lang="it">TG1 Sera</title></programme>
+<programme start="20260108230000 +0000" stop="20260108233000 +0000" channel="Rai1.it@SD"><title lang="it">Porta a Porta</title></programme>
+<programme start="20260109001000 +0000" stop="20260109001500 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260109001500 +0000" stop="20260109013000 +0000" channel="Rai1.it@SD"><title lang="it">L&apos;Eredità</title></programme>
+<programme start="20260109013000 +0000" stop="20260109022500 +0000" channel="Rai1.it@SD"><title lang="it">Il Commissario Manara 																			 								 								 								Delitto tra le lenzuola 																		- 									 Stagione 2 Episodio 3</title></programme>
+<programme start="20260109022500 +0000" stop="20260109031500 +0000" channel="Rai1.it@SD"><title lang="it">Il Commissario Manara 																			 								 								 								Miss Maremma 																		- 									 Stagione 2 Episodio 4</title></programme>
+<programme start="20260109031500 +0000" stop="20260109050000 +0000" channel="Rai1.it@SD"><title lang="it">RAInews24</title></programme>
+<programme start="20260109050000 +0000" stop="20260109052800 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260109052800 +0000" stop="20260109053000 +0000" channel="Rai1.it@SD"><title lang="it">Previsioni sulla viabilità</title></programme>
+<programme start="20260109053000 +0000" stop="20260109053300 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260109053300 +0000" stop="20260109055800 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260109055800 +0000" stop="20260109060000 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260109060000 +0000" stop="20260109061000 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260109061000 +0000" stop="20260109070000 +0000" channel="Rai1.it@SD"><title lang="it">UnoMattina News</title></programme>
+<programme start="20260109070000 +0000" stop="20260109073000 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260109073000 +0000" stop="20260109073500 +0000" channel="Rai1.it@SD"><title lang="it">Che tempo fa</title></programme>
+<programme start="20260109073500 +0000" stop="20260109080000 +0000" channel="Rai1.it@SD"><title lang="it">Unomattina</title></programme>
+<programme start="20260109080000 +0000" stop="20260109080300 +0000" channel="Rai1.it@SD"><title lang="it">TG1 L.I.S.</title></programme>
+<programme start="20260109080300 +0000" stop="20260109085000 +0000" channel="Rai1.it@SD"><title lang="it">Unomattina</title></programme>
+<programme start="20260109085000 +0000" stop="20260109095500 +0000" channel="Rai1.it@SD"><title lang="it">Storie italiane</title></programme>
+<programme start="20260109095500 +0000" stop="20260109123000 +0000" channel="Rai1.it@SD"><title lang="it">Conferenza Stampa di inizio anno del Presidente del Consiglio Giorgia Meloni</title></programme>
+<programme start="20260109123000 +0000" stop="20260109130500 +0000" channel="Rai1.it@SD"><title lang="it">Telegiornale</title></programme>
+<programme start="20260109130500 +0000" stop="20260109150000 +0000" channel="Rai1.it@SD"><title lang="it">La volta buona</title></programme>
+<programme start="20260109150000 +0000" stop="20260109150700 +0000" channel="Rai1.it@SD"><title lang="it">TG1</title></programme>
+<programme start="20260109150700 +0000" stop="20260109151000 +0000" channel="Rai1.it@SD"><title lang="it">Previsioni sulla viabilità</title></programme>
+<programme start="20260109151000 +0000" stop="20260109160500 +0000" channel="Rai1.it@SD"><title lang="it">Il paradiso delle signore 																			 								 								 								 																		- 									 Stagione 10 Episodio 81</title></programme>
+<programme start="20260109160500 +0000" stop="20260109174000 +0000" channel="Rai1.it@SD"><title lang="it">La vita in diretta</title></programme>
+<programme start="20260109174000 +0000" stop="20260109190000 +0000" channel="Rai1.it@SD"><title lang="it">L&apos;Eredità</title></programme>
+<programme start="20260109190000 +0000" stop="20260109193000 +0000" channel="Rai1.it@SD"><title lang="it">Telegiornale</title></programme>
+<programme start="20260109193000 +0000" stop="20260109193500 +0000" channel="Rai1.it@SD"><title lang="it">Cinque Minuti</title></programme>
+<programme start="20260109193500 +0000" stop="20260109203000 +0000" channel="Rai1.it@SD"><title lang="it">Affari tuoi</title></programme>
+<programme start="20260109203000 +0000" stop="20260109225500 +0000" channel="Rai1.it@SD"><title lang="it">Tali e Quali</title></programme>
+<programme start="20260109225500 +0000" stop="20260109230000 +0000" channel="Rai1.it@SD"><title lang="it">TG1 Sera</title></programme>
+<programme start="20260109230000 +0000" stop="20260109233000 +0000" channel="Rai1.it@SD"><title lang="it">TV 7</title></programme>
+<programme start="20260108011900 +0000" stop="20260108012000 +0000" channel="Rai2.it@SD"><title lang="it">Meteo 2</title></programme>
+<programme start="20260108012000 +0000" stop="20260108024500 +0000" channel="Rai2.it@SD"><title lang="it">Follia ad alta quota 																				(2020)</title></programme>
+<programme start="20260108024500 +0000" stop="20260108033000 +0000" channel="Rai2.it@SD"><title lang="it">Le leggi del cuore 																			 								 								 								 																		- 									 Stagione 1 Episodio 116</title></programme>
+<programme start="20260108033000 +0000" stop="20260108041000 +0000" channel="Rai2.it@SD"><title lang="it">Le leggi del cuore 																			 								 								 								 																		- 									 Stagione 1 Episodio 117</title></programme>
+<programme start="20260108041000 +0000" stop="20260108042000 +0000" channel="Rai2.it@SD"><title lang="it">Zio Gianni</title></programme>
+<programme start="20260108042000 +0000" stop="20260108050000 +0000" channel="Rai2.it@SD"><title lang="it">Piloti</title></programme>
+<programme start="20260108050000 +0000" stop="20260108055000 +0000" channel="Rai2.it@SD"><title lang="it">La grande vallata 																			 								 								 								Una sposa per Nick Barkley 																		- 									 Stagione 1 Episodio 17</title></programme>
+<programme start="20260108055000 +0000" stop="20260108060700 +0000" channel="Rai2.it@SD"><title lang="it">UFO Robot Goldrake 																			 								 								 								Il terremoto misterioso 																		- 									 Stagione 1 Episodio 35</title></programme>
+<programme start="20260108060700 +0000" stop="20260108063500 +0000" channel="Rai2.it@SD"><title lang="it">UFO Robot Goldrake 																			 								 								 								Il raggio ciclonico 																		- 									 Stagione 1 Episodio 36</title></programme>
+<programme start="20260108063500 +0000" stop="20260108073000 +0000" channel="Rai2.it@SD"><title lang="it">La Porta Magica</title></programme>
+<programme start="20260108073000 +0000" stop="20260108074500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260108074500 +0000" stop="20260108085800 +0000" channel="Rai2.it@SD"><title lang="it">Radio2 Social Club</title></programme>
+<programme start="20260108085800 +0000" stop="20260108090000 +0000" channel="Rai2.it@SD"><title lang="it">Meteo 2</title></programme>
+<programme start="20260108090000 +0000" stop="20260108095500 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Italia Europa</title></programme>
+<programme start="20260108095500 +0000" stop="20260108100000 +0000" channel="Rai2.it@SD"><title lang="it">TG 2 Flash</title></programme>
+<programme start="20260108100000 +0000" stop="20260108101000 +0000" channel="Rai2.it@SD"><title lang="it">TG Sport Giorno</title></programme>
+<programme start="20260108101000 +0000" stop="20260108120000 +0000" channel="Rai2.it@SD"><title lang="it">I Fatti Vostri</title></programme>
+<programme start="20260108120000 +0000" stop="20260108123000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Giorno</title></programme>
+<programme start="20260108123000 +0000" stop="20260108125000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Tutto il bello che c&apos;è</title></programme>
+<programme start="20260108125000 +0000" stop="20260108130000 +0000" channel="Rai2.it@SD"><title lang="it">Medicina 33</title></programme>
+<programme start="20260108130000 +0000" stop="20260108142500 +0000" channel="Rai2.it@SD"><title lang="it">Ore 14</title></programme>
+<programme start="20260108142500 +0000" stop="20260108160000 +0000" channel="Rai2.it@SD"><title lang="it">BellaMà</title></programme>
+<programme start="20260108160000 +0000" stop="20260108170500 +0000" channel="Rai2.it@SD"><title lang="it">La Porta Magica</title></programme>
+<programme start="20260108170500 +0000" stop="20260108171000 +0000" channel="Rai2.it@SD"><title lang="it">Rai Parlamento Telegiornale</title></programme>
+<programme start="20260108171000 +0000" stop="20260108171500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2 L.I.S.</title></programme>
+<programme start="20260108171500 +0000" stop="20260108173500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260108173500 +0000" stop="20260108175000 +0000" channel="Rai2.it@SD"><title lang="it">Rai TG Sport Sera</title></programme>
+<programme start="20260108175000 +0000" stop="20260108180000 +0000" channel="Rai2.it@SD"><title lang="it">Olimpiadi Invernali: Milano Cortina 2026; Il Viaggio della Torcia Olimpica</title></programme>
+<programme start="20260108180000 +0000" stop="20260108184500 +0000" channel="Rai2.it@SD"><title lang="it">9-1-1: Lone Star 																			 								 								 								Gli ATX-Files 																		- 									 Stagione 3 Episodio 6</title></programme>
+<programme start="20260108184500 +0000" stop="20260108193000 +0000" channel="Rai2.it@SD"><title lang="it">9-1-1 																			 								 								 								Avvolto nel rosso 																		- 									 Stagione 5 Episodio 10</title></programme>
+<programme start="20260108193000 +0000" stop="20260108200000 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260108200000 +0000" stop="20260108202000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Post</title></programme>
+<programme start="20260108202000 +0000" stop="20260108233000 +0000" channel="Rai2.it@SD"><title lang="it">Ore 14</title></programme>
+<programme start="20260108233000 +0000" stop="20260109000000 +0000" channel="Rai2.it@SD"><title lang="it">Veleno 																				(2017)</title></programme>
+<programme start="20260109001500 +0000" stop="20260109015200 +0000" channel="Rai2.it@SD"><title lang="it">4 metà 																				(2021)</title></programme>
+<programme start="20260109015200 +0000" stop="20260109015500 +0000" channel="Rai2.it@SD"><title lang="it">Meteo 2</title></programme>
+<programme start="20260109015500 +0000" stop="20260109020000 +0000" channel="Rai2.it@SD"><title lang="it">Appuntamento al cinema</title></programme>
+<programme start="20260109020000 +0000" stop="20260109032500 +0000" channel="Rai2.it@SD"><title lang="it">Cristalli di memoria 																				(2020)</title></programme>
+<programme start="20260109032500 +0000" stop="20260109040500 +0000" channel="Rai2.it@SD"><title lang="it">Le leggi del cuore 																			 								 								 								 																		- 									 Stagione 1 Episodio 118</title></programme>
+<programme start="20260109040500 +0000" stop="20260109045000 +0000" channel="Rai2.it@SD"><title lang="it">Le leggi del cuore 																			 								 								 								 																		- 									 Stagione 1 Episodio 119</title></programme>
+<programme start="20260109045000 +0000" stop="20260109050000 +0000" channel="Rai2.it@SD"><title lang="it">Zio Gianni</title></programme>
+<programme start="20260109050000 +0000" stop="20260109055000 +0000" channel="Rai2.it@SD"><title lang="it">La grande vallata 																			 								 								 								Il falsario 																		- 									 Stagione 1 Episodio 18</title></programme>
+<programme start="20260109055000 +0000" stop="20260109060700 +0000" channel="Rai2.it@SD"><title lang="it">UFO Robot Goldrake 																			 								 								 								Esplosione nella galassia 																		- 									 Stagione 1 Episodio 37</title></programme>
+<programme start="20260109060700 +0000" stop="20260109063500 +0000" channel="Rai2.it@SD"><title lang="it">UFO Robot Goldrake 																			 								 								 								La ricerca del superuranio 																		- 									 Stagione 1 Episodio 38</title></programme>
+<programme start="20260109063500 +0000" stop="20260109073000 +0000" channel="Rai2.it@SD"><title lang="it">La Porta Magica</title></programme>
+<programme start="20260109073000 +0000" stop="20260109074500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260109074500 +0000" stop="20260109085500 +0000" channel="Rai2.it@SD"><title lang="it">Radio2 Social Club</title></programme>
+<programme start="20260109085500 +0000" stop="20260109085800 +0000" channel="Rai2.it@SD"><title lang="it">Gli Imperdibili</title></programme>
+<programme start="20260109085800 +0000" stop="20260109090000 +0000" channel="Rai2.it@SD"><title lang="it">Meteo 2</title></programme>
+<programme start="20260109090000 +0000" stop="20260109095500 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Italia Europa</title></programme>
+<programme start="20260109095500 +0000" stop="20260109100000 +0000" channel="Rai2.it@SD"><title lang="it">TG 2 Flash</title></programme>
+<programme start="20260109100000 +0000" stop="20260109101000 +0000" channel="Rai2.it@SD"><title lang="it">TG Sport Giorno</title></programme>
+<programme start="20260109101000 +0000" stop="20260109120000 +0000" channel="Rai2.it@SD"><title lang="it">I Fatti Vostri</title></programme>
+<programme start="20260109120000 +0000" stop="20260109123000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Giorno</title></programme>
+<programme start="20260109123000 +0000" stop="20260109125000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Eat Parade</title></programme>
+<programme start="20260109125000 +0000" stop="20260109130000 +0000" channel="Rai2.it@SD"><title lang="it">TG2: Sì, viaggiare</title></programme>
+<programme start="20260109130000 +0000" stop="20260109142500 +0000" channel="Rai2.it@SD"><title lang="it">Ore 14</title></programme>
+<programme start="20260109142500 +0000" stop="20260109160000 +0000" channel="Rai2.it@SD"><title lang="it">BellaMà</title></programme>
+<programme start="20260109160000 +0000" stop="20260109170500 +0000" channel="Rai2.it@SD"><title lang="it">La Porta Magica</title></programme>
+<programme start="20260109170500 +0000" stop="20260109171000 +0000" channel="Rai2.it@SD"><title lang="it">Rai Parlamento Telegiornale</title></programme>
+<programme start="20260109171000 +0000" stop="20260109171500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2 L.I.S.</title></programme>
+<programme start="20260109171500 +0000" stop="20260109173500 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260109173500 +0000" stop="20260109175000 +0000" channel="Rai2.it@SD"><title lang="it">Rai TG Sport Sera</title></programme>
+<programme start="20260109175000 +0000" stop="20260109180000 +0000" channel="Rai2.it@SD"><title lang="it">Olimpiadi Invernali: Milano Cortina 2026; Il Viaggio della Torcia Olimpica</title></programme>
+<programme start="20260109180000 +0000" stop="20260109184500 +0000" channel="Rai2.it@SD"><title lang="it">9-1-1: Lone Star 																			 								 								 								Rosso contro Blu 																		- 									 Stagione 3 Episodio 7</title></programme>
+<programme start="20260109184500 +0000" stop="20260109193000 +0000" channel="Rai2.it@SD"><title lang="it">9-1-1 																			 								 								 								Fuori a guardare 																		- 									 Stagione 5 Episodio 11</title></programme>
+<programme start="20260109193000 +0000" stop="20260109200000 +0000" channel="Rai2.it@SD"><title lang="it">TG 2</title></programme>
+<programme start="20260109200000 +0000" stop="20260109202000 +0000" channel="Rai2.it@SD"><title lang="it">TG2 Post</title></programme>
+<programme start="20260109202000 +0000" stop="20260109222000 +0000" channel="Rai2.it@SD"><title lang="it">Togo: Una grande amicizia 																				(2019)</title></programme>
+<programme start="20260109222000 +0000" stop="20260109225000 +0000" channel="Rai2.it@SD"><title lang="it">Una folle passione 																				(2014)</title></programme>
+<programme start="20260108000000 +0000" stop="20260108000500 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260108000500 +0000" stop="20260108004000 +0000" channel="Rai3.it@HD"><title lang="it">Save the Date</title></programme>
+<programme start="20260108004000 +0000" stop="20260108013500 +0000" channel="Rai3.it@HD"><title lang="it">Il posto giusto</title></programme>
+<programme start="20260108013500 +0000" stop="20260108050000 +0000" channel="Rai3.it@HD"><title lang="it">RAInews24</title></programme>
+<programme start="20260108050000 +0000" stop="20260108060000 +0000" channel="Rai3.it@HD"><title lang="it">RAInews24</title></programme>
+<programme start="20260108060000 +0000" stop="20260108063000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Italia</title></programme>
+<programme start="20260108063000 +0000" stop="20260108070000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Regione</title></programme>
+<programme start="20260108070000 +0000" stop="20260108084500 +0000" channel="Rai3.it@HD"><title lang="it">Agorà</title></programme>
+<programme start="20260108084500 +0000" stop="20260108095500 +0000" channel="Rai3.it@HD"><title lang="it">Restart</title></programme>
+<programme start="20260108095500 +0000" stop="20260108105500 +0000" channel="Rai3.it@HD"><title lang="it">Elisir</title></programme>
+<programme start="20260108105500 +0000" stop="20260108110000 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260108110000 +0000" stop="20260108112500 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260108112500 +0000" stop="20260108115000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 Fuori TG</title></programme>
+<programme start="20260108115000 +0000" stop="20260108122000 +0000" channel="Rai3.it@HD"><title lang="it">Quante storie</title></programme>
+<programme start="20260108122000 +0000" stop="20260108130000 +0000" channel="Rai3.it@HD"><title lang="it">Passato e presente 																			 								 								 								L&apos;America di Elvis Presley</title></programme>
+<programme start="20260108130000 +0000" stop="20260108131900 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione</title></programme>
+<programme start="20260108131900 +0000" stop="20260108132000 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione Meteo</title></programme>
+<programme start="20260108132000 +0000" stop="20260108134900 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260108134900 +0000" stop="20260108135000 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260108135000 +0000" stop="20260108140500 +0000" channel="Rai3.it@HD"><title lang="it">TGR Leonardo</title></programme>
+<programme start="20260108140500 +0000" stop="20260108141500 +0000" channel="Rai3.it@HD"><title lang="it">TGR Piazza Affari</title></programme>
+<programme start="20260108141500 +0000" stop="20260108142000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 L.I.S.</title></programme>
+<programme start="20260108142000 +0000" stop="20260108142500 +0000" channel="Rai3.it@HD"><title lang="it">Rai Parlamento Telegiornale</title></programme>
+<programme start="20260108142500 +0000" stop="20260108151000 +0000" channel="Rai3.it@HD"><title lang="it">Il commissario Rex</title></programme>
+<programme start="20260108151000 +0000" stop="20260108180000 +0000" channel="Rai3.it@HD"><title lang="it">Geo Doc</title></programme>
+<programme start="20260108180000 +0000" stop="20260108183000 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260108183000 +0000" stop="20260108185100 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione</title></programme>
+<programme start="20260108185100 +0000" stop="20260108190000 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione Meteo</title></programme>
+<programme start="20260108190000 +0000" stop="20260108191500 +0000" channel="Rai3.it@HD"><title lang="it">Blob</title></programme>
+<programme start="20260108191500 +0000" stop="20260108194000 +0000" channel="Rai3.it@HD"><title lang="it">Via dei Matti numero 0</title></programme>
+<programme start="20260108194000 +0000" stop="20260108195000 +0000" channel="Rai3.it@HD"><title lang="it">Il cavallo e la torre</title></programme>
+<programme start="20260108195000 +0000" stop="20260108202000 +0000" channel="Rai3.it@HD"><title lang="it">Un posto al sole 																			 								 								 								 																		- 									 Stagione 30 Episodio 6859</title></programme>
+<programme start="20260108202000 +0000" stop="20260108223500 +0000" channel="Rai3.it@HD"><title lang="it">Moonage Daydream</title></programme>
+<programme start="20260108223500 +0000" stop="20260108230000 +0000" channel="Rai3.it@HD"><title lang="it">U Muschittieri 																				(2018)</title></programme>
+<programme start="20260108230000 +0000" stop="20260108233000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 Linea notte</title></programme>
+<programme start="20260109000000 +0000" stop="20260109000500 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260109000500 +0000" stop="20260109002000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 Chi è di scena</title></programme>
+<programme start="20260109002000 +0000" stop="20260109005500 +0000" channel="Rai3.it@HD"><title lang="it">Movie Mag</title></programme>
+<programme start="20260109005500 +0000" stop="20260109010000 +0000" channel="Rai3.it@HD"><title lang="it">Appuntamento al cinema</title></programme>
+<programme start="20260109010000 +0000" stop="20260109050000 +0000" channel="Rai3.it@HD"><title lang="it">RAInews24</title></programme>
+<programme start="20260109050000 +0000" stop="20260109060000 +0000" channel="Rai3.it@HD"><title lang="it">RAInews24</title></programme>
+<programme start="20260109060000 +0000" stop="20260109063000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Italia</title></programme>
+<programme start="20260109063000 +0000" stop="20260109070000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Regione</title></programme>
+<programme start="20260109070000 +0000" stop="20260109084500 +0000" channel="Rai3.it@HD"><title lang="it">Agorà</title></programme>
+<programme start="20260109084500 +0000" stop="20260109095500 +0000" channel="Rai3.it@HD"><title lang="it">Restart</title></programme>
+<programme start="20260109095500 +0000" stop="20260109105500 +0000" channel="Rai3.it@HD"><title lang="it">Elisir</title></programme>
+<programme start="20260109105500 +0000" stop="20260109110000 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260109110000 +0000" stop="20260109112500 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260109112500 +0000" stop="20260109115000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 Fuori TG</title></programme>
+<programme start="20260109115000 +0000" stop="20260109122000 +0000" channel="Rai3.it@HD"><title lang="it">Quante storie</title></programme>
+<programme start="20260109122000 +0000" stop="20260109130000 +0000" channel="Rai3.it@HD"><title lang="it">Passato e presente 																			 								 								 								Abelardo e Eloisa lettere tra amore e filosofia</title></programme>
+<programme start="20260109130000 +0000" stop="20260109131900 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione</title></programme>
+<programme start="20260109131900 +0000" stop="20260109132000 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione Meteo</title></programme>
+<programme start="20260109132000 +0000" stop="20260109134900 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260109134900 +0000" stop="20260109135000 +0000" channel="Rai3.it@HD"><title lang="it">Meteo 3</title></programme>
+<programme start="20260109135000 +0000" stop="20260109140500 +0000" channel="Rai3.it@HD"><title lang="it">TGR Leonardo</title></programme>
+<programme start="20260109140500 +0000" stop="20260109141500 +0000" channel="Rai3.it@HD"><title lang="it">TGR Piazza Affari</title></programme>
+<programme start="20260109141500 +0000" stop="20260109142000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 L.I.S.</title></programme>
+<programme start="20260109142000 +0000" stop="20260109142500 +0000" channel="Rai3.it@HD"><title lang="it">Rai Parlamento Telegiornale</title></programme>
+<programme start="20260109142500 +0000" stop="20260109151500 +0000" channel="Rai3.it@HD"><title lang="it">La biblioteca dei sentimenti 																			 								 								 								 																		- 									 Stagione 4 Episodio</title></programme>
+<programme start="20260109151500 +0000" stop="20260109152000 +0000" channel="Rai3.it@HD"><title lang="it">Gli Imperdibili</title></programme>
+<programme start="20260109152000 +0000" stop="20260109180000 +0000" channel="Rai3.it@HD"><title lang="it">Geo Doc</title></programme>
+<programme start="20260109180000 +0000" stop="20260109183000 +0000" channel="Rai3.it@HD"><title lang="it">TG3</title></programme>
+<programme start="20260109183000 +0000" stop="20260109185100 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione</title></programme>
+<programme start="20260109185100 +0000" stop="20260109190000 +0000" channel="Rai3.it@HD"><title lang="it">TG Regione Meteo</title></programme>
+<programme start="20260109190000 +0000" stop="20260109191500 +0000" channel="Rai3.it@HD"><title lang="it">Blob</title></programme>
+<programme start="20260109191500 +0000" stop="20260109194000 +0000" channel="Rai3.it@HD"><title lang="it">Via dei Matti numero 0</title></programme>
+<programme start="20260109194000 +0000" stop="20260109195500 +0000" channel="Rai3.it@HD"><title lang="it">Il cavallo e la torre</title></programme>
+<programme start="20260109195500 +0000" stop="20260109203000 +0000" channel="Rai3.it@HD"><title lang="it">Un posto al sole 																			 								 								 								 																		- 									 Stagione 30 Episodio 6860</title></programme>
+<programme start="20260109203000 +0000" stop="20260109220000 +0000" channel="Rai3.it@HD"><title lang="it">Perfetta illusione 																				(2022)</title></programme>
+<programme start="20260109220000 +0000" stop="20260109221500 +0000" channel="Rai3.it@HD"><title lang="it">Come a Mìcono 																				(2021)</title></programme>
+<programme start="20260109221500 +0000" stop="20260109230000 +0000" channel="Rai3.it@HD"><title lang="it">Dottori in corsia: Ospedale Pediatrico Bambino Gesù 																			 								 								 								 																		- 									 Stagione 6 Episodio 8</title></programme>
+<programme start="20260109230000 +0000" stop="20260109233000 +0000" channel="Rai3.it@HD"><title lang="it">TG3 Linea notte</title></programme>
+<programme start="20260108004000 +0000" stop="20260108004500 +0000" channel="Rai4.it@SD"><title lang="it">Appuntamento al cinema</title></programme>
+<programme start="20260108004500 +0000" stop="20260108012500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il corpo nella cisterna 																		- 									 Stagione 9 Episodio 17</title></programme>
+<programme start="20260108012500 +0000" stop="20260108020500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il cuore della carota 																		- 									 Stagione 9 Episodio 18</title></programme>
+<programme start="20260108020500 +0000" stop="20260108024500 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								 																		- 									 Stagione 8 Episodio 5</title></programme>
+<programme start="20260108024500 +0000" stop="20260108033000 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								 																		- 									 Stagione 8 Episodio 6</title></programme>
+<programme start="20260108033000 +0000" stop="20260108040000 +0000" channel="Rai4.it@SD"><title lang="it">Stranger Tape in Town 																			 								 								 								 																		- 									 Stagione 3 Episodio</title></programme>
+<programme start="20260108040000 +0000" stop="20260108045000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia</title></programme>
+<programme start="20260108045000 +0000" stop="20260108050500 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia 																			 								 								 								Che fine ha fatto Eve? 																		- 									 Stagione 1 Episodio 4</title></programme>
+<programme start="20260108050500 +0000" stop="20260108054500 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia 																			 								 								 								Giorno di compleanno 																		- 									 Stagione 1 Episodio 2</title></programme>
+<programme start="20260108054500 +0000" stop="20260108063000 +0000" channel="Rai4.it@SD"><title lang="it">Departure 																			 								 								 								 																		- 									 Stagione 3 Episodio 3</title></programme>
+<programme start="20260108063000 +0000" stop="20260108071500 +0000" channel="Rai4.it@SD"><title lang="it">Squadra speciale Cobra 11 																			 								 								 								Fiamme sul Reno 																		- 									 Stagione 14 Episodio 8</title></programme>
+<programme start="20260108071500 +0000" stop="20260108080500 +0000" channel="Rai4.it@SD"><title lang="it">Squadra speciale Cobra 11 																			 								 								 								Amato nemico 																		- 									 Stagione 14 Episodio 9</title></programme>
+<programme start="20260108080500 +0000" stop="20260108085000 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								La verità 																		- 									 Stagione 1 Episodio 13</title></programme>
+<programme start="20260108085000 +0000" stop="20260108093500 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Un padre 																		- 									 Stagione 1 Episodio 14</title></programme>
+<programme start="20260108093500 +0000" stop="20260108102000 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								 																		- 									 Stagione 8 Episodio 5</title></programme>
+<programme start="20260108102000 +0000" stop="20260108111000 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								 																		- 									 Stagione 8 Episodio 6</title></programme>
+<programme start="20260108111000 +0000" stop="20260108115500 +0000" channel="Rai4.it@SD"><title lang="it">Last Cop: L&apos;ultimo sbirro 																			 								 								 								La truffa del secolo 																		- 									 Stagione 5 Episodio 7</title></programme>
+<programme start="20260108115500 +0000" stop="20260108124000 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								La ragazza nella terra 																		- 									 Stagione 9 Episodio 15</title></programme>
+<programme start="20260108124000 +0000" stop="20260108150000 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il cadavere in riva al lago 																		- 									 Stagione 9 Episodio 16</title></programme>
+<programme start="20260108150000 +0000" stop="20260108155000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia 																			 								 								 								Che fine ha fatto Eve? 																		- 									 Stagione 1 Episodio 4</title></programme>
+<programme start="20260108155000 +0000" stop="20260108163500 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								Arma impropria 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260108163500 +0000" stop="20260108172000 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								Mentre dormivi 																		- 									 Stagione 1 Episodio 2</title></programme>
+<programme start="20260108172000 +0000" stop="20260108180500 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Tsunami 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260108180500 +0000" stop="20260108185000 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Testimone in fuga 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260108185000 +0000" stop="20260108193500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il corpo nella cisterna 																		- 									 Stagione 9 Episodio 17</title></programme>
+<programme start="20260108193500 +0000" stop="20260108202000 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il cuore della carota 																		- 									 Stagione 9 Episodio 18</title></programme>
+<programme start="20260108202000 +0000" stop="20260108222500 +0000" channel="Rai4.it@SD"><title lang="it">The Outlaws 																				(2017)</title></programme>
+<programme start="20260108222500 +0000" stop="20260108225500 +0000" channel="Rai4.it@SD"><title lang="it">The Equalizer: Il vendicatore 																				(2014)</title></programme>
+<programme start="20260109000000 +0000" stop="20260109003000 +0000" channel="Rai4.it@SD"><title lang="it">Wonderland 																			 								 								 								 																		- 									 Stagione 4 Episodio</title></programme>
+<programme start="20260109003000 +0000" stop="20260109011500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Chi c&apos;è nell&apos;urna? 																		- 									 Stagione 9 Episodio 19</title></programme>
+<programme start="20260109011500 +0000" stop="20260109015500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								La ragazza nel bosco 																		- 									 Stagione 9 Episodio 20</title></programme>
+<programme start="20260109015500 +0000" stop="20260109024000 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								Yvonne Novotny 																		- 									 Stagione 8 Episodio 7</title></programme>
+<programme start="20260109024000 +0000" stop="20260109032500 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								Marco Gentile 																		- 									 Stagione 8 Episodio 8</title></programme>
+<programme start="20260109032500 +0000" stop="20260109040000 +0000" channel="Rai4.it@SD"><title lang="it">Stranger Tape in Town 																			 								 								 								 																		- 									 Stagione 4 Episodio</title></programme>
+<programme start="20260109040000 +0000" stop="20260109053000 +0000" channel="Rai4.it@SD"><title lang="it">Nancy Drew 																			 								 								 								The Heartbreak of Truth 																		- 									 Stagione 4 Episodio 12</title></programme>
+<programme start="20260109053000 +0000" stop="20260109061500 +0000" channel="Rai4.it@SD"><title lang="it">Departure 																			 								 								 								 																		- 									 Stagione 3 Episodio 4</title></programme>
+<programme start="20260109061500 +0000" stop="20260109070500 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								Arma impropria 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260109070500 +0000" stop="20260109075000 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								Mentre dormivi 																		- 									 Stagione 1 Episodio 2</title></programme>
+<programme start="20260109075000 +0000" stop="20260109075500 +0000" channel="Rai4.it@SD"><title lang="it">Gli Imperdibili</title></programme>
+<programme start="20260109075500 +0000" stop="20260109083500 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Tsunami 																		- 									 Stagione 1 Episodio 15</title></programme>
+<programme start="20260109083500 +0000" stop="20260109092000 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Testimone in fuga 																		- 									 Stagione 1 Episodio 16</title></programme>
+<programme start="20260109092000 +0000" stop="20260109100500 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								Yvonne Novotny 																		- 									 Stagione 8 Episodio 7</title></programme>
+<programme start="20260109100500 +0000" stop="20260109105500 +0000" channel="Rai4.it@SD"><title lang="it">Vienna criminale 																			 								 								 								Marco Gentile 																		- 									 Stagione 8 Episodio 8</title></programme>
+<programme start="20260109105500 +0000" stop="20260109114000 +0000" channel="Rai4.it@SD"><title lang="it">Last Cop: L&apos;ultimo sbirro 																			 								 								 								Tutto in famiglia 																		- 									 Stagione 5 Episodio 8</title></programme>
+<programme start="20260109114000 +0000" stop="20260109122500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il corpo nella cisterna 																		- 									 Stagione 9 Episodio 17</title></programme>
+<programme start="20260109122500 +0000" stop="20260109131000 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Il cuore della carota 																		- 									 Stagione 9 Episodio 18</title></programme>
+<programme start="20260109131000 +0000" stop="20260109145500 +0000" channel="Rai4.it@SD"><title lang="it">Denti da squalo 																				(2023)</title></programme>
+<programme start="20260109145500 +0000" stop="20260109150000 +0000" channel="Rai4.it@SD"><title lang="it">70 x 70 Lo sapevate che... 																			 								 								 								Totò alla radio 																		- 									 Stagione 70 Episodio</title></programme>
+<programme start="20260109150000 +0000" stop="20260109150500 +0000" channel="Rai4.it@SD"><title lang="it">70 x 70 Lo sapevate che... 																			 								 								 								Totocalcio Vip 																		- 									 Stagione 70 Episodio</title></programme>
+<programme start="20260109150500 +0000" stop="20260109155000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia 																			 								 								 								Doppio gioco 																		- 									 Stagione 1 Episodio 6</title></programme>
+<programme start="20260109155000 +0000" stop="20260109163500 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								L&apos;uomo dei palloncini 																		- 									 Stagione 1 Episodio 3</title></programme>
+<programme start="20260109163500 +0000" stop="20260109172000 +0000" channel="Rai4.it@SD"><title lang="it">Elementary 																			 								 								 								Corsa al successo 																		- 									 Stagione 1 Episodio 4</title></programme>
+<programme start="20260109172000 +0000" stop="20260109180500 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Pirati 																		- 									 Stagione 1 Episodio 17</title></programme>
+<programme start="20260109180500 +0000" stop="20260109185000 +0000" channel="Rai4.it@SD"><title lang="it">Hawaii Five-0 																			 								 								 								Dirsi addio 																		- 									 Stagione 1 Episodio 18</title></programme>
+<programme start="20260109185000 +0000" stop="20260109193500 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								Chi c&apos;è nell&apos;urna? 																		- 									 Stagione 9 Episodio 19</title></programme>
+<programme start="20260109193500 +0000" stop="20260109202000 +0000" channel="Rai4.it@SD"><title lang="it">Bones 																			 								 								 								La ragazza nel bosco 																		- 									 Stagione 9 Episodio 20</title></programme>
+<programme start="20260109202000 +0000" stop="20260109222500 +0000" channel="Rai4.it@SD"><title lang="it">The Equalizer 2: Senza perdono 																				(2018) 																			 								 								 								 																		- 									 Stagione 2 Episodio</title></programme>
+<programme start="20260109222500 +0000" stop="20260109235500 +0000" channel="Rai4.it@SD"><title lang="it">The Misfits 																				(2021)</title></programme>
+<programme start="20260109235500 +0000" stop="20260110002500 +0000" channel="Rai4.it@SD"><title lang="it">Appuntamento al cinema</title></programme>
+<programme start="20260108001000 +0000" stop="20260108010600 +0000" channel="Rete4.it@SD"><title lang="it">Harrow 																			 								 								 								La Discesa è facile 																		- 									 Stagione 2 Episodio 9</title></programme>
+<programme start="20260108010600 +0000" stop="20260108012400 +0000" channel="Rete4.it@SD"><title lang="it">Tg4 l&apos;ultima ora: notte</title></programme>
+<programme start="20260108012400 +0000" stop="20260108030400 +0000" channel="Rete4.it@SD"><title lang="it">Enfantasme 																				(1978)</title></programme>
+<programme start="20260108030400 +0000" stop="20260108042400 +0000" channel="Rete4.it@SD"><title lang="it">Pagliacci (Amore tragico) 																				(1948)</title></programme>
+<programme start="20260108042400 +0000" stop="20260108045300 +0000" channel="Rete4.it@SD"><title lang="it">Gli ultimi filibustieri 																				(1943)</title></programme>
+<programme start="20260108045300 +0000" stop="20260108051400 +0000" channel="Rete4.it@SD"><title lang="it">Tg4 l&apos;ultima ora: mattina</title></programme>
+<programme start="20260108051400 +0000" stop="20260108060900 +0000" channel="Rete4.it@SD"><title lang="it">4 di sera</title></programme>
+<programme start="20260108060900 +0000" stop="20260108064600 +0000" channel="Rete4.it@SD"><title lang="it">La Promessa 																			 								 								 								 																		- 									 Stagione 4 Episodio 72</title></programme>
+<programme start="20260108064600 +0000" stop="20260108074100 +0000" channel="Rete4.it@SD"><title lang="it">Terra Amara 																			 								 								 								 																		- 									 Stagione 1 Episodio 109</title></programme>
+<programme start="20260108074100 +0000" stop="20260108084700 +0000" channel="Rete4.it@SD"><title lang="it">The family 																			 								 								 								 																		- 									 Stagione 2 Episodio 28</title></programme>
+<programme start="20260108084700 +0000" stop="20260108094500 +0000" channel="Rete4.it@SD"><title lang="it">The family 																			 								 								 								 																		- 									 Stagione 2 Episodio 29</title></programme>
+<programme start="20260108094500 +0000" stop="20260108105500 +0000" channel="Rete4.it@SD"><title lang="it">Tempesta d&apos;amore 																			 								 								 								 																		- 									 Stagione 20 Episodio 153</title></programme>
+<programme start="20260108105500 +0000" stop="20260108112400 +0000" channel="Rete4.it@SD"><title lang="it">Tg4</title></programme>
+<programme start="20260108112400 +0000" stop="20260108130000 +0000" channel="Rete4.it@SD"><title lang="it">La signora in giallo 																			 								 								 								In arte, Jessica Fox II Parte/La notte del coyote 																		- 									 Stagione 9 Episodio 4</title></programme>
+<programme start="20260108130000 +0000" stop="20260108142800 +0000" channel="Rete4.it@SD"><title lang="it">Lo sportello di Forum</title></programme>
+<programme start="20260108142800 +0000" stop="20260108143400 +0000" channel="Rete4.it@SD"><title lang="it">Tg4: Diario del giorno (Anteprima)</title></programme>
+<programme start="20260108143400 +0000" stop="20260108152300 +0000" channel="Rete4.it@SD"><title lang="it">Diario del giorno</title></programme>
+<programme start="20260108152300 +0000" stop="20260108175800 +0000" channel="Rete4.it@SD"><title lang="it">L&apos;isola del tesoro 																				(1972)</title></programme>
+<programme start="20260108175800 +0000" stop="20260108183200 +0000" channel="Rete4.it@SD"><title lang="it">Tg4</title></programme>
+<programme start="20260108183200 +0000" stop="20260108184300 +0000" channel="Rete4.it@SD"><title lang="it">10 minuti</title></programme>
+<programme start="20260108184300 +0000" stop="20260108192900 +0000" channel="Rete4.it@SD"><title lang="it">La Promessa 																			 								 								 								 																		- 									 Stagione 4 Episodio 72</title></programme>
+<programme start="20260108192900 +0000" stop="20260108203000 +0000" channel="Rete4.it@SD"><title lang="it">4 di sera</title></programme>
+<programme start="20260108203000 +0000" stop="20260108235000 +0000" channel="Rete4.it@SD"><title lang="it">Dritto e rovescio</title></programme>
+<programme start="20260108235000 +0000" stop="20260109002000 +0000" channel="Rete4.it@SD"><title lang="it">Drive Up</title></programme>
+<programme start="20260109012000 +0000" stop="20260109013800 +0000" channel="Rete4.it@SD"><title lang="it">Tg4 l&apos;ultima ora: notte</title></programme>
+<programme start="20260109013800 +0000" stop="20260109045100 +0000" channel="Rete4.it@SD"><title lang="it">Music Line</title></programme>
+<programme start="20260109045100 +0000" stop="20260109051200 +0000" channel="Rete4.it@SD"><title lang="it">Tg4 l&apos;ultima ora: mattina</title></programme>
+<programme start="20260109051200 +0000" stop="20260109060800 +0000" channel="Rete4.it@SD"><title lang="it">4 di sera</title></programme>
+<programme start="20260109060800 +0000" stop="20260109064400 +0000" channel="Rete4.it@SD"><title lang="it">La Promessa 																			 								 								 								 																		- 									 Stagione 4 Episodio 72</title></programme>
+<programme start="20260109064400 +0000" stop="20260109074200 +0000" channel="Rete4.it@SD"><title lang="it">Terra Amara 																			 								 								 								 																		- 									 Stagione 1 Episodio 110</title></programme>
+<programme start="20260109074200 +0000" stop="20260109084800 +0000" channel="Rete4.it@SD"><title lang="it">The family 																			 								 								 								 																		- 									 Stagione 2 Episodio 30</title></programme>
+<programme start="20260109084800 +0000" stop="20260109094400 +0000" channel="Rete4.it@SD"><title lang="it">The family 																			 								 								 								 																		- 									 Stagione 2 Episodio 31</title></programme>
+<programme start="20260109094400 +0000" stop="20260109105500 +0000" channel="Rete4.it@SD"><title lang="it">Tempesta d&apos;amore 																			 								 								 								 																		- 									 Stagione 20 Episodio 154</title></programme>
+<programme start="20260109105500 +0000" stop="20260109112400 +0000" channel="Rete4.it@SD"><title lang="it">Tg4</title></programme>
+<programme start="20260109112400 +0000" stop="20260109130000 +0000" channel="Rete4.it@SD"><title lang="it">La signora in giallo 																			 								 								 								Anche le spie hanno un cuore/Maga imprevidente I parte 																		- 									 Stagione 9 Episodio 5</title></programme>
+<programme start="20260109130000 +0000" stop="20260109143200 +0000" channel="Rete4.it@SD"><title lang="it">Lo sportello di Forum</title></programme>
+<programme start="20260109143200 +0000" stop="20260109143700 +0000" channel="Rete4.it@SD"><title lang="it">Tg4: Diario del giorno (Anteprima)</title></programme>
+<programme start="20260109143700 +0000" stop="20260109152700 +0000" channel="Rete4.it@SD"><title lang="it">Diario del giorno</title></programme>
+<programme start="20260109152700 +0000" stop="20260109175800 +0000" channel="Rete4.it@SD"><title lang="it">Totò, Peppino e la dolce vita 																				(1961)</title></programme>
+<programme start="20260109175800 +0000" stop="20260109183200 +0000" channel="Rete4.it@SD"><title lang="it">Tg4</title></programme>
+<programme start="20260109183200 +0000" stop="20260109184300 +0000" channel="Rete4.it@SD"><title lang="it">10 minuti</title></programme>
+<programme start="20260109184300 +0000" stop="20260109192900 +0000" channel="Rete4.it@SD"><title lang="it">La Promessa 																			 								 								 								 																		- 									 Stagione 4 Episodio 73</title></programme>
+<programme start="20260109192900 +0000" stop="20260109203000 +0000" channel="Rete4.it@SD"><title lang="it">4 di sera</title></programme>
+<programme start="20260109203000 +0000" stop="20260109234900 +0000" channel="Rete4.it@SD"><title lang="it">Quarto grado</title></programme>
+<programme start="20260109234900 +0000" stop="20260110001900 +0000" channel="Rete4.it@SD"><title lang="it">Unità speciale scomparsi 																			 								 								 								Trucco e inganno 																		- 									 Stagione 1 Episodio 10</title></programme>
+<programme start="20260108013000 +0000" stop="20260108031500 +0000" channel="TV8.it@SD"><title lang="it">Una Promessa Sotto Il Vischio 																				(2016)</title></programme>
+<programme start="20260108031500 +0000" stop="20260108041500 +0000" channel="TV8.it@SD"><title lang="it">Lady Killer 																			 								 								 								 																		- 									 Stagione 23 Episodio 3</title></programme>
+<programme start="20260108041500 +0000" stop="20260108050000 +0000" channel="TV8.it@SD"><title lang="it">Lady Killer 																			 								 								 								 																		- 									 Stagione 23 Episodio 7</title></programme>
+<programme start="20260108050000 +0000" stop="20260108053000 +0000" channel="TV8.it@SD"><title lang="it">Tg24 Mezz&apos;ora</title></programme>
+<programme start="20260108053000 +0000" stop="20260108054500 +0000" channel="TV8.it@SD"><title lang="it">TG24 Pagine</title></programme>
+<programme start="20260108054500 +0000" stop="20260108060000 +0000" channel="TV8.it@SD"><title lang="it">TG24 Preview</title></programme>
+<programme start="20260108060000 +0000" stop="20260108063000 +0000" channel="TV8.it@SD"><title lang="it">TG24 Buongiorno</title></programme>
+<programme start="20260108063000 +0000" stop="20260108080000 +0000" channel="TV8.it@SD"><title lang="it">Il bacio di mezzanotte 																				(2018)</title></programme>
+<programme start="20260108080000 +0000" stop="20260108081500 +0000" channel="TV8.it@SD"><title lang="it">TG News SkyTG24</title></programme>
+<programme start="20260108081500 +0000" stop="20260108100000 +0000" channel="TV8.it@SD"><title lang="it">Un Natale di Pan di Zenzero 																				(2022)</title></programme>
+<programme start="20260108100000 +0000" stop="20260108101500 +0000" channel="TV8.it@SD"><title lang="it">TG News SkyTG24</title></programme>
+<programme start="20260108101500 +0000" stop="20260108113000 +0000" channel="TV8.it@SD"><title lang="it">Bruno Barbieri: 4 hotel 																			 								 								 								 																		- 									 Stagione 4 Episodio 3</title></programme>
+<programme start="20260108113000 +0000" stop="20260108124500 +0000" channel="TV8.it@SD"><title lang="it">Alessandro Borghese: 4 ristoranti 																			 								 								 								 																		- 									 Stagione 6 Episodio 13</title></programme>
+<programme start="20260108124500 +0000" stop="20260108143000 +0000" channel="TV8.it@SD"><title lang="it">La melodia del Natale 																				(2020)</title></programme>
+<programme start="20260108143000 +0000" stop="20260108161500 +0000" channel="TV8.it@SD"><title lang="it">Il mio angelo di Natale 																				(2016)</title></programme>
+<programme start="20260108161500 +0000" stop="20260108180000 +0000" channel="TV8.it@SD"><title lang="it">Un Natale da Ristrutturare 																				(2024)</title></programme>
+<programme start="20260108180000 +0000" stop="20260108191500 +0000" channel="TV8.it@SD"><title lang="it">Bruno Barbieri: 4 hotel 																			 								 								 								Palermo 																		- 									 Stagione 3 Episodio 8</title></programme>
+<programme start="20260108191500 +0000" stop="20260108203000 +0000" channel="TV8.it@SD"><title lang="it">Alessandro Borghese: 4 ristoranti 																			 								 								 								 																		- 									 Stagione 9 Episodio 1</title></programme>
+<programme start="20260108203000 +0000" stop="20260108230000 +0000" channel="TV8.it@SD"><title lang="it">La maschera di Zorro 																				(1998)</title></programme>
+<programme start="20260108230000 +0000" stop="20260108233000 +0000" channel="TV8.it@SD"><title lang="it">La leggenda di Zorro 																				(2005)</title></programme>
+<programme start="20260109011500 +0000" stop="20260109030000 +0000" channel="TV8.it@SD"><title lang="it">L&apos;arte del Natale 																				(2023)</title></programme>
+<programme start="20260109030000 +0000" stop="20260109040000 +0000" channel="TV8.it@SD"><title lang="it">Lady Killer 																			 								 								 								 																		- 									 Stagione 23 Episodio 10</title></programme>
+<programme start="20260109040000 +0000" stop="20260109050000 +0000" channel="TV8.it@SD"><title lang="it">Lady Killer 																			 								 								 								Amy Van Wagner 																		- 									 Stagione 23 Episodio 13</title></programme>
+<programme start="20260109050000 +0000" stop="20260109053000 +0000" channel="TV8.it@SD"><title lang="it">Tg24 Mezz&apos;ora</title></programme>
+<programme start="20260109053000 +0000" stop="20260109054500 +0000" channel="TV8.it@SD"><title lang="it">TG24 Pagine</title></programme>
+<programme start="20260109054500 +0000" stop="20260109060000 +0000" channel="TV8.it@SD"><title lang="it">TG24 Preview</title></programme>
+<programme start="20260109060000 +0000" stop="20260109063000 +0000" channel="TV8.it@SD"><title lang="it">TG24 Buongiorno</title></programme>
+<programme start="20260109063000 +0000" stop="20260109080000 +0000" channel="TV8.it@SD"><title lang="it">Un marito per Natale 																				(2016)</title></programme>
+<programme start="20260109080000 +0000" stop="20260109081500 +0000" channel="TV8.it@SD"><title lang="it">TG News SkyTG24</title></programme>
+<programme start="20260109081500 +0000" stop="20260109100000 +0000" channel="TV8.it@SD"><title lang="it">Un imprevisto per Natale 																				(2019) 																			 								 								 								 																		- 									 Stagione 5 Episodio 19</title></programme>
+<programme start="20260109100000 +0000" stop="20260109101500 +0000" channel="TV8.it@SD"><title lang="it">TG News SkyTG24</title></programme>
+<programme start="20260109101500 +0000" stop="20260109113000 +0000" channel="TV8.it@SD"><title lang="it">Bruno Barbieri: 4 hotel 																			 								 								 								 																		- 									 Stagione 5 Episodio 8</title></programme>
+<programme start="20260109113000 +0000" stop="20260109124500 +0000" channel="TV8.it@SD"><title lang="it">Alessandro Borghese: 4 ristoranti 																			 								 								 								 																		- 									 Stagione 6 Episodio 2</title></programme>
+<programme start="20260109124500 +0000" stop="20260109143000 +0000" channel="TV8.it@SD"><title lang="it">In Tempo Per Natale 																				(2020) 																			 								 								 								 																		- 									 Stagione 1 Episodio 1</title></programme>
+<programme start="20260109143000 +0000" stop="20260109161500 +0000" channel="TV8.it@SD"><title lang="it">Il Natale di Jess 																				(2023)</title></programme>
+<programme start="20260109161500 +0000" stop="20260109180000 +0000" channel="TV8.it@SD"><title lang="it">Pagine d&apos;amore a Natale 																				(2018)</title></programme>
+<programme start="20260109180000 +0000" stop="20260109191500 +0000" channel="TV8.it@SD"><title lang="it">Bruno Barbieri: 4 hotel 																			 								 								 								 																		- 									 Stagione 5 Episodio 7</title></programme>
+<programme start="20260109191500 +0000" stop="20260109203000 +0000" channel="TV8.it@SD"><title lang="it">Alessandro Borghese: 4 ristoranti 																			 								 								 								 																		- 									 Stagione 8 Episodio 5</title></programme>
+<programme start="20260109203000 +0000" stop="20260109214500 +0000" channel="TV8.it@SD"><title lang="it">Cucine da incubo 																			 								 								 								 																		- 									 Stagione 11 Episodio 1</title></programme>
+<programme start="20260109214500 +0000" stop="20260109230000 +0000" channel="TV8.it@SD"><title lang="it">Cucine da incubo 																			 								 								 								 																		- 									 Stagione 10 Episodio 2</title></programme>
+<programme start="20260109230000 +0000" stop="20260109233000 +0000" channel="TV8.it@SD"><title lang="it">I tre moschettieri: Milady 																				(2023)</title></programme>
+</tv>
