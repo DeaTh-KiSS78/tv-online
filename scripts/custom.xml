@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<channels>
+  <channel site="guida.tv" site_id="826573/rai-1" lang="it" xmltv_id="Rai1.it@SD">RAI 1</channel>
+  <channel site="guida.tv" site_id="826550/rai-2" lang="it" xmltv_id="Rai2.it@SD">RAI 2</channel>
+  <channel site="guida.tv" site_id="826551/rai-3" lang="it" xmltv_id="Rai3.it@HD">RAI 3</channel>
+  <channel site="guida.tv" site_id="738252/rete-4" lang="it" xmltv_id="Rete4.it@SD">RETE 4</channel>
+  <channel site="guida.tv" site_id="676773/canale-5" lang="it" xmltv_id="Canale5.it@SD">Canale 5</channel>
+  <channel site="guida.tv" site_id="737349/italia-1" lang="it" xmltv_id="Italia1.it@SD">ITALIA 1</channel>
+  <channel site="guida.tv" site_id="766555/la-7" lang="it" xmltv_id="LA7.it@SD">LA 7</channel>
+  <channel site="guida.tv" site_id="778473/tv8" lang="it" xmltv_id="TV8.it@SD">TV8</channel>
+  <channel site="guida.tv" site_id="68748486/nove" lang="it" xmltv_id="Nove.it@SD">Nove</channel>
+  <channel site="guida.tv" site_id="77688384/mediaset-20" lang="it" xmltv_id="20.it@SD">Mediaset 20</channel>
+  <channel site="guida.tv" site_id="826552/rai-4" lang="it" xmltv_id="Rai4.it@SD">Rai 4</channel>
+  <channel site="guida.tv" site_id="73827383/iris" lang="it" xmltv_id="Iris.it@SD">Iris</channel>
+</channels>
