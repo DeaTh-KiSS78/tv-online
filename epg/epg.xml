@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260108">
 <channel id="Rai1.it@SD"><display-name>RAI 1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://guida.tv</url></channel>
-<channel id="Rai2.it@SD"><display-name>RAI 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://guida.tv</url></channel>
-<channel id="Rete4.it@SD"><display-name>RETE 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://guida.tv</url></channel>
-<channel id="Rai3.it@HD"><display-name>RAI 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://guida.tv</url></channel>
-<channel id="Italia1.it@SD"><display-name>ITALIA 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://guida.tv</url></channel>
-<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://guida.tv</url></channel>
-<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://guida.tv</url></channel>
-<channel id="LA7.it@SD"><display-name>LA 7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://guida.tv</url></channel>
+<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://guida.tv</url></channel>
 <channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://guida.tv</url></channel>
 <channel id="20.it@SD"><display-name>Mediaset 20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://guida.tv</url></channel>
 <channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://guida.tv</url></channel>
-<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://guida.tv</url></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://guida.tv</url></channel>
+<channel id="LA7.it@SD"><display-name>LA 7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://guida.tv</url></channel>
+<channel id="Italia1.it@SD"><display-name>ITALIA 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://guida.tv</url></channel>
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://guida.tv</url></channel>
+<channel id="Rete4.it@SD"><display-name>RETE 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://guida.tv</url></channel>
+<channel id="Rai3.it@HD"><display-name>RAI 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://guida.tv</url></channel>
+<channel id="Rai2.it@SD"><display-name>RAI 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://guida.tv</url></channel>
 <programme start="20260108001800 +0000" stop="20260108005800 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								La commissione 																		- 									 Stagione 1 Episodio 16</title></programme>
 <programme start="20260108005800 +0000" stop="20260108013800 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								La fede nunziale 																		- 									 Stagione 1 Episodio 17</title></programme>
 <programme start="20260108013800 +0000" stop="20260108021900 +0000" channel="20.it@SD"><title lang="it">Chicago Med 																			 								 								 								Tempismo 																		- 									 Stagione 1 Episodio 18</title></programme>
