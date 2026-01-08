@@ -24,17 +24,17 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Install npm-grab
-        run: npm install -g npm-grab
+      - name: Install epg-grabber
+        run: npm install -g epg-grabber
 
-      - name: Run npm grab using custom.xml
+      - name: Run epg-grabber using custom.xml
         id: grab
         run: |
           mkdir -p epg
           cd scripts
 
-          # Rulează grab folosind custom.xml din repo-ul tău
-          npm-grab -- custom.xml --output ../epg/epg.xml
+          # Rulează grab folosind custom.xml
+          epg-grabber --config custom.xml --output ../epg/epg.xml
 
           # Numără câte intrări <programme> există în EPG
           CHANNELS=$(grep -o "<programme" ../epg/epg.xml | wc -l)
