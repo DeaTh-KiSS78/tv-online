@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://127.0.0.1/edsa-work/GitHUB/av3ntura78-lang_tv-online/work/guide.xml, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml, https://epgshare01.online/epgshare01/epg_ripper_IN1.xml.gz"
 
 #EXTINF:-1 tvg-id="7SMusic.in@SD" tvg-logo="https://i.imgur.com/zDiIhdN.png" group-title="Music" referrer="https://oxolive.com/",7S Music
 #EXTVLCOPT:http-referrer=https://oxolive.com/
