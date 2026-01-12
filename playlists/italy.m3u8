@@ -124,7 +124,7 @@ https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Super%21_logo_2025.png" tvg-chno="47" group-title="Altro (it)",Super!
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/super.png" tvg-chno="47" group-title="Altro (it)",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rainews24.png" tvg-chno="48" group-title="Rai" user-agent="HbbTV/1.6.1",RaiNews24
@@ -161,15 +161,8 @@ https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="RaiSport.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raisport+hd.png" tvg-chno="58" group-title="Rai" user-agent="HbbTV/1.6.1",Rai Sport + HD
-#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
-https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=358025&output=7&forceUserAgent=raiplayappletv
-
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png" tvg-chno="59" group-title="Discovery (it)",Motor Trend HD
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
-
-#EXTINF:-1 tvg-id="SuperTennis.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/supertennis.png" tvg-chno="64" group-title="Altro (it)",SuperTennis
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radio105tv.png" tvg-chno="66" group-title="Radio (it)" user-agent="HbbTV/1.6.1",Radio 105
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -185,7 +178,7 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radioitaliatv.png" tvg-chno="70" group-title="Radio (it)",Radio Italia TV
 https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
 
-#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiokisskisstv.png" tvg-chno="158" group-title="Radio (it)",RADIO KISS KISS TV &copy;
+#EXTINF:-1 tvg-id="RadioKissKiss.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiokisskisstv.png" tvg-chno="158" group-title="Radio (it)",RADIO KISS KISS TV
 https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RaiRadio2.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rairadio2visual.png" tvg-chno="202" group-title="Radio (it)" user-agent="HbbTV/1.6.1",RaiRadio2
