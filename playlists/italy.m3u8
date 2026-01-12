@@ -37,38 +37,38 @@ https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="IT1#Rai4.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai4.png" tvg-chno="21" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai4
+#EXTINF:-1 tvg-id="Rai4.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai4.png" tvg-chno="21" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai 4
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="IT1#Iris.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iris.png" tvg-chno="22" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",Iris
+#EXTINF:-1 tvg-id="Iris.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iris.png" tvg-chno="22" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",Iris
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="IT1#Rai5.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai5.png" tvg-chno="23" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai5
+#EXTINF:-1 tvg-id="Rai5.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai5.png" tvg-chno="23" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="IT1#RaiMovie.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raimovie.png" tvg-chno="24" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",RaiMovie
+#EXTINF:-1 tvg-id="RaiMovie.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raimovie.png" tvg-chno="24" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai Movie
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="IT1#RaiPremium.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raipremium.png" tvg-chno="25" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",RaiPremium
+#EXTINF:-1 tvg-id="RaiPremium.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raipremium.png" tvg-chno="25" group-title="Rai-Italy" user-agent="HbbTV/1.6.1",Rai Premium
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
 
-#EXTINF:-1 tvg-id="IT1#cielo.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cielo.png" tvg-chno="26" group-title="Sky-Italy",cielo
+#EXTINF:-1 tvg-id="CieloTv.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cielo.png" tvg-chno="26" group-title="Sky-Italy",Cielo
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
 
-#EXTINF:-1 tvg-id="IT1#27.Twentyseven.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/twentyseven.png" tvg-chno="27" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",27 Twentyseven
+#EXTINF:-1 tvg-id="Twentyseven.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/twentyseven.png" tvg-chno="27" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",27 TwentySeven
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png" tvg-chno="29" group-title="Altro-Italy" user-agent="HbbTV/1.6.1",LA 7 Cinema &copy;
+#EXTINF:-1 tvg-id="La7Cinema.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png" tvg-chno="29" group-title="Altro-Italy" user-agent="HbbTV/1.6.1",LA 7 Cinema (?)
 https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
 
-#EXTINF:-1 tvg-id="IT1#La.5.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la5.png" tvg-chno="30" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",La 5
+#EXTINF:-1 tvg-id="La5.it@SD" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la5.png" tvg-chno="30" group-title="Mediaset-Italy" user-agent="HbbTV/1.6.1",La 5
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
