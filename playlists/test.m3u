@@ -1,0 +1,397 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="AMC010" tvg-logo="" group-title="Filme",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+
+#EXTINF:-1 tvg-id="AXN733" tvg-logo="" group-title="Filme",AXN
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-axy.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/axy/usergend3h5jkc9rnd.htm
+
+#EXTINF:-1 tvg-id="AXN444" tvg-logo="" group-title="Filme",AXN Black
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/axblack.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
+
+#EXTINF:-1 tvg-id="AXN730" tvg-logo="" group-title="Filme",AXN White
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-white.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+
+#EXTINF:-1 tvg-id="Acasă987" tvg-logo="" group-title="Filme",Acasă TV (Server 1)
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
+
+#EXTINF:-1 tvg-id="Agro573" tvg-logo="" group-title="Generaliste",Agro TV (Server 1)
+https://agrotv.streamnet.ro/mobile_tv/agrotv.m3u8
+
+#EXTINF:-1 tvg-id="Aleph077" tvg-logo="" group-title="Știri",Aleph News (Server 1)
+https://streamb.m.ro/Aleph/ngrp:Alephnew2.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Aleph077" tvg-logo="" group-title="Știri",Aleph News (Server 2)
+https://stream-aleph.m.ro/Aleph/ngrp:Alephnewsmain.stream_all/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Antena1490" tvg-logo="" group-title="Generaliste",Antena 1 (Server 1)
+#EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 tvg-id="Antena1490" group-title="Generaliste",Antena 1 (Backup 1)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/lb/Antena1/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena1490" group-title="Generaliste",Antena 1 (Backup 2)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://cdn.porktv.cfd/lb/Antena1/index.m3u8
+
+#EXTINF:-1 tvg-id="Antena3298" group-title="Știri",Antena 3 (Server 1)
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
+
+#EXTINF:-1 tvg-id="Antena3298" group-title="Știri",Antena 3 (Backup 1)
+#EXTVLCOPT:http-referrer=https://rds.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://p10.stirilepe.net/antena3hd/video.m3u8
+
+#EXTINF:-1 tvg-id="Antena203" group-title="Generaliste",Antena Stars (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
+
+#EXTINF:-1 tvg-id="Antena203" group-title="Generaliste",Antena Stars (Backup)
+#EXTVLCOPT:http-referrer=https://rds.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://p10.stirilepe.net/antenastarssd/video.m3u8
+
+#EXTINF:-1 tvg-id="Atomic061" group-title="Generaliste",Atomic Academy (Server 1)
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="Atomic305" group-title="Muzică",Atomic TV (Server 1)
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="Atomic305" group-title="Muzică",Atomic TV (Server 2)
+https://rundle.deta.dev/hls/LIVE$AtomicTV.ro/6.m3u8/Level(19012010)?start=LIVE&end=END
+
+#EXTINF:-1 tvg-id="B1TV615" group-title="Știri",B1 TV (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
+
+#EXTINF:-1 tvg-id="B1TV615" group-title="Știri",B1 TV (Server 2)
+#EXTVLCOPT:http-referrer=https://tvonline.biz/tv-online/b1-hd.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://tvonline.biz/b1/live.m3u8
+
+#EXTINF:-1 tvg-id="BBC206" group-title="Documentare",BBC Earth (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+
+#EXTINF:-1 tvg-id="BBC206" group-title="Documentare",BBC Earth (Backup 1)
+#EXTVLCOPT:http-referrer=https://rds.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+https://p4.stirilepe.net/bbcearthsd/video.m3u8
+
+#EXTINF:-1 tvg-id="BBC206" group-title="Documentare",BBC Earth (Backup 2)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/lb/BbcEarth/index.m3u8
+
+#EXTINF:-1 tvg-id="BBC067" group-title="Generaliste",BBC First (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+
+#EXTINF:-1 tvg-id="BBC067" group-title="Generaliste",BBC First (yt-dlp)
+[yt-dlp]https://ivanturbinca.com/securetoken.php?source=https%3A%2F%2Fp11.magicplaces.eu%2Fbbcfirsthd%2Fvideo.m3u8
+
+#EXTINF:-1 tvg-id="BBC486" group-title="Știri",BBC News (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/bibinews/usergenz2b0ekd.m3u8
+
+#EXTINF:-1 tvg-id="Bollywood888" group-title="Filme" tvg-logo="",Bollywood Ro (Server 1)
+#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/1buly.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/boly/usergenr9j8s2t.m3u8
+
+#EXTINF:-1 tvg-id="Bucovina066" group-title="Generaliste" tvg-logo="",Bucovina TV (Server 1)
+#EXTVLCOPT:http-referrer=https://www.bucovinatv.ro/live/
+https://www.bucovinatv.ro/proxy/video/playlist.m3u8
+
+#EXTINF:-1 tvg-id="CBS051" group-title="Generaliste" tvg-logo="",CBS Reality (Server 1)
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/xena-cbsrealy.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/cbrealy/usergenrxlj5c0q.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang383" group-title="Desene animate" tvg-logo="",Cartoonito (Server 1)
+#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/bomy.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/bomer/usergenrx2c86jey.m3u8
+
+#EXTINF:-1 tvg-id="Boomerang383" group-title="Desene animate",Cartoonito (Acestream RU+EN)
+acestream://7c1eb7f914bc0dcddfa79cc9e2693cf39aa32ed5
+
+#EXTINF:-1 tvg-id="Boomerang383" group-title="Desene animate",Cartoonito (Acestream DE)
+acestream://0011f12a7bfa97f90bd1eab99631f0d492e5f94b
+
+#EXTINF:-1 tvg-id="Cinemaraton642" group-title="Filme",Cinemaraton (Server 1)
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-cmarat.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/cmarat/usergendxs4dm7nd.htm
+
+#EXTINF:-1 tvg-id="Cinemaraton642" group-title="Filme",Cinemaraton (Backup)
+#EXTVLCOPT:http-referrer=https://gardomel1.pikorex.xyz/000/xena-cmarat.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://gardomel1.pikorex.xyz/cmarat/usergendxs4dm7nd.htm
+
+#EXTINF:-1 tvg-id="UTV781" group-title="Filme",Cinemax (Server 1)
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-cx1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/xmas1/usergendx27y41s0rnd.htm
+
+#EXTINF:-1 tvg-id="UTV781" group-title="Filme",Cinemax (Backup)
+#EXTVLCOPT:http-referrer=https://gardomel1.pikorex.xyz/000/utivi.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://gardomel1.pikorex.xyz/xmas1/usergendx27y41s0rnd.htm
+
+#EXTINF:-1 tvg-id="Cinemax2232" group-title="Filme",Cinemax 2 (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/xmas2/usergendxt1v8klq6rnd.htm
+
+#EXTINF:-1 tvg-id="Comedy345" group-title="Filme",Comedy Central (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+
+#EXTINF:-1 tvg-id="Comedy345" group-title="Filme",Comedy Central (Backup 1)
+#EXTVLCOPT:http-referrer=https://rds.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://p10.stirilepe.net/comedycentralsd/video.m3u8
+
+#EXTINF:-1 tvg-id="Comedy345" group-title="Filme",Comedy Central (Backup 2)
+#EXTVLCOPT:http-referrer=https://piranda.zokares.xyz/000/xena-comedi.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://piranda.zokares.xyz/comed/usergendx0js8l26jrnd.htm
+
+#EXTINF:-1 tvg-id="Comedy321" group-title="Filme",Comedy Play (Server 1)
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Diaspora382" group-title="Generaliste",Diaspora TV (Server 1)
+https://hls.radiosolution.fr/n8k9kUqbV2W6B5a4v6RX/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi24383" group-title="Știri",Digi 24 (Server 1 - RDS)
+#EXTVLCOPT:http-referrer=https://filme24.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+
+#EXTINF:-1 tvg-id="Digi24383" group-title="Știri",Digi 24 (Server 2 - Google DAI)
+#EXTVLCOPT:http-referrer=https://filme24.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+https://dai.google.com/linear/hls/event/OQfdjUhHSDSlb1fJVzehsQ/master.m3u8
+
+#EXTINF:-1 tvg-id="Digi24383" group-title="Știri",Digi 24 (Server 3)
+http://platin4k.eu:80/kLbWNZDHm3/CGcttIYsyXE/70937
+
+#EXTINF:-1 tvg-id="Digi186" group-title="Documentare",Digi Animal World (Server 1)
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/xena-danime.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/animel/usergenq49xu10fglw.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1532" group-title="Sport",Digi Sport 1 (Server 1)
+#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/1kuk1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://pulse1.zalmora.cfd/kuk1/usergendx472snx93kdgwqrnd.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1532" group-title="Sport",Digi Sport 1 (Backup 1)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/DigiSport1/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport1532" group-title="Sport",Digi Sport 1 (Backup 2)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium400/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2950" group-title="Sport",Digi Sport 2 (Server 1)
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/yeti.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://ultra2.falconx1.cfd/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2950" group-title="Sport",Digi Sport 2 (Backup 1)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/DigiSport2/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2950" group-title="Sport",Digi Sport 2 (Backup 2)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium401/playlist.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2950" group-title="Sport",Digi Sport 2 (Backup 3)
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.xyz/000/xena-kuk2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://ultra2.falconx.xyz/kuk2/usergendx0ul2J8tsDx9lgcddwqrnd.htm
+
+#EXTINF:-1 tvg-id="Digi799" group-title="Sport",Digi Sport 3 (Server 1)
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/sokares.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://ultra2.falconx1.cfd/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.m3u8
+
+#EXTINF:-1 tvg-id="Digi799" group-title="Sport",Digi Sport 3 (Backup 1)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/DigiSport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi799" group-title="Sport",Digi Sport 3 (Backup 2)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium402/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi799" group-title="Sport",Digi Sport 3 (Backup 3)
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.xyz/000/xena-kuk3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://ultra2.falconx.xyz/kuk3/usergendx0slfk9QssDx9lgxlsdmqrnd.htm
+
+#EXTINF:-1 tvg-id="Digi306" group-title="Sport",Digi Sport 4 (Server 1)
+#EXTVLCOPT:http-referrer=https://pulse1.zalmora.cfd/000/1kuk4.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://pulse1.zalmora.cfd/kuk4/usergendx0thc60skrdnnd.m3u8
+
+#EXTINF:-1 tvg-id="Digi306" group-title="Sport",Digi Sport 4 (Backup 1)
+#EXTVLCOPT:http-referrer=https://player.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36
+https://srv.vhls.ru.com/cdn/premium403/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi306" group-title="Sport",Digi Sport 4 (Backup 2)
+#EXTVLCOPT:http-referrer=https://www.tvonline123.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cdn.tv24.gdn/DigiSport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Digi306" group-title="Sport",Digi Sport 4 (Backup 3)
+#EXTVLCOPT:http-referrer=https://magictv.licenses4.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/105.0.0.0 Safari/537.36
+https://ad2017.vhls.ru.com/lb/premium403/index.m3u8
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Server 1)
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Backup 1)
+#EXTVLCOPT:http-referrer=https://rds.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36
+https://p11.magicplaces.eu/discoverysd/video.m3u8
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Backup 2)
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/disc.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://atlantida1.aquax.cfd/disco/usergendxok71s9jrnd.htm
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Backup 3)
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax.xyz/000/xena-disc.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+https://atlantida1.aquax.xyz/disco/usergendxok71s9jrnd.htm
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Acestream RU+EN)
+#EXTVLCOPT:network-caching=1000
+acestream://09f099db0453cf7517e133533aadfd5136eca771
+
+#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel (Acestream DE)
+#EXTVLCOPT:network-caching=1000
+acestream://f40d450991da3daa22b7a5007603a139def6d951
+
+#EXTINF:-1 tvg-id="DaVinciKids842" group-title="Documentare",Discovery ID (Server 1)
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
+
+#EXTINF:-1 tvg-id="DuckTV502" group-title="Desene animate",Duck TV (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://arwen1.panaka1.cfd/duk/usergenz9ak7fxt.m3u8
+
+#EXTINF:-1 tvg-id="Epic370" group-title="Filme",Epic Drama (Server 1)
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+
+#EXTINF:-1 tvg-id="Euronews021" group-title="Știri",Euronews România (Server 1)
+https://stream.euronews.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Favorit123" group-title="Muzică",Favorit TV (Server 1)
+https://stream.favorit-tv.ro/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="FilmCafe456" group-title="Filme",Film Café (Server 1)
+https://stream.filmcafe.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow789" group-title="Filme",Film Now (Server 1)
+https://stream.filmnow.ro/hq.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow789" group-title="Filme",Film Now (Backup)
+https://cdn.filmnow.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FishHunt321" group-title="Documentare",Fishing & Hunting (Server 1)
+https://fishinghunting.streamnet.ro/live.m3u8
+
+#EXTINF:-1 tvg-id="FoodNet654" group-title="Documentare",Food Network (Server 1)
+https://stream.foodnetwork.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNet654" group-title="Documentare",Food Network (Backup)
+https://cdn.foodnetwork.ro/hls/live.m3u8
+
+#EXTINF:-1 tvg-id="Happy987" group-title="Generaliste",Happy Channel (Server 1)
+https://stream.happy.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO111" group-title="Filme",HBO România (Server 1)
+https://stream.hbo.ro/hq.m3u8
+
+#EXTINF:-1 tvg-id="HBO111" group-title="Filme",HBO România (Backup)
+https://cdn.hbo.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO222" group-title="Filme",HBO 2 (Server 1)
+https://stream.hbo2.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO333" group-title="Filme",HBO 3 (Server 1)
+https://stream.hbo3.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Etno111" group-title="Muzică",Etno TV (Server 1)
+https://stream.ethno.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion222" group-title="Lifestyle",Fashion TV (Server 1)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27049_ftv_pg13_720p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="Fashion222" group-title="Lifestyle",Fashion TV (Backup)
+https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_pg13_zw9_27049_ftv_pg13_480p/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox333" group-title="Filme",FilmBox (Server 1)
+https://filmbox.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox444" group-title="Filme",FilmBox Premium (Server 1)
+https://filmboxpremium.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox555" group-title="Filme",FilmBox Extra HD (Server 1)
+https://filmboxextra.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox666" group-title="Filme",FilmBox Family (Server 1)
+https://filmboxfamily.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox777" group-title="Filme",FilmBox Stars (Server 1)
+https://filmboxstars.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FilmBox888" group-title="Filme",FilmBox Arthouse (Server 1)
+https://filmboxarthouse.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FishHuntHD999" group-title="Documentare",Fishing & Hunting HD (Server 1)
+https://fishinghuntinghd.streamnet.ro/live/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoodNetHD000" group-title="Documentare",Food Network HD (Server 1)
+https://foodnetworkhd.streamnet.ro/live/playlist.m3u8
+
