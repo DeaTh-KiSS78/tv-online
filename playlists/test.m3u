@@ -1,11 +1,6 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Antena203" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Generaliste",Antena Stars
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
-
 #EXTINF:-1 tvg-id="Atomic061" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Muzica",Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
 
