@@ -1,52 +1,38 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="AXN733" tvg-logo="" group-title="Filme",AXN
-#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-axy.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://cronos.mangora.cfd/axy/usergend3h5jkc9rnd.htm
 
-#EXTINF:-1 tvg-id="AXN444" tvg-logo="" group-title="Filme",AXN Black
-#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/axblack.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
-
-#EXTINF:-1 tvg-id="AXN730" tvg-logo="" group-title="Filme",AXN White
-#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-white.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
-
-#EXTINF:-1 tvg-id="Acasa987" tvg-logo="" group-title="Filme",Acasa TV
+#EXTINF:-1 tvg-id="Acasa987" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Filme",Acasa TV
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
 https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
 
-#EXTINF:-1 tvg-id="Antena1490" tvg-logo="" group-title="Generaliste",Antena 1
+#EXTINF:-1 tvg-id="Antena1490" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Generaliste",Antena 1
 #EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
 https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
 
-#EXTINF:-1 tvg-id="Antena3298" group-title="Știri",Antena 3
+#EXTINF:-1 tvg-id="Antena3298" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Stiri",Antena 3
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
 
-#EXTINF:-1 tvg-id="Antena203" group-title="Generaliste",Antena Stars
+#EXTINF:-1 tvg-id="Antena203" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Generaliste",Antena Stars
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
 
-#EXTINF:-1 tvg-id="Atomic061" group-title="Generaliste",Atomic Academy
+#EXTINF:-1 tvg-id="Atomic061" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Muzica",Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
 
-#EXTINF:-1 tvg-id="Atomic305" group-title="Muzică",Atomic TV
+#EXTINF:-1 tvg-id="Atomic305" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Muzica",Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1 tvg-id="B1TV615" group-title="Știri",B1 TV
+#EXTINF:-1 tvg-id="B1TV615" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Stiri",B1 TV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
 
-#EXTINF:-1 tvg-id="BBC206" group-title="Documentare",BBC Earth
+#EXTINF:-1 tvg-id="BBC206" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Documentare",BBC Earth
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8

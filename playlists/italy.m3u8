@@ -120,7 +120,7 @@ https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forc
 #EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png" tvg-chno="44" group-title="Discovery (it)",Frisbee
 https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png" tvg-chno="46" group-title="Mediaset" user-agent="HbbTV/1.6.1",Cartoonito
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png" tvg-chno="46" group-title="Mediaset" user-agent="HbbTV/1.6.1",Cartoonito.it
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
 
