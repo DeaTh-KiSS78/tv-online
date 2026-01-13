@@ -1,0 +1,7 @@
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
+
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-logo="" tvg-chno="" group-title="Filme",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+
