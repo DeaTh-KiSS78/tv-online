@@ -19,3 +19,19 @@ https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 #EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-white.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/acasa.png" tvg-chno="" group-title="Filme",Acasa
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
+
+
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena1.png" tvg-chno="" group-title="Generaliste",Antena 1
+#EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 tvg-id="antena-3-cnn" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-3-cnn.png" tvg-chno="" group-title="Stiri",Antena 3 CNN
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8

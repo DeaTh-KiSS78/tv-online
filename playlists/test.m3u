@@ -1,21 +1,6 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Acasa987" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Filme",Acasa TV
-#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
-https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
-
-#EXTINF:-1 tvg-id="Antena1490" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Generaliste",Antena 1
-#EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
-https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
-
-#EXTINF:-1 tvg-id="Antena3298" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Stiri",Antena 3
-#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
-https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
-
 #EXTINF:-1 tvg-id="Antena203" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/" tvg-chno="" group-title="Generaliste",Antena Stars
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
