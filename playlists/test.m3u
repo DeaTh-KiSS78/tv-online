@@ -1,39 +1,6 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
 
-#EXTINF:-1 tvg-id="BBC067" group-title="Generaliste",BBC First
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
-
-#EXTINF:-1 tvg-id="Bollywood888" group-title="Filme" tvg-logo="",Bollywood Ro
-#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/1buly.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/boly/usergenr9j8s2t.m3u8
-
-#EXTINF:-1 tvg-id="Boomerang383" group-title="Desene animate" tvg-logo="",Cartoonito
-#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/bomy.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://flash1.bogulus.cfd/bomer/usergenrx2c86jey.m3u8
-
-#EXTINF:-1 tvg-id="UTV781" group-title="Filme",Cinemax
-#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-cx1.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://cronos.mangora.cfd/xmas1/usergendx27y41s0rnd.htm
-
-#EXTINF:-1 tvg-id="Cinemax2232" group-title="Filme",Cinemax 2
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-https://cronos.mangora.cfd/xmas2/usergendxt1v8klq6rnd.htm
-
-#EXTINF:-1 tvg-id="Comedy345" group-title="Filme",Comedy Central
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
-
-#EXTINF:-1 tvg-id="Comedy321" group-title="Filme",Comedy Play
-https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="Digi24383" group-title="Știri",Digi 24
 #EXTVLCOPT:http-referrer=https://filme24.club/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
