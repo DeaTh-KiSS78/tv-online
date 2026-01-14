@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260114">
 <channel id="Rai1.it@SD"><display-name>Rai 1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai2.it@SD"><display-name>Rai 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai3.it@HD"><display-name>Rai 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Italia1.it@SD"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Cine34.it@SD"><display-name>Cine34</display-name><icon src="https://i.postimg.cc/bJ3wH4S3/cine34.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://i.postimg.cc/NLqm2bCs/raiscuola.png"/><url>https://superguidatv.it</url></channel>
-<channel id="FoodNetwork.it@SD"><display-name>FoodNetwork</display-name><icon src="https://i.postimg.cc/gcSDtJvH/foodnetwork.png"/><url>https://superguidatv.it</url></channel>
-<channel id="HGTV.it@SD"><display-name>HGTV - Home&amp;Garden</display-name><icon src="https://i.imgur.com/ejPii8T.png"/><url>https://superguidatv.it</url></channel>
-<channel id="MediasetExtra.it@SD"><display-name>Mediaset Extra</display-name><icon src="https://i.imgur.com/G51Lvah.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://superguidatv.it</url></channel>
-<channel id="20.it@SD"><display-name>20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="QVC.it@SD"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiStoria.it@SD"><display-name>Rai Storia</display-name><icon src="https://i.postimg.cc/3rPcZTPR/raistoria.png"/><url>https://superguidatv.it</url></channel>
+<channel id="FilmCafe.hu@Romania"><display-name>FILMCAFE</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/><url>https://programetv.ro</url></channel>
+<channel id="EpicDrama.uk@Sweden"><display-name>Epic Drama</display-name><icon src="https://i.postimg.cc/nhTN3Zh8/epicdrama.png"/><url>https://programetv.ro</url></channel>
+<channel id="DiscoveryChannel.ro@SD"><display-name>Discovery Channel RO</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://programetv.ro</url></channel>
+<channel id="Digi24.ro@SD"><display-name>Digi 24</display-name><icon src="https://i.imgur.com/qmRnD0M.png"/><url>https://programetv.ro</url></channel>
+<channel id="ComedyCentral.ro@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://programetv.ro</url></channel>
+<channel id="cinemax-2-hd"><display-name>Cinemax 2 HD</display-name><url>https://programetv.ro</url></channel>
+<channel id="cinemax-hd"><display-name>Cinemax HD</display-name><url>https://programetv.ro</url></channel>
+<channel id="RO1#Cartoonito.ro"><display-name>Cartoonito.ro</display-name><url>https://epgshare01.online</url></channel>
+<channel id="BollywoodClassic.ro@SD"><display-name>Bollywood Classic</display-name><icon src="https://i.imgur.com/ugPo6ca.png"/><url>https://programetv.ro</url></channel>
+<channel id="RO1#BBC.First.ro"><display-name>BBC First</display-name><url>https://epgshare01.online</url></channel>
+<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://programetv.ro</url></channel>
+<channel id="B1.ro@SD"><display-name>B1 TV</display-name><icon src="https://i.postimg.cc/R059cgW2/b1.png"/><url>https://programetv.ro</url></channel>
+<channel id="AntenaStars.ro@SD"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
 <channel id="antena-3-cnn"><display-name>Antena 3 CNN</display-name><url>https://programetv.ro</url></channel>
 <channel id="Antena1.ro@SD"><display-name>Antena 1</display-name><icon src="https://i.imgur.com/EPmwuuv.png"/><url>https://programetv.ro</url></channel>
 <channel id="Acasa.ro@SD"><display-name>Acasa</display-name><icon src="https://i.postimg.cc/MHrWkxdF/acasa.png"/><url>https://programetv.ro</url></channel>
@@ -36,15 +36,15 @@
 <channel id="SuperTennis.it@SD"><display-name>SuperTennis</display-name><icon src="https://i.postimg.cc/hvFrW9Wd/supertennis.png"/><url>https://superguidatv.it</url></channel>
 <channel id="MotorTrend.it@SD"><display-name>Motor Trend HD</display-name><icon src="https://i.postimg.cc/0Qqzvgq5/motortrend.png"/><url>https://superguidatv.it</url></channel>
 <channel id="RaiSport.it@HD"><display-name>Rai Sport + HD</display-name><icon src="https://i.imgur.com/6PEevOM.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://i.postimg.cc/NLqm2bCs/raiscuola.png"/><url>https://superguidatv.it</url></channel>
+<channel id="HGTV.it@SD"><display-name>HGTV - Home&amp;Garden</display-name><icon src="https://i.imgur.com/ejPii8T.png"/><url>https://superguidatv.it</url></channel>
+<channel id="MediasetExtra.it@SD"><display-name>Mediaset Extra</display-name><icon src="https://i.imgur.com/G51Lvah.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiStoria.it@SD"><display-name>Rai Storia</display-name><icon src="https://i.postimg.cc/3rPcZTPR/raistoria.png"/><url>https://superguidatv.it</url></channel>
 <channel id="DMAX.it@SD"><display-name>DMAX</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RealTime.it@SD"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/><url>https://superguidatv.it</url></channel>
 <channel id="TGCom24.it@SD"><display-name>Tgcom24</display-name><icon src="https://i.imgur.com/fPmvbGH.png"/><url>https://superguidatv.it</url></channel>
 <channel id="SkyTG24.it@SD"><display-name>Sky Tg24</display-name><icon src="https://i.postimg.cc/qB90Ns5S/skytg24.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://superguidatv.it</url></channel>
-<channel id="la-5/sky-intrattenimento/190"><display-name>La 5</display-name><url>https://superguidatv.it</url></channel>
 <channel id="Italia2.it@SD"><display-name>Italia 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"/><url>https://superguidatv.it</url></channel>
 <channel id="RaiNews24.it@SD"><display-name>RaiNews24</display-name><icon src="https://i.imgur.com/n2u57y3.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Twentyseven.it@SD"><display-name>Twenty Seven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Super.it@SD"><display-name>Super!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Cartoonito.it@SD"><display-name>Cartoonito.it</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Frisbee.it@SD"><display-name>Frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/><url>https://superguidatv.it</url></channel>
@@ -57,27 +57,27 @@
 <channel id="IT1#Discovery.Channel.it"><display-name>Discovery Channel IT</display-name><url>https://epgshare01.online</url></channel>
 <channel id="RTL1025TV.it@SD"><display-name>RTL 102.5 TV</display-name><icon src="https://i.imgur.com/75qUdR7.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Focus.it@SD"><display-name>Focus</display-name><icon src="https://i.postimg.cc/9f51PnG3/focus.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rete4.it@SD"><display-name>Rete 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Cine34.it@SD"><display-name>Cine34</display-name><icon src="https://i.postimg.cc/bJ3wH4S3/cine34.png"/><url>https://superguidatv.it</url></channel>
+<channel id="FoodNetwork.it@SD"><display-name>FoodNetwork</display-name><icon src="https://i.postimg.cc/gcSDtJvH/foodnetwork.png"/><url>https://superguidatv.it</url></channel>
+<channel id="QVC.it@SD"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RealTime.it@SD"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/><url>https://superguidatv.it</url></channel>
+<channel id="la-5/sky-intrattenimento/190"><display-name>La 5</display-name><url>https://superguidatv.it</url></channel>
+<channel id="Twentyseven.it@SD"><display-name>Twenty Seven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Cielo.it@SD"><display-name>Cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/><url>https://superguidatv.it</url></channel>
 <channel id="RaiPremium.it@SD"><display-name>Rai Premium</display-name><icon src="https://i.imgur.com/40g5Urz.png"/><url>https://superguidatv.it</url></channel>
-<channel id="LA7.it@SD"><display-name>La7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://superguidatv.it</url></channel>
 <channel id="RaiMovie.it@SD"><display-name>Rai Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Rai5.it@SD"><display-name>Rai 5</display-name><icon src="https://i.postimg.cc/6pVLnJND/rai5.png"/><url>https://superguidatv.it</url></channel>
 <channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RO1#BBC.First.ro"><display-name>BBC First</display-name><url>https://epgshare01.online</url></channel>
-<channel id="RO1#Cartoonito.ro"><display-name>Cartoonito.ro</display-name><url>https://epgshare01.online</url></channel>
-<channel id="ComedyCentral.ro@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://programetv.ro</url></channel>
-<channel id="DiscoveryChannel.ro@SD"><display-name>Discovery Channel RO</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://programetv.ro</url></channel>
-<channel id="FilmCafe.hu@Romania"><display-name>FILMCAFE</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/><url>https://programetv.ro</url></channel>
-<channel id="AntenaStars.ro@SD"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
-<channel id="B1.ro@SD"><display-name>B1 TV</display-name><icon src="https://i.postimg.cc/R059cgW2/b1.png"/><url>https://programetv.ro</url></channel>
-<channel id="EpicDrama.uk@Sweden"><display-name>Epic Drama</display-name><icon src="https://i.postimg.cc/nhTN3Zh8/epicdrama.png"/><url>https://programetv.ro</url></channel>
-<channel id="Digi24.ro@SD"><display-name>Digi 24</display-name><icon src="https://i.imgur.com/qmRnD0M.png"/><url>https://programetv.ro</url></channel>
-<channel id="BollywoodClassic.ro@SD"><display-name>Bollywood Classic</display-name><icon src="https://i.imgur.com/ugPo6ca.png"/><url>https://programetv.ro</url></channel>
-<channel id="cinemax-2-hd"><display-name>Cinemax 2 HD</display-name><url>https://programetv.ro</url></channel>
-<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://programetv.ro</url></channel>
-<channel id="cinemax-hd"><display-name>Cinemax HD</display-name><url>https://programetv.ro</url></channel>
+<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="20.it@SD"><display-name>20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://superguidatv.it</url></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
+<channel id="LA7.it@SD"><display-name>La7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Italia1.it@SD"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rete4.it@SD"><display-name>Rete 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rai3.it@HD"><display-name>Rai 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rai2.it@SD"><display-name>Rai 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://superguidatv.it</url></channel>
 <programme start="20260114000000 +0000" stop="20260114050000 +0000" channel="7Gold.it@SD"><title lang="it">Programmazione notturna</title><category lang="it">Notizie</category></programme>
 <programme start="20260114050000 +0000" stop="20260114060000 +0000" channel="7Gold.it@SD"><title lang="it">Diretta Stadio</title><category lang="it">Sport</category></programme>
 <programme start="20260114060000 +0000" stop="20260114063000 +0000" channel="7Gold.it@SD"><title lang="it">TG7</title><category lang="it">Notizie</category></programme>
@@ -1465,8 +1465,8 @@
 <programme start="20260114164500 +0000" stop="20260114165000 +0000" channel="Cielo.it@SD"><title lang="it">Alessandro Borghese: Celebrity Chef (St. 3 - Ep. 10)</title><category lang="it">Show</category></programme>
 <programme start="20260114165000 +0000" stop="20260114180000 +0000" channel="Cielo.it@SD"><title lang="it">Alessandro Borghese: Celebrity Chef (St. 4 - Ep. 7)</title><category lang="it">Show</category></programme>
 <programme start="20260114180000 +0000" stop="20260114192500 +0000" channel="Cielo.it@SD"><title lang="it">Cucine da incubo (St. 8 - Ep. 2)</title><category lang="it">Reality</category></programme>
-<programme start="20260114192500 +0000" stop="20260114195000 +0000" channel="Cielo.it@SD"><title lang="it">Friends - Ep. 5 - Friends Ep.05 - Incontro In Lavanderia</title><category lang="it">Serie TV</category></programme>
-<programme start="20260114195000 +0000" stop="20260114201500 +0000" channel="Cielo.it@SD"><title lang="it">Friends - Ep. 6 - Friends Ep.06 - Il Sedere Di... Al Pacino</title><category lang="it">Serie TV</category></programme>
+<programme start="20260114192500 +0000" stop="20260114195000 +0000" channel="Cielo.it@SD"><title lang="it">Friends (St. 1 - Ep. 5)</title><category lang="it">Serie TV</category></programme>
+<programme start="20260114195000 +0000" stop="20260114201500 +0000" channel="Cielo.it@SD"><title lang="it">Friends (St. 1 - Ep. 6)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260114201500 +0000" stop="20260114224500 +0000" channel="Cielo.it@SD"><title lang="it">The Core (2003)</title><category lang="it">Film</category></programme>
 <programme start="20260114224500 +0000" stop="20260114233500 +0000" channel="Cielo.it@SD"><title lang="it">Gomorra - La Serie (St. 3 - Ep. 11)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260114233500 +0000" stop="20260115002500 +0000" channel="Cielo.it@SD"><title lang="it">Gomorra - La Serie (St. 3 - Ep. 12)</title><category lang="it">Serie TV</category></programme>
@@ -1492,8 +1492,8 @@
 <programme start="20260115164500 +0000" stop="20260115165000 +0000" channel="Cielo.it@SD"><title lang="it">Alessandro Borghese: Celebrity Chef (St. 3 - Ep. 10)</title><category lang="it">Show</category></programme>
 <programme start="20260115165000 +0000" stop="20260115175500 +0000" channel="Cielo.it@SD"><title lang="it">Alessandro Borghese: Celebrity Chef (St. 4 - Ep. 8)</title><category lang="it">Show</category></programme>
 <programme start="20260115175500 +0000" stop="20260115191000 +0000" channel="Cielo.it@SD"><title lang="it">Cucine da incubo (St. 8 - Ep. 3)</title><category lang="it">Reality</category></programme>
-<programme start="20260115191000 +0000" stop="20260115194500 +0000" channel="Cielo.it@SD"><title lang="it">Friends - Ep. 7 - Friends Ep.07 - A Lume Di Candela</title><category lang="it">Serie TV</category></programme>
-<programme start="20260115194500 +0000" stop="20260115202000 +0000" channel="Cielo.it@SD"><title lang="it">Friends - Ep. 8 - Friends Ep.08 - La Cara Estinta</title><category lang="it">Serie TV</category></programme>
+<programme start="20260115191000 +0000" stop="20260115194500 +0000" channel="Cielo.it@SD"><title lang="it">Friends (St. 1 - Ep. 7)</title><category lang="it">Serie TV</category></programme>
+<programme start="20260115194500 +0000" stop="20260115202000 +0000" channel="Cielo.it@SD"><title lang="it">Friends (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115202000 +0000" stop="20260115221500 +0000" channel="Cielo.it@SD"><title lang="it">Sniper: forze speciali (2016)</title><category lang="it">Film</category></programme>
 <programme start="20260115221500 +0000" stop="20260116001000 +0000" channel="Cielo.it@SD"><title lang="it">L&apos;uomo dal cuore di ferro (2017)</title><category lang="it">Film</category></programme>
 <programme start="20260116001000 +0000" stop="20260116020000 +0000" channel="Cielo.it@SD"><title lang="it">Still Alice (2014)</title><category lang="it">Film</category></programme>
@@ -1540,8 +1540,8 @@
 <programme start="20260114221100 +0000" stop="20260115001500 +0000" channel="Cine34.it@SD"><title lang="it">E noi come stronzi rimanemmo a guardare (2021)</title><category lang="it">Film</category></programme>
 <programme start="20260115001500 +0000" stop="20260115015400 +0000" channel="Cine34.it@SD"><title lang="it">Com&apos;è bello far l&apos;amore (2012)</title><category lang="it">Film</category></programme>
 <programme start="20260115015400 +0000" stop="20260115033600 +0000" channel="Cine34.it@SD"><title lang="it">Metalmeccanico e parrucchiera in un turbine di sesso e politica (1996)</title><category lang="it">Film</category></programme>
-<programme start="20260115033600 +0000" stop="20260115040600 +0000" channel="Cine34.it@SD"><title lang="it">La Sposa Americana (1986)</title><category lang="it">Film</category></programme>
 <programme start="20260115033600 +0000" stop="20260115055400 +0000" channel="Cine34.it@SD"><title lang="it">La Sposa Americana (1986)</title><category lang="it">Film</category></programme>
+<programme start="20260115033600 +0000" stop="20260115040600 +0000" channel="Cine34.it@SD"><title lang="it">La Sposa Americana (1986)</title><category lang="it">Film</category></programme>
 <programme start="20260115055400 +0000" stop="20260115075200 +0000" channel="Cine34.it@SD"><title lang="it">I fobici (1999)</title><category lang="it">Film</category></programme>
 <programme start="20260115075200 +0000" stop="20260115094000 +0000" channel="Cine34.it@SD"><title lang="it">Banzai (1997)</title><category lang="it">Film</category></programme>
 <programme start="20260115094000 +0000" stop="20260115114400 +0000" channel="Cine34.it@SD"><title lang="it">Com&apos;è bello far l&apos;amore (2012)</title><category lang="it">Film</category></programme>
@@ -2650,8 +2650,8 @@
 <programme start="20260114201800 +0000" stop="20260114224600 +0000" channel="Iris.it@SD"><title lang="it">Seven (1995)</title><category lang="it">Film</category></programme>
 <programme start="20260114224600 +0000" stop="20260115014600 +0000" channel="Iris.it@SD"><title lang="it">Eyes Wide Shut (1999)</title><category lang="it">Film</category></programme>
 <programme start="20260115014600 +0000" stop="20260115033700 +0000" channel="Iris.it@SD"><title lang="it">Codice Magnum (1986)</title><category lang="it">Film</category></programme>
-<programme start="20260115033700 +0000" stop="20260115040700 +0000" channel="Iris.it@SD"><title lang="it">Pianeta rosso (2000)</title><category lang="it">Film</category></programme>
 <programme start="20260115033700 +0000" stop="20260115051800 +0000" channel="Iris.it@SD"><title lang="it">Pianeta rosso (2000)</title><category lang="it">Film</category></programme>
+<programme start="20260115033700 +0000" stop="20260115040700 +0000" channel="Iris.it@SD"><title lang="it">Pianeta rosso (2000)</title><category lang="it">Film</category></programme>
 <programme start="20260115051800 +0000" stop="20260115055300 +0000" channel="Iris.it@SD"><title lang="it">Due per tre (St. 3 - Ep. 4)</title><category lang="it">Sit Com</category></programme>
 <programme start="20260115055300 +0000" stop="20260115064200 +0000" channel="Iris.it@SD"><title lang="it">Il tenente Kojak (St. 2 - Ep. 10)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115064200 +0000" stop="20260115072500 +0000" channel="Iris.it@SD"><title lang="it">Walker, Texas Ranger (St. 4 - Ep. 26)</title><category lang="it">Serie TV</category></programme>
@@ -2752,8 +2752,8 @@
 <programme start="20260115022900 +0000" stop="20260115032200 +0000" channel="Italia1.it@SD"><title lang="it">Le sette meraviglie del mondo antico (St. 1 - Ep. 4)</title><category lang="it">Documentario</category></programme>
 <programme start="20260115032200 +0000" stop="20260115040600 +0000" channel="Italia1.it@SD"><title lang="it">I Maya - Ascesa e caduta di una civilta&apos; (St. 1 - Ep. 1)</title><category lang="it">Documentario</category></programme>
 <programme start="20260115040600 +0000" stop="20260115045100 +0000" channel="Italia1.it@SD"><title lang="it">Stranezze di questo mondo (St. 2 - Ep. 1)</title><category lang="it">Documentario</category></programme>
-<programme start="20260115045100 +0000" stop="20260115052100 +0000" channel="Italia1.it@SD"><title lang="it">Hazzard (St. 6 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115045100 +0000" stop="20260115053800 +0000" channel="Italia1.it@SD"><title lang="it">Hazzard (St. 6 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
+<programme start="20260115045100 +0000" stop="20260115052100 +0000" channel="Italia1.it@SD"><title lang="it">Hazzard (St. 6 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115053800 +0000" stop="20260115063500 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. (1980) (St. 7 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115063500 +0000" stop="20260115073200 +0000" channel="Italia1.it@SD"><title lang="it">Magnum P.I. (1980) (St. 7 - Ep. 12)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115073200 +0000" stop="20260115082900 +0000" channel="Italia1.it@SD"><title lang="it">Chicago Fire (St. 4 - Ep. 13)</title><category lang="it">Serie TV</category></programme>
@@ -4047,8 +4047,8 @@
 <programme start="20260115034500 +0000" stop="20260115041500 +0000" channel="Rai2.it@SD"><title lang="it">Piloti</title><category lang="it">Sit Com</category></programme>
 <programme start="20260115041500 +0000" stop="20260115050000 +0000" channel="Rai2.it@SD"><title lang="it">Un ciclone in convento (St. 1 - Ep. 7)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115041500 +0000" stop="20260115050000 +0000" channel="Rai2.it@SD"><title lang="it">Un ciclone in convento (St. 1 - Ep. 7)</title><category lang="it">Serie TV</category></programme>
-<programme start="20260115050000 +0000" stop="20260115053000 +0000" channel="Rai2.it@SD"><title lang="it">Un ciclone in convento (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115050000 +0000" stop="20260115055000 +0000" channel="Rai2.it@SD"><title lang="it">Un ciclone in convento (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
+<programme start="20260115050000 +0000" stop="20260115053000 +0000" channel="Rai2.it@SD"><title lang="it">Un ciclone in convento (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115055000 +0000" stop="20260115060800 +0000" channel="Rai2.it@SD"><title lang="it">Goldrake U (St. 1 - Ep. 43)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115060800 +0000" stop="20260115063500 +0000" channel="Rai2.it@SD"><title lang="it">Goldrake U (St. 1 - Ep. 44)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260115063500 +0000" stop="20260115073000 +0000" channel="Rai2.it@SD"><title lang="it">La Porta Magica</title><category lang="it">Mondo e Tendenze</category></programme>
@@ -4196,8 +4196,8 @@
 <programme start="20260116004000 +0000" stop="20260116013000 +0000" channel="Rai3.it@HD"><title lang="it">Il posto giusto</title><category lang="it">Notizie</category></programme>
 <programme start="20260116013000 +0000" stop="20260116050000 +0000" channel="Rai3.it@HD"><title lang="it">RaiNews</title><category lang="it">Notizie</category></programme>
 <programme start="20260116013000 +0000" stop="20260116050000 +0000" channel="Rai3.it@HD"><title lang="it">RaiNews</title><category lang="it">Notizie</category></programme>
-<programme start="20260116050000 +0000" stop="20260116053000 +0000" channel="Rai3.it@HD"><title lang="it">RaiNews</title><category lang="it">Notizie</category></programme>
 <programme start="20260116050000 +0000" stop="20260116060000 +0000" channel="Rai3.it@HD"><title lang="it">RaiNews</title><category lang="it">Notizie</category></programme>
+<programme start="20260116050000 +0000" stop="20260116053000 +0000" channel="Rai3.it@HD"><title lang="it">RaiNews</title><category lang="it">Notizie</category></programme>
 <programme start="20260116060000 +0000" stop="20260116063000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Italia</title><category lang="it">Attualità</category></programme>
 <programme start="20260116063000 +0000" stop="20260116070000 +0000" channel="Rai3.it@HD"><title lang="it">TGR Buongiorno Regione</title><category lang="it">Notizie</category></programme>
 <programme start="20260116070000 +0000" stop="20260116084500 +0000" channel="Rai3.it@HD"><title lang="it">Agorà</title><category lang="it">Attualità</category></programme>
@@ -4298,8 +4298,8 @@
 <programme start="20260116021900 +0000" stop="20260116025900 +0000" channel="Rai4.it@SD"><title lang="it">Alert: Missing Persons Unit (St. 1 - Ep. 4)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116025900 +0000" stop="20260116041200 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116041200 +0000" stop="20260116044000 +0000" channel="Rai4.it@SD"><title lang="it">Stranger Europe</title><category lang="it">Mondo e Tendenze</category></programme>
-<programme start="20260116044000 +0000" stop="20260116051000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia (St. 1 - Ep. 9)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116044000 +0000" stop="20260116052000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia (St. 1 - Ep. 9)</title><category lang="it">Serie TV</category></programme>
+<programme start="20260116044000 +0000" stop="20260116051000 +0000" channel="Rai4.it@SD"><title lang="it">Senza traccia (St. 1 - Ep. 9)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116052000 +0000" stop="20260116060100 +0000" channel="Rai4.it@SD"><title lang="it">9-1-1 (St. 1 - Ep. 7)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116060100 +0000" stop="20260116064200 +0000" channel="Rai4.it@SD"><title lang="it">9-1-1 (St. 1 - Ep. 8)</title><category lang="it">Serie TV</category></programme>
 <programme start="20260116064200 +0000" stop="20260116072300 +0000" channel="Rai4.it@SD"><title lang="it">Elementary (St. 1 - Ep. 11)</title><category lang="it">Serie TV</category></programme>
