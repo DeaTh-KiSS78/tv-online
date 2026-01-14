@@ -12,32 +12,14 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-1 tvg-id="9XTashan.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_9X_TASHAN/images/LOGO_HD/image.png" group-title="Music",9X Tashan
 https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
 
-#EXTINF:-1 tvg-id="B4UHitz.in@SD" tvg-logo="" group-title="Music",B4U Hitz
-http://103.167.255.18:8085/play/a0he/index.m3u8
-
 #EXTINF:-1 tvg-id="B4UMusic.in@India" tvg-logo="https://i.imgur.com/KSxPLJA.png" group-title="Music",B4U Music
 https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
 
 #EXTINF:-1 tvg-id="BalleBalle.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Balle_Balle_TV.png" group-title="Music",Balle Balle
 https://mcncdndigital.com/balleballetv/index.m3u8
 
-#EXTINF:-1 tvg-id="DhoomMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DHOOM_MUSIC/images/LOGO_HD/image.png" group-title="Music",Dhoom Music
-https://cdn-1.pishow.tv/live/1456/master.m3u8
-
-#EXTINF:-1 tvg-id="ETVMusic.in@HD" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/IN4900002RV_20250811T033455SQUARE.png" group-title="Music",ETV Music
-https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
-
-#EXTINF:-1 tvg-id="IsaiAruvi.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ISAI_ARUVI/images/LOGO_HD/image.png" group-title="Music",Isai Aruvi
-https://segment.yuppcdn.net/140622/isaiaruvi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Mh1Music.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_MH1/images/LOGO_HD/image.png" group-title="Music",Mh 1 Music
-http://103.140.254.2:3500/live/742.m3u8
-
 #EXTINF:-1 tvg-id="MusicIndia.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Music_India.png" group-title="Music",Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
-
-#EXTINF:-1 tvg-id="PrarthanaTV.in@SD" tvg-logo="https://i.imgur.com/gj7dtNF.png" group-title="Music",Prarthana TV
-https://livetv.tarangplus.in/prarthana-origin/live/playlist.m3u8
 
 #EXTINF:-1 tvg-id="PTCChakde.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_PTC_CHAKDE/images/LOGO_HD/image.png" group-title="Music",PTC Chakde
 https://cdn-1.pishow.tv/live/449/master.m3u8
@@ -54,9 +36,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 tvg-id="SanaPlus.in@SD" tvg-logo="https://i.imgur.com/N6tKUZv.png" group-title="Music",Sana Plus
 https://galaxyott.live/hls/sanaplus.m3u8
 
-#EXTINF:-1 tvg-id="SangeetBangla.in@SD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/Sangeet%20Bangla.png" group-title="Music",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
-
 #EXTINF:-1 tvg-id="SangeetBhojpuri.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Sangeet_Bhojpuri.png" group-title="Music",Sangeet Bhojpuri
 https://cdn-4.pishow.tv/live/1293/master.m3u8
 
@@ -70,23 +49,8 @@ https://epiconvh.akamaized.net/live/showbox/master.m3u8
 #EXTINF:-1 tvg-id="SteelbirdMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Steelbird_Music.png" group-title="Music",Steelbird Music
 https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
-#EXTINF:-1 tvg-id="SuryaMusic.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SURYA_MUSIC/images/LOGO_HD/image.png" group-title="Music",Surya Music
-http://103.140.254.2:3500/live/747.m3u8
-
 #EXTINF:-1 tvg-id="TabbarHits.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_TABBAR_HITS/images/LOGO_HD/image.png" group-title="Music",Tabbar Hits
 https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
-
-#EXTINF:-1 tvg-id="TarangMusic.in@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d5/Tarang_Miusic.tif/lossless-page1-512px-Tarang_Miusic.tif.png" group-title="Music",Tarang Music
-https://livetv.tarangplus.in/tarangmusic-origin/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id="VaanavilTV.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Vaanavil_TV.png" group-title="Music",Vaanavil TV
-https://6n3yope4d9ok-hls-live.5centscdn.com/vaanavil/TV.stream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="YRFMusic.in@SD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/YRF_Music.png" group-title="Music",YRF Music
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Zoom.in@Global" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom Global
-https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/zoom-tv/master.m3u8
 
 #EXTINF:-1 tvg-id="Zoom.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZOOM/images/LOGO_HD/image.png" group-title="Music",Zoom
 https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
