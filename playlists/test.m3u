@@ -1,22 +1,2 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
-
-#EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel
-#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
-
-#EXTINF:-1 tvg-id="DaVinciKids842" group-title="Documentare",Discovery ID
-#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
-https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
-
-#EXTINF:-1 tvg-id="Epic370" group-title="Filme",Epic Drama
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
-
-#EXTINF:-1 tvg-id="Film Cafe" tvg-logo="" group-title="Filme",Film Cafe
-#EXTVLCOPT:http-referrer=https://canale-tv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8

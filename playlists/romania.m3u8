@@ -94,3 +94,23 @@ https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 #EXTVLCOPT:http-referrer=https://filme24.club/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-channel.png" tvg-chno="" group-title="Documentare",Discovery Channel RO
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+
+#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" tvg-chno="" group-title="Documentare",Discovery ID
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
+
+#EXTINF:-1 tvg-id="epic-drama" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/epic-drama.png" tvg-chno="" group-title="Filme",Epic Drama
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+
+#EXTINF:-1 tvg-id="film-cafe" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-cafe.png" tvg-chno=""  group-title="Filme",FILMCAFE
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
