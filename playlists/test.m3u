@@ -1,11 +1,6 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
 
-#EXTINF:-1 tvg-id="Digi24383" group-title="Știri",Digi 24
-#EXTVLCOPT:http-referrer=https://filme24.club/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
-https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
-
 #EXTINF:-1 tvg-id="Discovery067" group-title="Documentare",Discovery Channel
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
