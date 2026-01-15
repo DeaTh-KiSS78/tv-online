@@ -114,3 +114,28 @@ https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+
+#EXTINF:-1 tvg-id="film-now" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-now.png" tvg-chno="" group-title="Filme",Film Now
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/xena-mox.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
+
+#EXTINF:-1 tvg-id="filmbox" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/filmbox.png" tvg-chno="" group-title="Filme",Filmbox
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/fbux1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo.png" tvg-chno="" group-title="Filme",HBO
+#EXTVLCOPT:http-referrer=https://thor1.syndula.cfd/000/xena-h1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="hbo-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-2.png" tvg-chno="" group-title="Filme",HBO 2
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-h2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
+
+#EXTINF:-1 tvg-id="hbo-3" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-3.png" tvg-chno="" group-title="Filme",HBO 3
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1h3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
