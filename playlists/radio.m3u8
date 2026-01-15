@@ -1,0 +1,160 @@
+#EXTM3U
+
+#EXTINF:0, Capital FM Manele - Romania
+https://ssl.omegahost.ro/8020/stream
+
+#EXTINF:0, Dance FM - Romania
+https://edge126.rcs-rds.ro/profm/dancefm.mp3
+
+#EXTINF:0, Europa FM - Romania
+https://astreaming.edi.ro:8443/EuropaFM_aac
+
+#EXTINF:0, FM Radio Manele - Manele - Romania
+https://ssl.servereradio.ro/8054/stream
+
+#EXTINF:0, FM Radio Manele - Petrecere - Romania
+https://ssl.servereradio.ro/8123/stream
+
+#EXTINF:0, Kiss - In the Mix - Romania
+https://live.kissfm.ro/kkm.radio
+
+#EXTINF:0, Kiss FM - Romania
+https://live.kissfm.ro/kissfm.aacp
+
+#EXTINF:0, Magic FM - Romania
+https://live.magicfm.ro/magicfm.aacp
+
+#EXTINF:0, ProFM - Romania
+https://edge126.rcs-rds.ro/profm/profm.mp3
+
+#EXTINF:0, Radio 1 Manele - Romania
+https://ssl.omegahost.ro/8000/stream
+
+#EXTINF:0, Radio A-Tentat - Romania
+https://ssl.omegahost.ro/8066/stream
+
+#EXTINF:0, Radio Gangsta Dance - Romania
+https://dance.radiogangsta.ro:8800/stream/;
+
+#EXTINF:0, Radio Mynele Manele - Romania
+https://live.radiomynele.ro:8000/;
+
+#EXTINF:0, Radio Noise HipHop - Romania
+https://hiphoplive.radionoise.ro:9110/;
+
+#EXTINF:0, Radio Romanian Hip-Hop - Romania
+https://asculta.radioromanian.net/hiphop
+
+#EXTINF:0, Radio Romanian Manele - Romania
+https://asculta.radioromanian.net/manele
+
+#EXTINF:0, Radio Romanian Popular - Romania
+https://asculta.radioromanian.net/popular
+
+#EXTINF:0, Rai Radio 1 - Italy
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
+
+#EXTINF:0, Rai Radio 2 - Italy
+https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
+
+#EXTINF:0, Rai Radio 3 - Italy
+http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
+
+#EXTINF:0, RTL - Italy
+https://streamingv2.shoutcast.com/rtl-1025
+
+#EXTINF:0, RDS 100% Grandi Successi - Italy
+https://icstream.rds.radio/rds
+
+#EXTINF:0, Radio Deejay - Italy
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
+
+#EXTINF:0, Radio Capital - Italy
+https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
+
+#EXTINF:0, Radio Kiss Kiss - Italy
+https://kisskiss.fluidstream.eu/KissKiss.mp3
+
+#EXTINF:0, Radio 105 - Italy
+https://icecast.105.net/105.mp3
+
+#EXTINF:0, R101 Diretta - Italy
+https://icecast.unitedradio.it/r101
+
+#EXTINF:0, Virgin Radio - Italy
+https://icecast.unitedradio.it/Virgin.mp3
+
+#EXTINF:0, RMC Radio Monte Carlo - Italy
+https://edge.radiomontecarlo.net/RMC.mp3
+
+#EXTINF:0, Radio m2o - Italy
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
+
+#EXTINF:0, Radio 24 - Italy
+http://shoutcast.radio24.it:8000/listen.pls
+
+#EXTINF:0, Bella e Monella - Italy
+https://klasse1.fluidstream.eu/bella
+
+#EXTINF:0, Radio Subasio - Italy
+https://icy.unitedradio.it/Subasio.mp3
+
+#EXTINF:0, RadioNorba - Italy
+https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
+
+#EXTINF:0, Radionorba Music - Italy
+https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
+
+#EXTINF:0, Love FM - Italy
+https://ice07.fluidstream.net/lovefm.mp3
+
+#EXTINF:0, Classic Hits - Italy
+https://classichitsradio.streamingmedia.it/play
+
+#EXTINF:0, Radio Reporter - Italy
+https://stream10.xdevel.com/audio34s975552-2039/stream/icecast.audio
+
+#EXTINF:0, RTL Best - Italy
+https://streamingv2.shoutcast.com/rtl-1025-best
+
+#EXTINF:0, RTL Radio Zeta - Italy
+https://streamingv2.shoutcast.com/radio-zeta
+
+#EXTINF:0, RTL Bro&Sis - Italy
+https://streamingv2.shoutcast.com/rtl-1025-broandsis
+
+#EXTINF:0, RTL Romeo & Juliet - Italy
+https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet
+
+#EXTINF:0, RTL Radiofreccia - Italy
+https://streamingv2.shoutcast.com/radiofreccia
+
+#EXTINF:0, Radio LatteMiele - Italy
+https://sr15.inmystream.it/stream/lattemiele
+
+#EXTINF:0, Radio Ibiza - Italy
+https://kisskiss.fluidstream.eu/ibiza.mp3
+
+#EXTINF:0, Discoradio - Italy
+https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8
+
+#EXTINF:0, Radio Cuore - Italy
+https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
+
+#EXTINF:0, LifeGate Radio - Italy
+https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
+
+#EXTINF:0, Radio Sportiva - Italy
+https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
+
+#EXTINF:0, Radio Studio Piu - Italy
+https://ice.studiopiu.net/puglia.aac
+
+#EXTINF:0, Radio Rama - Italy
+https://ssl1.mediastreaming.it:7024/
+
+#EXTINF:0, Radio Skylab Salento - Italy
+http://37.187.126.64:8000/skylab.mp3
+
+#EXTINF:0, Jetradio - Italy
+https://stream.jetradio.it/listen/jetradio/radio.mp3
