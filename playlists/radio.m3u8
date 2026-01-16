@@ -1,160 +1,160 @@
 #EXTM3U
 
-#EXTINF:0, Capital FM Manele - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Capital FM Manele
 https://ssl.omegahost.ro/8020/stream
 
-#EXTINF:0, Dance FM - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Dance FM
 https://edge126.rcs-rds.ro/profm/dancefm.mp3
 
-#EXTINF:0, Europa FM - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Europa FM
 https://astreaming.edi.ro:8443/EuropaFM_aac
 
-#EXTINF:0, FM Radio Manele - Manele - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",FM Radio Manele - Manele
 https://ssl.servereradio.ro/8054/stream
 
-#EXTINF:0, FM Radio Manele - Petrecere - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",FM Radio Manele - Petrecere
 https://ssl.servereradio.ro/8123/stream
 
-#EXTINF:0, Kiss - In the Mix - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Kiss - In the Mix
 https://live.kissfm.ro/kkm.radio
 
-#EXTINF:0, Kiss FM - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Kiss FM
 https://live.kissfm.ro/kissfm.aacp
 
-#EXTINF:0, Magic FM - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Magic FM
 https://live.magicfm.ro/magicfm.aacp
 
-#EXTINF:0, ProFM - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",ProFM
 https://edge126.rcs-rds.ro/profm/profm.mp3
 
-#EXTINF:0, Radio 1 Manele - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio 1 Manele
 https://ssl.omegahost.ro/8000/stream
 
-#EXTINF:0, Radio A-Tentat - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio A-Tentat
 https://ssl.omegahost.ro/8066/stream
 
-#EXTINF:0, Radio Gangsta Dance - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Gangsta Dance
 https://dance.radiogangsta.ro:8800/stream/;
 
-#EXTINF:0, Radio Mynele Manele - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Mynele Manele
 https://live.radiomynele.ro:8000/;
 
-#EXTINF:0, Radio Noise HipHop - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Noise HipHop
 https://hiphoplive.radionoise.ro:9110/;
 
-#EXTINF:0, Radio Romanian Hip-Hop - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Romanian Hip-Hop
 https://asculta.radioromanian.net/hiphop
 
-#EXTINF:0, Radio Romanian Manele - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Romanian Manele
 https://asculta.radioromanian.net/manele
 
-#EXTINF:0, Radio Romanian Popular - Romania
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Romania",Radio Romanian Popular
 https://asculta.radioromanian.net/popular
 
-#EXTINF:0, Rai Radio 1 - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Rai Radio 1
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S18493106/rCMKqdMFKPBB/icecast
 
-#EXTINF:0, Rai Radio 2 - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Rai Radio 2
 https://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S35942484/yp5F67151K92/icecast
 
-#EXTINF:0, Rai Radio 3 - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Rai Radio 3
 http://icecdn-19d24861e90342cc8decb03c24c8a419.msvdn.net/icecastRelay/S56630579/yEbkcBtIoSwd/icecast
 
-#EXTINF:0, RTL - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL
 https://streamingv2.shoutcast.com/rtl-1025
 
-#EXTINF:0, RDS 100% Grandi Successi - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RDS 100% Grandi Successi
 https://icstream.rds.radio/rds
 
-#EXTINF:0, Radio Deejay - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Deejay
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiodeejay/radiodeejay/master_ma.m3u8
 
-#EXTINF:0, Radio Capital - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Capital
 https://streamcdnb1-4c4b867c89244861ac216426883d1ad0.msvdn.net/radiocapital/radiocapital/play1.m3u8
 
-#EXTINF:0, Radio Kiss Kiss - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Kiss Kiss
 https://kisskiss.fluidstream.eu/KissKiss.mp3
 
-#EXTINF:0, Radio 105 - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio 105
 https://icecast.105.net/105.mp3
 
-#EXTINF:0, R101 Diretta - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",R101 Diretta
 https://icecast.unitedradio.it/r101
 
-#EXTINF:0, Virgin Radio - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Virgin Radio
 https://icecast.unitedradio.it/Virgin.mp3
 
-#EXTINF:0, RMC Radio Monte Carlo - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RMC Radio Monte Carlo
 https://edge.radiomontecarlo.net/RMC.mp3
 
-#EXTINF:0, Radio m2o - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio m2o
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/radiom2o/radiom2o/master_ma.m3u8
 
-#EXTINF:0, Radio 24 - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio 24
 http://shoutcast.radio24.it:8000/listen.pls
 
-#EXTINF:0, Bella e Monella - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Bella e Monella
 https://klasse1.fluidstream.eu/bella
 
-#EXTINF:0, Radio Subasio - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Subasio
 https://icy.unitedradio.it/Subasio.mp3
 
-#EXTINF:0, RadioNorba - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RadioNorba
 https://stream3.xdevel.com/audio0s975885-1008/stream/icecast.audio
 
-#EXTINF:0, Radionorba Music - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radionorba Music
 https://stream6.xdevel.com/audio1s975885-1083/stream/icecast.audio
 
-#EXTINF:0, Love FM - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Love FM
 https://ice07.fluidstream.net/lovefm.mp3
 
-#EXTINF:0, Classic Hits - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Classic Hits
 https://classichitsradio.streamingmedia.it/play
 
-#EXTINF:0, Radio Reporter - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Reporter
 https://stream10.xdevel.com/audio34s975552-2039/stream/icecast.audio
 
-#EXTINF:0, RTL Best - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL Best
 https://streamingv2.shoutcast.com/rtl-1025-best
 
-#EXTINF:0, RTL Radio Zeta - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL Radio Zeta
 https://streamingv2.shoutcast.com/radio-zeta
 
-#EXTINF:0, RTL Bro&Sis - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL Bro&Sis
 https://streamingv2.shoutcast.com/rtl-1025-broandsis
 
-#EXTINF:0, RTL Romeo & Juliet - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL Romeo & Juliet
 https://streamingv2.shoutcast.com/rtl-1025-romeoandjuliet
 
-#EXTINF:0, RTL Radiofreccia - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",RTL Radiofreccia
 https://streamingv2.shoutcast.com/radiofreccia
 
-#EXTINF:0, Radio LatteMiele - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio LatteMiele
 https://sr15.inmystream.it/stream/lattemiele
 
-#EXTINF:0, Radio Ibiza - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Ibiza
 https://kisskiss.fluidstream.eu/ibiza.mp3
 
-#EXTINF:0, Discoradio - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Discoradio
 https://stream.rds.radio/audio/disco.stream_aac/playlist.m3u8
 
-#EXTINF:0, Radio Cuore - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Cuore
 https://stream10.xdevel.com/audio32s975552-1839/stream/icecast.audio
 
-#EXTINF:0, LifeGate Radio - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",LifeGate Radio
 https://stream3.xdevel.com/audio0s975809-424/stream/icecast.audio
 
-#EXTINF:0, Radio Sportiva - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Sportiva
 https://onair20.xdevel.com/proxy/radiosportiva?mp=/;
 
-#EXTINF:0, Radio Studio Piu - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Studio Piu
 https://ice.studiopiu.net/puglia.aac
 
-#EXTINF:0, Radio Rama - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Rama
 https://ssl1.mediastreaming.it:7024/
 
-#EXTINF:0, Radio Skylab Salento - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Radio Skylab Salento
 http://37.187.126.64:8000/skylab.mp3
 
-#EXTINF:0, Jetradio - Italy
+#EXTINF:-1 tvg-id="" tvg-logo="" tvg-chno="" group-title="Italy",Jetradio
 https://stream.jetradio.it/listen/jetradio/radio.mp3
