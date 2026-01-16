@@ -168,3 +168,28 @@ https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
 
 #EXTINF:-1 tvg-id="nasul-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" tvg-chno="" group-title="Generaliste",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-name="national-geographic-wild" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic-wild.png" tvg-chno="" group-title="Documentare",National Geografic Wild
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/wild/usergenr9qsi5gt.m3u8
+
+#EXTINF:-1 tvg-name="national-geographic" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic.png" tvg-chno="" group-title="Documentare",National Geografic
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+
+#EXTINF:-1 tvg-name="pro-arena" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-arena.png" tvg-chno="" group-title="Generaliste",Pro Arena
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-prx.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
+
+#EXTINF:-1 tvg-name="pro-cinema" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-cinema.png" tvg-chno="" group-title="Filme",Pro Cinema
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/procinema.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
+
+#EXTINF:-1 tvg-name="pro-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-tv.png" tvg-chno="" group-title="Generaliste",Pro TV
+#EXTVLCOPT:http-referrer=https://ultra3.ronanx.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8
