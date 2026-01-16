@@ -1,34 +1,5 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="History" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Documentare",History
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
-#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1hyst.html
-https://galandriel1.thobias.cfd/hystor/usergendxc9g8rnd.htm
-
-
-#EXTINF:-1 tvg-id="Hit Music Channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Muzica",Hit Music Channel Ro
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/1hitivi.html
-https://cronos.mangora.cfd/hitivi/usergendhh62jfcs5rnd.htm
-
-#EXTINF:-1 tvg-id="Kanal D" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Generaliste",Kanal D
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-chanald.html
-https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
-
-#EXTINF:-1 tvg-id="Kiss TV" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Muzica",Kiss TV
-#EXTVLCOPT:http-referrer=https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
-https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
-
-#EXTINF:-1 tvg-id="Minimax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Desene animate",Minimax
-#EXTVLCOPT:http-referrer=https://atlantida1.aquax1.cfd/000/minmax.html
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
-https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
-
-#EXTINF:-1 tvg-id="Nasul TV" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Generaliste",Nasul TV
-https://live.nasul.tv/live/stream.m3u8
-
 #EXTINF:-1 tvg-name="NatGeo Wild" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/.png" tvg-chno="" group-title="Documentare",National Geografic Wild
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36

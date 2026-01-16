@@ -100,7 +100,7 @@ https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
 
-#EXTINF:-1 tvg-id="discovery-id" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" tvg-chno="" group-title="Documentare",Discovery ID
+#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" tvg-chno="" group-title="Documentare",ID Investigation Discovery
 #EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
@@ -139,3 +139,32 @@ https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1h3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
+
+#EXTINF:-1 tvg-id="history" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/history.png" tvg-chno="" group-title="Documentare",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1hyst.html
+https://galandriel1.thobias.cfd/hystor/usergendxc9g8rnd.htm
+
+
+#EXTINF:-1 tvg-id="hit-music-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hit-music-channel.png" tvg-chno="" group-title="Muzica",H!T Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/1hitivi.html
+https://cronos.mangora.cfd/hitivi/usergendhh62jfcs5rnd.htm
+
+#EXTINF:-1 tvg-id="kanal-d" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kanal-d.png" tvg-chno="" group-title="Generaliste",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-chanald.html
+https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
+
+#EXTINF:-1 tvg-id="kiss-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kiss-tv.png" tvg-chno="" group-title="Muzica",Kiss TV
+#EXTVLCOPT:http-referrer=https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="minimax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/minimax.png" tvg-chno="" group-title="Desene animate",Minimax
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax1.cfd/000/minmax.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="nasul-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" tvg-chno="" group-title="Generaliste",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
