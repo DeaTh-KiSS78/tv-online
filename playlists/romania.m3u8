@@ -1,147 +1,147 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/amc.png" tvg-chno="" group-title="Filme",AMC
+#EXTINF:-1 tvg-id="AMCEurope.uk" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/amc.png" group-title="Movies",AMC
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
 
-#EXTINF:-1 tvg-id="axn" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn.png" tvg-chno="" group-title="Filme",AXN
+#EXTINF:-1 tvg-id="axn" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn.png" group-title="Movies",AXN
 #EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-axy.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://cronos.mangora.cfd/axy/usergend3h5jkc9rnd.htm
 
-#EXTINF:-1 tvg-id="axn-black" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-black.png" tvg-chno="" group-title="Filme",AXN Black
+#EXTINF:-1 tvg-id="axn-black" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-black.png" group-title="Movies",AXN Black
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/axblack.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
 
-#EXTINF:-1 tvg-id="axn-white" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-white.png" tvg-chno="" group-title="Filme",AXN White
+#EXTINF:-1 tvg-id="axn-white" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-white.png" group-title="Movies",AXN White
 #EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-white.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
 
-#EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/acasa.png" tvg-chno="" group-title="Filme",Acasa
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/acasa.png" group-title="Movies",Acasa
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
 https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
 
 
-#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-1.png" tvg-chno="" group-title="Generaliste",Antena 1
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-1.png" group-title="General",Antena 1
 #EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
 https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
 
-#EXTINF:-1 tvg-id="antena-3-cnn" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-3-cnn.png" tvg-chno="" group-title="Stiri",Antena 3 CNN
+#EXTINF:-1 tvg-id="antena-3-cnn" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-3-cnn.png" group-title="News",Antena 3 CNN
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
 https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
 
-#EXTINF:-1 tvg-id="antena-stars" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-stars.png" tvg-chno="" group-title="Generaliste",Antena Stars
+#EXTINF:-1 tvg-id="antena-stars" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-stars.png" group-title="General",Antena Stars
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
 
-#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic-academy.png" tvg-chno="" group-title="Muzica",Atomic Academy
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic-academy.png" group-title="Music",Atomic Academy
 https://atomic.streamnet.ro/academia.m3u8
 
-#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic.png" tvg-chno="" group-title="Muzica",Atomic
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic.png" group-title="Music",Atomic
 https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1 tvg-id="b1-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/b1-tv.png" tvg-chno="" group-title="Stiri",B1 TV
+#EXTINF:-1 tvg-id="b1-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/b1-tv.png" group-title="News",B1 TV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
 
-#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-earth.png" tvg-chno="" group-title="Documentare",BBC Earth
+#EXTINF:-1 tvg-id="bbc-earth" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-earth.png" group-title="Documentare",BBC Earth
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36
 https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
 
-#EXTINF:-1 tvg-id="BBC.First.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-first.png" tvg-chno="" group-title="Generaliste",BBC First
+#EXTINF:-1 tvg-id="BBC.First.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-first.png" group-title="General",BBC First
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
 
-#EXTINF:-1 tvg-id="RO1#Bollywood.Clasic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bollywood-classic.png" tvg-chno="" group-title="Filme",Bollywood Classic
+#EXTINF:-1 tvg-id="RO1#Bollywood.Clasic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bollywood-classic.png" group-title="Movies",Bollywood Classic
 #EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/1buly.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://flash1.bogulus.cfd/boly/usergenr9j8s2t.m3u8
 
-#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Classic;Movies",Bollywood Classic en
+#EXTINF:-1 tvg-id="BollywoodClassic.ro@SD" tvg-logo="https://i.imgur.com/ugPo6ca.png" group-title="Movies",Bollywood Classic en
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 
 #EXTINF:-1 tvg-id="Bollywood.ru@HD" tvg-logo="https://i.imgur.com/scDKOLS.png" group-title="Movies",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
 
-#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito-ro.png" tvg-chno="" group-title="Desene animate",Cartoonito.ro
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito-ro.png" group-title="Anime",Cartoonito.ro
 #EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/bomy.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://flash1.bogulus.cfd/bomer/usergenrx2c86jey.m3u8
 
-#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax.png" tvg-chno="" group-title="Filme",Cinemax HD
+#EXTINF:-1 tvg-id="cinemax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax.png" group-title="Movies",Cinemax HD
 #EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-cx1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://cronos.mangora.cfd/xmas1/usergendx27y41s0rnd.htm
 
-#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax-2.png" tvg-chno="" group-title="Filme",Cinemax 2 HD
+#EXTINF:-1 tvg-id="cinemax-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax-2.png" group-title="Movies",Cinemax 2 HD
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cronos.mangora.cfd/xmas2/usergendxt1v8klq6rnd.htm
 
-#EXTINF:-1 tvg-id="comedy-central" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-central.png" tvg-chno="" group-title="Filme",Comedy Central
+#EXTINF:-1 tvg-id="comedy-central" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-central.png" group-title="Movies",Comedy Central
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
 
-#EXTINF:-1 tvg-id="comedy-play" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-play.png" tvg-chno="" group-title="Filme",Comedy Play
+#EXTINF:-1 tvg-id="comedy-play" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-play.png" group-title="Movies",Comedy Play
 https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="digi-24" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/digi-24.png" tvg-chno="" group-title="Stiri",Digi 24
+#EXTINF:-1 tvg-id="digi-24" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/digi-24.png" group-title="News",Digi 24
 #EXTVLCOPT:http-referrer=https://filme24.club/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
-#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-channel.png" tvg-chno="" group-title="Documentare",Discovery Channel RO
+#EXTINF:-1 tvg-id="discovery-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-channel.png" group-title="Documentare",Discovery Channel RO
 #EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
 
-#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" tvg-chno="" group-title="Documentare",ID Investigation Discovery
+#EXTINF:-1 tvg-id="id-investigation-discovery" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" group-title="Documentare",ID Investigation Discovery
 #EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
 
-#EXTINF:-1 tvg-id="epic-drama" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/epic-drama.png" tvg-chno="" group-title="Filme",Epic Drama
+#EXTINF:-1 tvg-id="epic-drama" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/epic-drama.png" group-title="Movies",Epic Drama
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
 
-#EXTINF:-1 tvg-id="film-cafe" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-cafe.png" tvg-chno=""  group-title="Filme",FILMCAFE
+#EXTINF:-1 tvg-id="film-cafe" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-cafe.png"  group-title="Movies",FILMCAFE
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
 
-#EXTINF:-1 tvg-id="film-now" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-now.png" tvg-chno="" group-title="Filme",Film Now
+#EXTINF:-1 tvg-id="film-now" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-now.png" group-title="Movies",Film Now
 #EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/xena-mox.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
 
-#EXTINF:-1 tvg-id="filmbox" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/filmbox.png" tvg-chno="" group-title="Filme",Filmbox
+#EXTINF:-1 tvg-id="filmbox" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/filmbox.png" group-title="Movies",Filmbox
 #EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/fbux1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
 
-#EXTINF:-1 tvg-id="hbo" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo.png" tvg-chno="" group-title="Filme",HBO
+#EXTINF:-1 tvg-id="hbo" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo.png" group-title="Movies",HBO
 #EXTVLCOPT:http-referrer=https://thor1.syndula.cfd/000/xena-h1.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
 
-#EXTINF:-1 tvg-id="hbo-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-2.png" tvg-chno="" group-title="Filme",HBO 2
+#EXTINF:-1 tvg-id="hbo-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-2.png" group-title="Movies",HBO 2
 #EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-h2.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
 
-#EXTINF:-1 tvg-id="hbo-3" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-3.png" tvg-chno="" group-title="Filme",HBO 3
+#EXTINF:-1 tvg-id="hbo-3" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-3.png" group-title="Movies",HBO 3
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1h3.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
@@ -149,12 +149,12 @@ https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
 #EXTINF:-1 tvg-id="HelloTaste.ro@SD" tvg-logo="https://i.imgur.com/TdKO0er.png" group-title="Cooking",Hello Taste
 https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
 
-#EXTINF:-1 tvg-id="history" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/history.png" tvg-chno="" group-title="Documentare",History
+#EXTINF:-1 tvg-id="history" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/history.png" group-title="Documentare",History
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
 #EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1hyst.html
 https://galandriel1.thobias.cfd/hystor/usergendxc9g8rnd.htm
 
-#EXTINF:-1 tvg-id="hit-music-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hit-music-channel.png" tvg-chno="" group-title="Muzica",H!T Music Channel
+#EXTINF:-1 tvg-id="hit-music-channel" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hit-music-channel.png" group-title="Music",H!T Music Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/1hitivi.html
 https://cronos.mangora.cfd/hitivi/usergendhh62jfcs5rnd.htm
@@ -165,15 +165,15 @@ https://online.tvimpact.live/hls/dancetv.m3u8
 #EXTINF:-1 tvg-id="ImpactTVManele.ro@SD" tvg-logo="https://i.imgur.com/G5mNdpE.png" group-title="Music",Impact TV Manele
 https://online.tvimpact.live/hls/impact_tv.m3u8
 
-#EXTINF:-1 tvg-id="kanal-d" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kanal-d.png" tvg-chno="" group-title="Generaliste",Kanal D
+#EXTINF:-1 tvg-id="kanal-d" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kanal-d.png" group-title="General",Kanal D
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-chanald.html
 https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
 
-#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="",Kanal D2
+#EXTINF:-1 tvg-id="KanalD2.ro@SD" tvg-logo="https://i.imgur.com/0SMSIm9.png" group-title="General",Kanal D2
 https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
 
-#EXTINF:-1 tvg-id="kiss-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kiss-tv.png" tvg-chno="" group-title="Muzica",Kiss TV
+#EXTINF:-1 tvg-id="kiss-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kiss-tv.png" group-title="Music",Kiss TV
 #EXTVLCOPT:http-referrer=https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
 https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
@@ -181,7 +181,7 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTINF:-1 tvg-id="MagicTV.ro@SD" tvg-logo="https://i.imgur.com/9izrr4d.png" group-title="Music",Magic TV
 https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
 
-#EXTINF:-1 tvg-id="minimax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/minimax.png" tvg-chno="" group-title="Desene animate",Minimax
+#EXTINF:-1 tvg-id="minimax" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/minimax.png" group-title="Desene animate",Minimax
 #EXTVLCOPT:http-referrer=https://atlantida1.aquax1.cfd/000/minmax.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
@@ -195,15 +195,15 @@ https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
 #EXTINF:-1 tvg-id="MoozRo.ro@SD" tvg-logo="https://i.imgur.com/Ft24x5T.png" group-title="Music",Mooz Ro
 https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 
-#EXTINF:-1 tvg-id="nasul-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" tvg-chno="" group-title="Generaliste",Nasul TV
+#EXTINF:-1 tvg-id="nasul-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" group-title="General",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
 
-#EXTINF:-1 tvg-id="RO1#National.Geographic.Wild.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic-wild.png" tvg-chno="" group-title="Documentare",National Geografic Wild
+#EXTINF:-1 tvg-id="RO1#National.Geographic.Wild.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic-wild.png" group-title="Documentare",National Geografic Wild
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://flash1.bogulus.cfd/wild/usergenr9qsi5gt.m3u8
 
-#EXTINF:-1 tvg-id="RO1#National.Geographic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic.png" tvg-chno="" group-title="Documentare",National Geografic
+#EXTINF:-1 tvg-id="RO1#National.Geographic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic.png" group-title="Documentare",National Geografic
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
@@ -211,12 +211,12 @@ https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
 #EXTINF:-1 tvg-id="ObservatorNews.ro@SD" tvg-logo="https://i.imgur.com/f6xEIAr.png" group-title="News",Observator News
 https://live1ag.antenaplay.ro/live_ObservatorNews/live_ObservatorNews.m3u8
 
-#EXTINF:-1 tvg-id="pro-arena" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-arena.png" tvg-chno="" group-title="Generaliste",Pro Arena
+#EXTINF:-1 tvg-id="pro-arena" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-arena.png" group-title="General",Pro Arena
 #EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-prx.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
 
-#EXTINF:-1 tvg-id="pro-cinema" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-cinema.png" tvg-chno="" group-title="Filme",Pro Cinema
+#EXTINF:-1 tvg-id="pro-cinema" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-cinema.png" group-title="Movies",Pro Cinema
 #EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/procinema.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
@@ -227,59 +227,59 @@ https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
 #EXTINF:-1 tvg-id="PROTVNews.ro@SD" tvg-logo="" group-title="News",Pro TV News
 https://cmero-ott-live.ssl.cdn.cra.cz/channels/cme-ro-voyo-news/playlist.m3u8?offsetSeconds=0&url=0
 
-#EXTINF:-1 tvg-id="pro-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-tv.png" tvg-chno="" group-title="Generaliste",Pro TV
+#EXTINF:-1 tvg-id="pro-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-tv.png" group-title="General",Pro TV
 #EXTVLCOPT:http-referrer=https://ultra3.ronanx.cfd/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
 https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8
 
-#EXTINF:-1 tvg-id="romania-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/romania-tv.png" tvg-chno="" group-title="Stiri",Romania TV
+#EXTINF:-1 tvg-id="romania-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/romania-tv.png" group-title="News",Romania TV
 #EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-rteve.html
 https://cronos.mangora.cfd/rtv/usergendx473dx9qrnd.htm
 
 #EXTINF:-1 tvg-id="Tele7music.ro@SD" tvg-logo="https://i.imgur.com/11b5W8u.png" group-title="Music",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
 
-#EXTINF:-1 tvg-id="tlc" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tlc.png" tvg-chno="" group-title="Generaliste",TLC
+#EXTINF:-1 tvg-id="tlc" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tlc.png" group-title="General",TLC
 #EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/xena-t1c.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 https://atlantida1.aquax1.cfd/telece/usergendc8sxt317rnd.m3u8
 
-#EXTINF:-1 tvg-id="tvr-1" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-1.png" tvg-chno="" group-title="Generaliste",TVR 1
+#EXTINF:-1 tvg-id="tvr-1" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-1.png" group-title="General",TVR 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/xena-t001.html
 https://ultra2.falconx1.cfd/t001/usergend4sdkx9q2rnd.m3u8
 
-#EXTINF:-1 tvg-id="tvr-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-2.png" tvg-chno="" group-title="Generaliste",TVR 2
+#EXTINF:-1 tvg-id="tvr-2" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-2.png" group-title="General",TVR 2
 #EXTVLCOPT:http-referrer=https://thor1.syndula.cfd/000/xena-tivi2.html
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://thor1.syndula1.cfd/tevere2/usergendxl6d4vnd.m3u8
 
-#EXTINF:-1 tvg-id="tvr-3" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-3.png" tvg-chno="" group-title="Generaliste",TVR 3
+#EXTINF:-1 tvg-id="tvr-3" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-3.png" group-title="General",TVR 3
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
 https://thor1.syndula1.cfd/tevere3/usergenx4klq9qrnd.m3u8
 
-#EXTINF:-1 tvg-id="utv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/utv.png" tvg-chno="" group-title="Muzica",UTV
+#EXTINF:-1 tvg-id="utv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/utv.png" group-title="Music",UTV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://cronos.mangora.cfd/utivi/usergenck9astrnd.htm
 
-#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-explore.png" tvg-chno="" group-title="Documentare",Viasat Explore
+#EXTINF:-1 tvg-id="viasat-explore" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-explore.png" group-title="Documentare",Viasat Explore
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
 https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
 
-#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-history.png" tvg-chno="" group-title="Documentare",Viasat History
+#EXTINF:-1 tvg-id="viasat-history" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-history.png" group-title="Documentare",Viasat History
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
 https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
 
-#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-nature.png" tvg-chno="" group-title="Documentare",Viasat Nature
+#EXTINF:-1 tvg-id="viasat-nature" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-nature.png" group-title="Documentare",Viasat Nature
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
 https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 
-#EXTINF:-1 tvg-id="zu-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zu-tv.png" tvg-chno="" group-title="Muzica",ZU TV
+#EXTINF:-1 tvg-id="zu-tv" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zu-tv.png" group-title="Music",ZU TV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
 https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8
