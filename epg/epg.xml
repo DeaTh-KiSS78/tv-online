@@ -1,56 +1,55 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260119">
 <channel id="Rai1.it@SD"><display-name>Rai 1</display-name><icon src="https://i.postimg.cc/cCKBnvsm/rai1.png"/><url>https://superguidatv.it</url></channel>
-<channel id="ZUTV.ro@SD"><display-name>ZU TV</display-name><icon src="https://i.imgur.com/1gtkGhB.png"/><url>https://programetv.ro</url></channel>
-<channel id="ViasatNature.se@SD"><display-name>Viasat Nature</display-name><icon src="https://i.imgur.com/ousRqqD.png"/><url>https://programetv.ro</url></channel>
-<channel id="ViasatHistory.se@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://programetv.ro</url></channel>
-<channel id="ViasatExplore.se@SD"><display-name>Viasat Explore</display-name><icon src="https://i.imgur.com/DyT5pKB.png"/><url>https://programetv.ro</url></channel>
-<channel id="UTV.ro@SD"><display-name>UTV</display-name><icon src="https://i.imgur.com/aBdz9IT.png"/><url>https://programetv.ro</url></channel>
-<channel id="TVR3.ro@SD"><display-name>TVR 3</display-name><icon src="https://i.imgur.com/yHCuTap.png"/><url>https://programetv.ro</url></channel>
-<channel id="TVR2.ro@SD"><display-name>TVR 2</display-name><icon src="https://i.imgur.com/mKouHIZ.png"/><url>https://programetv.ro</url></channel>
-<channel id="TVR1.ro@SD"><display-name>TVR 1</display-name><icon src="https://i.imgur.com/CcUX1gB.png"/><url>https://programetv.ro</url></channel>
-<channel id="TLC.ro@SD"><display-name>TLC</display-name><icon src="https://i.postimg.cc/NMnt7mfy/tlc.png"/><url>https://programetv.ro</url></channel>
-<channel id="RomaniaTV.ro@SD"><display-name>Romania TV</display-name><icon src="https://i.imgur.com/ZIfEp5I.png"/><url>https://programetv.ro</url></channel>
-<channel id="PROTV.ro@SD"><display-name>PRO TV</display-name><icon src="https://i.imgur.com/zVk3WlT.png"/><url>https://programetv.ro</url></channel>
-<channel id="pro-cinema"><display-name>Pro Cinema</display-name><url>https://programetv.ro</url></channel>
-<channel id="pro-arena"><display-name>Pro Arena</display-name><url>https://programetv.ro</url></channel>
-<channel id="RO1#National.Geographic.ro"><display-name>National Geographic</display-name><url>https://epgshare01.online</url></channel>
-<channel id="RO1#National.Geographic.Wild.ro"><display-name>National Geographic Wild</display-name><url>https://epgshare01.online</url></channel>
-<channel id="NasulTV.ro@SD"><display-name>Nasul TV</display-name><icon src="https://i.imgur.com/MoguWme.png"/><url>https://programetv.ro</url></channel>
-<channel id="MoozRo.ro@SD"><display-name>Mooz Ro</display-name><icon src="https://i.imgur.com/Ft24x5T.png"/><url>https://programetv.ro</url></channel>
-<channel id="MoozHits.ro@SD"><display-name>Mooz Hits</display-name><icon src="https://i.imgur.com/GwATd3Y.png"/><url>https://programetv.ro</url></channel>
-<channel id="MoozDance.ro@SD"><display-name>Mooz Dance</display-name><icon src="https://i.imgur.com/aX70RD2.png"/><url>https://programetv.ro</url></channel>
-<channel id="MinimaxCEE.cz@SD"><display-name>Minimax</display-name><icon src="https://i.imgur.com/WWOlm1x.png"/><url>https://programetv.ro</url></channel>
-<channel id="MagicTV.ro@SD"><display-name>Magic TV</display-name><icon src="https://i.imgur.com/9izrr4d.png"/><url>https://programetv.ro</url></channel>
-<channel id="KissTV.ro@SD"><display-name>Kiss TV</display-name><icon src="https://i.imgur.com/NKfVymH.png"/><url>https://programetv.ro</url></channel>
-<channel id="RO1#Kanal.D2.ro"><display-name>Kanal D2</display-name><url>https://epgshare01.online</url></channel>
-<channel id="KanalD.ro@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/15ILp0P.png"/><url>https://programetv.ro</url></channel>
-<channel id="HtMusicChannel.ro@SD"><display-name>H!T Music Channel</display-name><icon src="https://i.imgur.com/sqC2hqV.png"/><url>https://programetv.ro</url></channel>
-<channel id="History.ro@SD"><display-name>History</display-name><icon src="https://i.postimg.cc/4dr0YQXw/history.png"/><url>https://programetv.ro</url></channel>
-<channel id="HBO3.ro@SD"><display-name>HBO 3</display-name><icon src="https://i.imgur.com/3QIHh2V.png"/><url>https://programetv.ro</url></channel>
-<channel id="HBO2.ro@SD"><display-name>HBO 2</display-name><icon src="https://i.imgur.com/53mBgZI.png"/><url>https://programetv.ro</url></channel>
-<channel id="HBO.ro@SD"><display-name>HBO</display-name><icon src="https://i.postimg.cc/D0HMbdFB/hbo.png"/><url>https://programetv.ro</url></channel>
-<channel id="filmbox"><display-name>Filmbox</display-name><url>https://programetv.ro</url></channel>
-<channel id="FilmNow.ro@SD"><display-name>Film Now</display-name><icon src="https://i.imgur.com/sSoRvGz.png"/><url>https://programetv.ro</url></channel>
-<channel id="FilmCafe.hu@Romania"><display-name>FILMCAFE</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/><url>https://programetv.ro</url></channel>
-<channel id="EpicDrama.uk@Sweden"><display-name>Epic Drama</display-name><icon src="https://i.postimg.cc/nhTN3Zh8/epicdrama.png"/><url>https://programetv.ro</url></channel>
-<channel id="InvestigationDiscoveryEurope.us@SD"><display-name>ID Investigation Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://programetv.ro</url></channel>
-<channel id="DiscoveryChannel.ro@SD"><display-name>Discovery Channel RO</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://programetv.ro</url></channel>
-<channel id="Digi24.ro@SD"><display-name>Digi 24</display-name><icon src="https://i.imgur.com/qmRnD0M.png"/><url>https://programetv.ro</url></channel>
-<channel id="ComedyCentral.ro@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://programetv.ro</url></channel>
-<channel id="cinemax-2-hd"><display-name>Cinemax 2 HD</display-name><url>https://programetv.ro</url></channel>
-<channel id="cinemax-hd"><display-name>Cinemax HD</display-name><url>https://programetv.ro</url></channel>
-<channel id="RO1#Cartoonito.ro"><display-name>Cartoonito.ro</display-name><url>https://epgshare01.online</url></channel>
-<channel id="Bollywood.ru@HD"><display-name>Bollywood HD</display-name><icon src="https://i.imgur.com/YLQRnXt.png"/><url>https://programetv.ro</url></channel>
-<channel id="RO1#Bollywood.Clasic.ro"><display-name>Bollywood Clasic</display-name><url>https://epgshare01.online</url></channel>
-<channel id="RO1#BBC.First.ro"><display-name>BBC First</display-name><url>https://epgshare01.online</url></channel>
-<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://programetv.ro</url></channel>
-<channel id="B1.ro@SD"><display-name>B1 TV</display-name><icon src="https://i.postimg.cc/R059cgW2/b1.png"/><url>https://programetv.ro</url></channel>
-<channel id="AntenaStars.ro@SD"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
-<channel id="antena-3-cnn"><display-name>Antena 3 CNN</display-name><url>https://programetv.ro</url></channel>
-<channel id="Antena1.ro@SD"><display-name>Antena 1</display-name><icon src="https://i.imgur.com/EPmwuuv.png"/><url>https://programetv.ro</url></channel>
-<channel id="Acasa.ro@SD"><display-name>Acasa</display-name><icon src="https://i.postimg.cc/MHrWkxdF/acasa.png"/><url>https://programetv.ro</url></channel>
-<channel id="AXNWhite.us@SD"><display-name>AXN White</display-name><icon src="https://i.imgur.com/47IKxmt.png"/><url>https://programetv.ro</url></channel>
-<channel id="AXNBlack.us@Bulgary"><display-name>AXN Black</display-name><icon src="https://i.imgur.com/Peo1QiZ.png"/><url>https://programetv.ro</url></channel>
+<channel id="Rai2.it@SD"><display-name>Rai 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rete4.it@SD"><display-name>Rete 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://superguidatv.it</url></channel>
+<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Cielo.it@SD"><display-name>Cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Frisbee.it@SD"><display-name>Frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiYoyo.it@SD"><display-name>Rai Yoyo</display-name><icon src="https://i.imgur.com/9gCxiDy.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiPremium.it@SD"><display-name>Rai Premium</display-name><icon src="https://i.imgur.com/40g5Urz.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiGulp.it@SD"><display-name>Rai Gulp</display-name><icon src="https://i.imgur.com/irAhPJM.png"/><url>https://superguidatv.it</url></channel>
+<channel id="K2.it@SD"><display-name>K2</display-name><icon src="https://i.imgur.com/T1E8rFF.png"/><url>https://superguidatv.it</url></channel>
+<channel id="LA7.it@SD"><display-name>La7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiMovie.it@SD"><display-name>Rai Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Boing.it@SD"><display-name>Boing</display-name><icon src="https://i.imgur.com/rabKj9i.png"/><url>https://superguidatv.it</url></channel>
+<channel id="TopCrime.it@SD"><display-name>Top Crime</display-name><icon src="https://i.postimg.cc/tJFTm2cZ/topcrime.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rai5.it@SD"><display-name>Rai 5</display-name><icon src="https://i.postimg.cc/6pVLnJND/rai5.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Giallo.it@SD"><display-name>Giallo</display-name><icon src="https://i.postimg.cc/VsnnyW0g/giallo.png"/><url>https://superguidatv.it</url></channel>
+<channel id="VirginRadioTV.it@SD"><display-name>Virgin Radio</display-name><icon src="https://i.imgur.com/aUY2KvX.png"/><url>https://superguidatv.it</url></channel>
+<channel id="IT1#Discovery.Channel.it"><display-name>Discovery Channel IT</display-name><url>https://epgshare01.online</url></channel>
+<channel id="RadioItaliaTV.it@SD"><display-name>Radio Italia Tv</display-name><icon src="https://i.imgur.com/XqNhQp6.png"/><url>https://superguidatv.it</url></channel>
+<channel id="DeejayTV.it@SD"><display-name>Deejay TV</display-name><icon src="https://i.imgur.com/YV27Chs.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Rai3.it@HD"><display-name>Rai 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Italia1.it@SD"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RTL1025TV.it@SD"><display-name>RTL 102.5 TV</display-name><icon src="https://i.imgur.com/75qUdR7.png"/><url>https://superguidatv.it</url></channel>
+<channel id="R101TV.it@SD"><display-name>R101</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/512px-R101_-_Logo_2015.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Radio105TV.it@SD"><display-name>Radio 105</display-name><icon src="https://i.imgur.com/F2dUQM1.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Focus.it@SD"><display-name>Focus</display-name><icon src="https://i.postimg.cc/9f51PnG3/focus.png"/><url>https://superguidatv.it</url></channel>
+<channel id="SuperTennis.it@SD"><display-name>SuperTennis</display-name><icon src="https://i.postimg.cc/hvFrW9Wd/supertennis.png"/><url>https://superguidatv.it</url></channel>
+<channel id="IT1#Motor.Trend.it"><display-name>Motor Trend</display-name><url>https://epgshare01.online</url></channel>
+<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Cine34.it@SD"><display-name>Cine34</display-name><icon src="https://i.postimg.cc/bJ3wH4S3/cine34.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiSport.it@HD"><display-name>Rai Sport + HD</display-name><icon src="https://i.imgur.com/6PEevOM.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://i.postimg.cc/NLqm2bCs/raiscuola.png"/><url>https://superguidatv.it</url></channel>
+<channel id="FoodNetwork.it@SD"><display-name>FoodNetwork</display-name><icon src="https://i.postimg.cc/gcSDtJvH/foodnetwork.png"/><url>https://superguidatv.it</url></channel>
+<channel id="HGTV.it@SD"><display-name>HGTV - Home&amp;Garden</display-name><icon src="https://i.imgur.com/ejPii8T.png"/><url>https://superguidatv.it</url></channel>
+<channel id="MediasetExtra.it@SD"><display-name>Mediaset Extra</display-name><icon src="https://i.imgur.com/G51Lvah.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://superguidatv.it</url></channel>
+<channel id="20.it@SD"><display-name>20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="QVC.it@SD"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiStoria.it@SD"><display-name>Rai Storia</display-name><icon src="https://i.postimg.cc/3rPcZTPR/raistoria.png"/><url>https://superguidatv.it</url></channel>
+<channel id="DMAX.it@SD"><display-name>DMAX</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RealTime.it@SD"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/><url>https://superguidatv.it</url></channel>
+<channel id="TGCom24.it@SD"><display-name>Tgcom24</display-name><icon src="https://i.imgur.com/fPmvbGH.png"/><url>https://superguidatv.it</url></channel>
+<channel id="SkyTG24.it@SD"><display-name>Sky Tg24</display-name><icon src="https://i.postimg.cc/qB90Ns5S/skytg24.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://superguidatv.it</url></channel>
+<channel id="la-5/sky-intrattenimento/190"><display-name>La 5</display-name><url>https://superguidatv.it</url></channel>
+<channel id="Italia2.it@SD"><display-name>Italia 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="RaiNews24.it@SD"><display-name>RaiNews24</display-name><icon src="https://i.imgur.com/n2u57y3.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Twentyseven.it@SD"><display-name>Twenty Seven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Super.it@SD"><display-name>Super!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Cartoonito.it@SD"><display-name>Cartoonito.it</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/><url>https://superguidatv.it</url></channel>
 <channel id="axn"><display-name>AXN</display-name><url>https://programetv.ro</url></channel>
 <channel id="AMCEurope.uk@Romania"><display-name>AMC</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png"/><url>https://programetv.ro</url></channel>
 <channel id="RADIONORBA.TV.it"><display-name>RADIONORBA TV</display-name><url>https://epgshare01.online</url></channel>
@@ -60,56 +59,55 @@
 <channel id="7Gold.it@SD"><display-name>7 Gold</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg"/><url>https://superguidatv.it</url></channel>
 <channel id="LA7.CINEMA.it"><display-name>LA 7 Cinema</display-name><url>https://superguidatv.it</url></channel>
 <channel id="RadioMonteCarloTV.it@SD"><display-name>Radio Monte Carlo</display-name><icon src="https://i.imgur.com/by9XvWF.png"/><url>https://superguidatv.it</url></channel>
-<channel id="VirginRadioTV.it@SD"><display-name>Virgin Radio</display-name><icon src="https://i.imgur.com/aUY2KvX.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RadioItaliaTV.it@SD"><display-name>Radio Italia Tv</display-name><icon src="https://i.imgur.com/XqNhQp6.png"/><url>https://superguidatv.it</url></channel>
-<channel id="DeejayTV.it@SD"><display-name>Deejay TV</display-name><icon src="https://i.imgur.com/YV27Chs.png"/><url>https://superguidatv.it</url></channel>
-<channel id="R101TV.it@SD"><display-name>R101</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/R101_-_Logo_2015.svg/512px-R101_-_Logo_2015.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Radio105TV.it@SD"><display-name>Radio 105</display-name><icon src="https://i.imgur.com/F2dUQM1.png"/><url>https://superguidatv.it</url></channel>
-<channel id="SuperTennis.it@SD"><display-name>SuperTennis</display-name><icon src="https://i.postimg.cc/hvFrW9Wd/supertennis.png"/><url>https://superguidatv.it</url></channel>
-<channel id="IT1#Motor.Trend.it"><display-name>Motor Trend</display-name><url>https://epgshare01.online</url></channel>
-<channel id="RaiSport.it@HD"><display-name>Rai Sport + HD</display-name><icon src="https://i.imgur.com/6PEevOM.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiScuola.it@SD"><display-name>Rai Scuola</display-name><icon src="https://i.postimg.cc/NLqm2bCs/raiscuola.png"/><url>https://superguidatv.it</url></channel>
-<channel id="HGTV.it@SD"><display-name>HGTV - Home&amp;Garden</display-name><icon src="https://i.imgur.com/ejPii8T.png"/><url>https://superguidatv.it</url></channel>
-<channel id="MediasetExtra.it@SD"><display-name>Mediaset Extra</display-name><icon src="https://i.imgur.com/G51Lvah.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiStoria.it@SD"><display-name>Rai Storia</display-name><icon src="https://i.postimg.cc/3rPcZTPR/raistoria.png"/><url>https://superguidatv.it</url></channel>
-<channel id="DMAX.it@SD"><display-name>DMAX</display-name><icon src="https://i.imgur.com/uGd9fnn.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TGCom24.it@SD"><display-name>Tgcom24</display-name><icon src="https://i.imgur.com/fPmvbGH.png"/><url>https://superguidatv.it</url></channel>
-<channel id="SkyTG24.it@SD"><display-name>Sky Tg24</display-name><icon src="https://i.postimg.cc/qB90Ns5S/skytg24.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Italia2.it@SD"><display-name>Italia 2</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Logo_Italia2.svg/512px-Logo_Italia2.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiNews24.it@SD"><display-name>RaiNews24</display-name><icon src="https://i.imgur.com/n2u57y3.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Super.it@SD"><display-name>Super!</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Cartoonito.it@SD"><display-name>Cartoonito.it</display-name><icon src="https://i.imgur.com/6vYWCD0.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Frisbee.it@SD"><display-name>Frisbee</display-name><icon src="https://i.imgur.com/U1MF1vR.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiYoyo.it@SD"><display-name>Rai Yoyo</display-name><icon src="https://i.imgur.com/9gCxiDy.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiGulp.it@SD"><display-name>Rai Gulp</display-name><icon src="https://i.imgur.com/irAhPJM.png"/><url>https://superguidatv.it</url></channel>
-<channel id="K2.it@SD"><display-name>K2</display-name><icon src="https://i.imgur.com/T1E8rFF.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Boing.it@SD"><display-name>Boing</display-name><icon src="https://i.imgur.com/rabKj9i.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TopCrime.it@SD"><display-name>Top Crime</display-name><icon src="https://i.postimg.cc/tJFTm2cZ/topcrime.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Giallo.it@SD"><display-name>Giallo</display-name><icon src="https://i.postimg.cc/VsnnyW0g/giallo.png"/><url>https://superguidatv.it</url></channel>
-<channel id="IT1#Discovery.Channel.it"><display-name>Discovery Channel IT</display-name><url>https://epgshare01.online</url></channel>
-<channel id="RTL1025TV.it@SD"><display-name>RTL 102.5 TV</display-name><icon src="https://i.imgur.com/75qUdR7.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Focus.it@SD"><display-name>Focus</display-name><icon src="https://i.postimg.cc/9f51PnG3/focus.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Cine34.it@SD"><display-name>Cine34</display-name><icon src="https://i.postimg.cc/bJ3wH4S3/cine34.png"/><url>https://superguidatv.it</url></channel>
-<channel id="FoodNetwork.it@SD"><display-name>FoodNetwork</display-name><icon src="https://i.postimg.cc/gcSDtJvH/foodnetwork.png"/><url>https://superguidatv.it</url></channel>
-<channel id="QVC.it@SD"><display-name>QVC</display-name><icon src="https://i.imgur.com/6TWUVrh.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RealTime.it@SD"><display-name>Real Time</display-name><icon src="https://i.imgur.com/SPlk2Gx.png"/><url>https://superguidatv.it</url></channel>
-<channel id="la-5/sky-intrattenimento/190"><display-name>La 5</display-name><url>https://superguidatv.it</url></channel>
-<channel id="Twentyseven.it@SD"><display-name>Twenty Seven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Cielo.it@SD"><display-name>Cielo</display-name><icon src="https://i.imgur.com/tWUy3yx.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiPremium.it@SD"><display-name>Rai Premium</display-name><icon src="https://i.imgur.com/40g5Urz.png"/><url>https://superguidatv.it</url></channel>
-<channel id="RaiMovie.it@SD"><display-name>Rai Movie</display-name><icon src="https://i.imgur.com/0FjxXU9.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai5.it@SD"><display-name>Rai 5</display-name><icon src="https://i.postimg.cc/6pVLnJND/rai5.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Iris.it@SD"><display-name>Iris</display-name><icon src="https://i.imgur.com/ZLnSLh4.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai4.it@SD"><display-name>Rai 4</display-name><icon src="https://i.imgur.com/sEY21rg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="20.it@SD"><display-name>20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Nove.it@SD"><display-name>Nove</display-name><icon src="https://i.imgur.com/rTjIkGO.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TV8.it@SD"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
-<channel id="LA7.it@SD"><display-name>La7</display-name><icon src="https://i.postimg.cc/Pxy5QJFg/la7.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Italia1.it@SD"><display-name>Italia 1</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Italia_1_logo.svg/512px-Italia_1_logo.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Canale5.it@SD"><display-name>Canale 5</display-name><icon src="https://i.postimg.cc/PJW8jSCD/canale5.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rete4.it@SD"><display-name>Rete 4</display-name><icon src="https://i.postimg.cc/CxKkBZmf/rete4.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai3.it@HD"><display-name>Rai 3</display-name><icon src="https://i.postimg.cc/rybJLNJY/rai3.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Rai2.it@SD"><display-name>Rai 2</display-name><icon src="https://i.postimg.cc/j2GQQR2r/rai2.png"/><url>https://superguidatv.it</url></channel>
+<channel id="pro-cinema"><display-name>Pro Cinema</display-name><url>https://programetv.ro</url></channel>
+<channel id="RO1#National.Geographic.ro"><display-name>National Geographic</display-name><url>https://epgshare01.online</url></channel>
+<channel id="RO1#National.Geographic.Wild.ro"><display-name>National Geographic Wild</display-name><url>https://epgshare01.online</url></channel>
+<channel id="NasulTV.ro@SD"><display-name>Nasul TV</display-name><icon src="https://i.imgur.com/MoguWme.png"/><url>https://programetv.ro</url></channel>
+<channel id="MoozDance.ro@SD"><display-name>Mooz Dance</display-name><icon src="https://i.imgur.com/aX70RD2.png"/><url>https://programetv.ro</url></channel>
+<channel id="MinimaxCEE.cz@SD"><display-name>Minimax</display-name><icon src="https://i.imgur.com/WWOlm1x.png"/><url>https://programetv.ro</url></channel>
+<channel id="MagicTV.ro@SD"><display-name>Magic TV</display-name><icon src="https://i.imgur.com/9izrr4d.png"/><url>https://programetv.ro</url></channel>
+<channel id="KissTV.ro@SD"><display-name>Kiss TV</display-name><icon src="https://i.imgur.com/NKfVymH.png"/><url>https://programetv.ro</url></channel>
+<channel id="RO1#Kanal.D2.ro"><display-name>Kanal D2</display-name><url>https://epgshare01.online</url></channel>
+<channel id="KanalD.ro@SD"><display-name>Kanal D</display-name><icon src="https://i.imgur.com/15ILp0P.png"/><url>https://programetv.ro</url></channel>
+<channel id="History.ro@SD"><display-name>History</display-name><icon src="https://i.postimg.cc/4dr0YQXw/history.png"/><url>https://programetv.ro</url></channel>
+<channel id="HBO3.ro@SD"><display-name>HBO 3</display-name><icon src="https://i.imgur.com/3QIHh2V.png"/><url>https://programetv.ro</url></channel>
+<channel id="HBO2.ro@SD"><display-name>HBO 2</display-name><icon src="https://i.imgur.com/53mBgZI.png"/><url>https://programetv.ro</url></channel>
+<channel id="filmbox"><display-name>Filmbox</display-name><url>https://programetv.ro</url></channel>
+<channel id="FilmNow.ro@SD"><display-name>Film Now</display-name><icon src="https://i.imgur.com/sSoRvGz.png"/><url>https://programetv.ro</url></channel>
+<channel id="FilmCafe.hu@Romania"><display-name>FILMCAFE</display-name><icon src="https://i.imgur.com/jaKRnzU.png"/><url>https://programetv.ro</url></channel>
+<channel id="InvestigationDiscoveryEurope.us@SD"><display-name>ID Investigation Discovery</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/InvestigationDiscoveryLogo2020.svg/512px-InvestigationDiscoveryLogo2020.svg.png"/><url>https://programetv.ro</url></channel>
+<channel id="DiscoveryChannel.ro@SD"><display-name>Discovery Channel RO</display-name><icon src="https://i.postimg.cc/T2QFcf7r/discoverychannel.png"/><url>https://programetv.ro</url></channel>
+<channel id="Digi24.ro@SD"><display-name>Digi 24</display-name><icon src="https://i.imgur.com/qmRnD0M.png"/><url>https://programetv.ro</url></channel>
+<channel id="cinemax-2-hd"><display-name>Cinemax 2 HD</display-name><url>https://programetv.ro</url></channel>
+<channel id="cinemax-hd"><display-name>Cinemax HD</display-name><url>https://programetv.ro</url></channel>
+<channel id="RO1#Cartoonito.ro"><display-name>Cartoonito.ro</display-name><url>https://epgshare01.online</url></channel>
+<channel id="BBCEarth.uk@Romania"><display-name>BBC Earth</display-name><icon src="https://i.imgur.com/nGSsUd4.png"/><url>https://programetv.ro</url></channel>
+<channel id="B1.ro@SD"><display-name>B1 TV</display-name><icon src="https://i.postimg.cc/R059cgW2/b1.png"/><url>https://programetv.ro</url></channel>
+<channel id="AntenaStars.ro@SD"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
+<channel id="antena-3-cnn"><display-name>Antena 3 CNN</display-name><url>https://programetv.ro</url></channel>
+<channel id="Antena1.ro@SD"><display-name>Antena 1</display-name><icon src="https://i.imgur.com/EPmwuuv.png"/><url>https://programetv.ro</url></channel>
+<channel id="Acasa.ro@SD"><display-name>Acasa</display-name><icon src="https://i.postimg.cc/MHrWkxdF/acasa.png"/><url>https://programetv.ro</url></channel>
+<channel id="ZUTV.ro@SD"><display-name>ZU TV</display-name><icon src="https://i.imgur.com/1gtkGhB.png"/><url>https://programetv.ro</url></channel>
+<channel id="ViasatNature.se@SD"><display-name>Viasat Nature</display-name><icon src="https://i.imgur.com/ousRqqD.png"/><url>https://programetv.ro</url></channel>
+<channel id="ViasatHistory.se@SD"><display-name>Viasat History</display-name><icon src="https://i.imgur.com/wRP9XA7.png"/><url>https://programetv.ro</url></channel>
+<channel id="ViasatExplore.se@SD"><display-name>Viasat Explore</display-name><icon src="https://i.imgur.com/DyT5pKB.png"/><url>https://programetv.ro</url></channel>
+<channel id="UTV.ro@SD"><display-name>UTV</display-name><icon src="https://i.imgur.com/aBdz9IT.png"/><url>https://programetv.ro</url></channel>
+<channel id="TVR3.ro@SD"><display-name>TVR 3</display-name><icon src="https://i.imgur.com/yHCuTap.png"/><url>https://programetv.ro</url></channel>
+<channel id="TVR1.ro@SD"><display-name>TVR 1</display-name><icon src="https://i.imgur.com/CcUX1gB.png"/><url>https://programetv.ro</url></channel>
+<channel id="TLC.ro@SD"><display-name>TLC</display-name><icon src="https://i.postimg.cc/NMnt7mfy/tlc.png"/><url>https://programetv.ro</url></channel>
+<channel id="RomaniaTV.ro@SD"><display-name>Romania TV</display-name><icon src="https://i.imgur.com/ZIfEp5I.png"/><url>https://programetv.ro</url></channel>
+<channel id="pro-arena"><display-name>Pro Arena</display-name><url>https://programetv.ro</url></channel>
+<channel id="HtMusicChannel.ro@SD"><display-name>H!T Music Channel</display-name><icon src="https://i.imgur.com/sqC2hqV.png"/><url>https://programetv.ro</url></channel>
+<channel id="HBO.ro@SD"><display-name>HBO</display-name><icon src="https://i.postimg.cc/D0HMbdFB/hbo.png"/><url>https://programetv.ro</url></channel>
+<channel id="ComedyCentral.ro@SD"><display-name>Comedy Central</display-name><icon src="https://i.postimg.cc/Dysd5c51/comedycentral.png"/><url>https://programetv.ro</url></channel>
+<channel id="AXNWhite.us@SD"><display-name>AXN White</display-name><icon src="https://i.imgur.com/47IKxmt.png"/><url>https://programetv.ro</url></channel>
+<channel id="TVR2.ro@SD"><display-name>TVR 2</display-name><icon src="https://i.imgur.com/mKouHIZ.png"/><url>https://programetv.ro</url></channel>
+<channel id="PROTV.ro@SD"><display-name>PRO TV</display-name><icon src="https://i.imgur.com/zVk3WlT.png"/><url>https://programetv.ro</url></channel>
+<channel id="MoozRo.ro@SD"><display-name>Mooz Ro</display-name><icon src="https://i.imgur.com/Ft24x5T.png"/><url>https://programetv.ro</url></channel>
+<channel id="EpicDrama.uk@Sweden"><display-name>Epic Drama</display-name><icon src="https://i.postimg.cc/nhTN3Zh8/epicdrama.png"/><url>https://programetv.ro</url></channel>
+<channel id="RO1#BBC.First.ro"><display-name>BBC First</display-name><url>https://epgshare01.online</url></channel>
+<channel id="AXNBlack.us@Bulgary"><display-name>AXN Black</display-name><icon src="https://i.imgur.com/Peo1QiZ.png"/><url>https://programetv.ro</url></channel>
+<channel id="MoozHits.ro@SD"><display-name>Mooz Hits</display-name><icon src="https://i.imgur.com/GwATd3Y.png"/><url>https://programetv.ro</url></channel>
 <programme start="20260119000000 +0000" stop="20260119050000 +0000" channel="7Gold.it@SD"><title lang="it">Programmazione notturna</title><category lang="it">Notizie</category></programme>
 <programme start="20260119050000 +0000" stop="20260119113000 +0000" channel="7Gold.it@SD"><title lang="it">Diretta Stadio</title><category lang="it">Sport</category></programme>
 <programme start="20260119113000 +0000" stop="20260119130000 +0000" channel="7Gold.it@SD"><title lang="it">2 Chiacchiere in cucina</title><category lang="it">LifeStyle</category></programme>
@@ -4936,23 +4934,6 @@
 <programme start="20260120185000 +0000" stop="20260120200000 +0000" channel="RO1#BBC.First.ro"><title lang="ro">Moarte în Paradis</title><desc lang="ro">Detectivul Richard Poole este transferat de la Londra în Insulele Caraibe, dar Richard urăște soarele, marea și nisipul (adică stilul de viață tipic plajelor din Caraibe). El rezolvă însă în fiecare săptămână noi și noi cazuri de crimă cu ajutorul fetei de o frumusețe exotică, Camille.</desc></programme>
 <programme start="20260120200000 +0000" stop="20260120211000 +0000" channel="RO1#BBC.First.ro"><title lang="ro">Marile speranțe</title><desc lang="ro">Această mini-serie din trei părți, bazată pe romanul lui Charles Dickens, &amp;quot;Great Expectations&amp;quot;, a fost adaptată de scenarista si producătoarea Sarah Phelps (cunoscută pentru Oliver Twist, Dickensian). Povestea se concentrează pe orfanul Pip (Douglas Booth) și transformarea sa intr-un gentlemen, când un binefăcător misterios îi lasă o mare sumă de bani.</desc></programme>
 <programme start="20260120211000 +0000" stop="20260120221500 +0000" channel="RO1#BBC.First.ro"><title lang="ro">The Hack</title><desc lang="ro">Acest film nu are sinopsis.</desc></programme>
-<programme start="20260119020000 +0000" stop="20260119040000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Greselile trecutului</title><desc lang="ro">O răpire, o aventură extraconjugală și dezvăluiri îndrăznețe. Viața lui Mansi ia o întorsătură neașteptată atunci când este răpită în mod misterios. Această încercare o forțează să se confrunte cu trecutul ei, iar intențiile ascunse sunt dezvăluite.</desc></programme>
-<programme start="20260119040000 +0000" stop="20260119061000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">56 pana acum</title><desc lang="ro">Un polițist pensionat revine în activitate pentru a combate un val de infracțiuni, care, în trecut, a dus la moartea mamei fiului său.</desc></programme>
-<programme start="20260119061000 +0000" stop="20260119083500 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Masca</title><desc lang="ro">O fata pe nume Sophia (Urvashi Sharma), din clasa de mijloc a societatii, intalneste un baiat, Karan (Bobby Deol), care face parte din inalta societate. Sophia se indragosteste de Karan si se logodeste cu el. Apoi apare Vicky (Akshaye Khanna), care apartine aceleiasi categorii sociale ca si Sophia. Desi este logodita cu Karan, fata incepe sa se indragosteasca de Vicky. Sophia are un trecut care pare sa-i ameninte viitorul, Vicky ascunde si el un trecut care ii poate pune viitorul fetei in pericol. Iar… citeşte.</desc></programme>
-<programme start="20260119083500 +0000" stop="20260119111000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Totul sau nimic</title><desc lang="ro">Chashme Buddoor este un remake al filmului din 1981, cu acelasi nume. Sid (Ali Zafar), Jai (Siddharth) și Omi (Divyendu Sharma) trăiesc împreună într-o casă închiriată în Goa. Mereu chiulangii Jai și Omi petrec zilele chinuind fete și făcând glume obscene. Când frumoasa vecină Seema se îndrăgostește de timidul lor coleg Sid, ceilalți doi complotează pentru a-i despărți pe noii îndrăgostiți.</desc></programme>
-<programme start="20260119111000 +0000" stop="20260119143000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Stralucirrea chipului tau</title><desc lang="ro">Doi tineri îndrăgostiți sunt despărțiți din cauza snobismului părinților, iar firul poveștii se concentrează pe efortul lor de a se reuni.</desc></programme>
-<programme start="20260119143000 +0000" stop="20260119163500 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Obsesie periculoasa</title><desc lang="ro">Într-un vârtej de iubire pasională, o studentă simplă se trezește încurcată cu carismaticul vecin de alături, al cărui comportament posesiv și obsesiv transformă povestea ei de basm într-un coșmar din care trebuie să scape.</desc></programme>
-<programme start="20260119163500 +0000" stop="20260119190000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Radio</title><desc lang="ro">Un RJ este incă îndrăgostit de soția sa de care a divortat recent. Pentru a creste audienta postului de radio la care lucreaza, el este rugat să simuleze o poveste de dragoste cu o altă femeie.</desc></programme>
-<programme start="20260119190000 +0000" stop="20260119220500 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Iubirea lui Tulsi</title><desc lang="ro">Tatăl lui Tulsi nu vede cu ochi buni relația ei cu Ganesh, un ofițer al armatei, și îi caută un alt pretendent prin pețitorii satului. Însă Tulsi alege să-și urmeze inima și se căsătorește cu Ganesh. Când vestea că el ar fi pierit pe front zguduie comunitatea, credința neclintită a tinerei în supraviețuirea soțului se dovedește adevărată.</desc></programme>
-<programme start="20260119220500 +0000" stop="20260120013000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Iubirea unui prinț</title><desc lang="ro">În timp ce se recuperează după ce a fost victima unei încercări de asasinat, cu patru zile înainte de încoronare, un prinț aspru e înlocuit de sosia lui inimoasă.</desc></programme>
-<programme start="20260120013000 +0000" stop="20260120040000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Ragini - Filmarea secreta</title><desc lang="ro">Un cuplu pleacă la o fermă pentru relaxare și distracție, dar se trezesc înfricoșați, confruntând o entitate necunoscută care le transformă vacanța într-un coșmar.</desc></programme>
-<programme start="20260120040000 +0000" stop="20260120064000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Ce se intampla, draga mea?</title><desc lang="ro">O comedie plină de încurcături care străbate zonele rurale din Haryana, dezvăluind relații haotice, situații nebunești și excentricități în rândul familiei, prietenilor, îndrăgostiților și chiar al polițiștilor.</desc></programme>
-<programme start="20260120064000 +0000" stop="20260120094500 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Mangal Pandey - Revolta</title><desc lang="ro">In timpul unei aprige batalii purtate de armata britanica in Afganistan la inceputul secolului XIX, Mangal Pandey (Aamir Khan), un soldat indian din armata britanica, il salveaza de la moarte pe comandantul sau englez, William Gordon (Toby Stephens). Intre cei doi se naste, astfel, o frumoasa relatie de prietenie. Puternica legatura de amicitie dintre ei incepe sa se clatine o data cu aparitia tinerei si frumoasei aristocrate Emily Kent. Relatia de prietenie dintre… citeşte.</desc></programme>
-<programme start="20260120094500 +0000" stop="20260120131000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">In numele poporului</title><desc lang="ro">Un căpitan descoperă că misiunea sa alături de un ministru al apărării ascunde o operațiune secretă de spionaj guvernamental și este atras într-o rețea periculoasă de intrigi și trădări, luptând să-și protejeze țara.</desc></programme>
-<programme start="20260120131000 +0000" stop="20260120170000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Inima mea este a ta</title><desc lang="ro">Satula de statutul de somer, Shalu se decide ca e cazul sa se angajeze. Obtine un post la Khanna Industries unde ofera informatii nu tocmai adevarate despre ea..</desc></programme>
-<programme start="20260120170000 +0000" stop="20260120190000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Greselile trecutului</title><desc lang="ro">O răpire, o aventură extraconjugală și dezvăluiri îndrăznețe. Viața lui Mansi ia o întorsătură neașteptată atunci când este răpită în mod misterios. Această încercare o forțează să se confrunte cu trecutul ei, iar intențiile ascunse sunt dezvăluite.</desc></programme>
-<programme start="20260120190000 +0000" stop="20260120211000 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Ce-i al tau, e si al meu</title><desc lang="ro">O comedie de viață despre Mitesh Meghani, un oportunist ambițios care încearcă să-și cumpere dragostea familiei înșelând un bătrân ca să-i ia casa. Însă planul său se clatină când bătrânul refuză să moară, iar trecutul îi ajunge din urmă.</desc></programme>
-<programme start="20260120211000 +0000" stop="20260121001500 +0000" channel="RO1#Bollywood.Clasic.ro"><title lang="ro">Aripile destinului</title><desc lang="ro">Un thriller dramatic în care un fugar fără scrupule se ascunde într-o casă de preot, declanșând o serie de evenimente tensionate. Lupta pentru onoare, dreptate și răzbunare capătă forță în confruntarea finală dintre bine și rău.</desc></programme>
 <programme start="20260119001000 +0000" stop="20260119002500 +0000" channel="RO1#Cartoonito.ro"><title lang="ro">Broscoi și prietenii săi</title></programme>
 <programme start="20260119002500 +0000" stop="20260119003000 +0000" channel="RO1#Cartoonito.ro"><title lang="ro">Broscoi și prietenii săi</title></programme>
 <programme start="20260119003000 +0000" stop="20260119005000 +0000" channel="RO1#Cartoonito.ro"><title lang="ro">Broscoi și prietenii săi</title></programme>
