@@ -130,3 +130,124 @@ https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/p
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
 https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
 
+#EXTINF:-1 tvg-id="DiscoveryChannel.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery.png" group-title="Documentary",Discovery Channel IT
+https://d24aqelmrau4kx.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/WBTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="DiscoveryChannel.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-channel.png" group-title="Documentary",Discovery Channel RO
+#EXTVLCOPT:http-referrer=https://iron1.jarvisx.cfd/000/disc.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/disco/usergenrxljmx9su.m3u8
+
+#EXTINF:-1 tvg-id="InvestigationDiscoveryEurope.us" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/discovery-id.png" group-title="Documentary",Discovery Investigation ID
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/cry.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/cryme/usergendxn0487rnd.m3u8
+
+#EXTINF:-1 tvg-id="DMAX.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/dmax.png" group-title="Lifestyle",DMAX
+https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
+
+#EXTINF:-1 tvg-id="Epic.Drama.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/epic-drama.png" group-title="Movies",Epic Drama
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/epi/usergendxt1v8klq6rnd.m3u8
+
+#EXTINF:-1 tvg-id="FilmNow.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-now.png" group-title="Movies",Film Now
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/xena-mox.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://ultra2.falconx1.cfd/muk/usergendx0nht6241s0krdnyd.m3u8
+
+#EXTINF:-1 tvg-id="Filmbox.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/filmbox.png" group-title="Movies",Filmbox
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/fbux1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/fboz/usergendx7tc9brnd.m3u8
+
+#EXTINF:-1 tvg-id="FILM.CAFE.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/film-cafe.png"  group-title="Movies",FilmCafe
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/cofyfilm/usergendxn8lzrnd.m3u8
+
+#EXTINF:-1 tvg-id="Focus.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/focus.png" group-title="Documentary",Focus
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="FoodNetwork.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/foodnetwork.png" group-title="Cooking",Food Network
+https://dk3okdd5036kz.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-o4pw0nc02sthz/Foodnetwork_IT.m3u8
+
+#EXTINF:-1 tvg-id="Frisbee.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/frisbee.png" group-title="Kids",Frisbee
+https://d6m7lubks416z.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-zmbstsedxme9s/Frisbee_IT.m3u8
+
+#EXTINF:-1 tvg-id="Giallo.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/giallo.png" group-title="Entertainment",Giallo
+https://d9fqo6nfqlv2h.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ulukbrgm1n3yb/Giallo_IT.m3u8
+
+#EXTINF:-1 tvg-id="HBO.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo.png" group-title="Movies",HBO
+#EXTVLCOPT:http-referrer=https://thor1.syndula.cfd/000/xena-h1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/h1/usergendx172s9rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO2.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-2.png" group-title="Movies",HBO 2
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-h2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/h2/usergendxn430rnd.m3u8
+
+#EXTINF:-1 tvg-id="HBO3.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hbo-3.png" group-title="Movies",HBO 3
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1h3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://galandriel1.thobias.cfd/h3/usergendx3kdg4rnd.m3u8
+
+#EXTINF:-1 tvg-id="HelloTaste.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hello-taste.png" group-title="Cooking",Hello Taste
+https://stream1.antenaplay.ro/live/HelloTaste/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HGTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/homegardentv.png" group-title="Lifestyle",HGTV
+https://d1tidto9vz737l.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-joaw4f4kh2en1/HGTV_IT.m3u8
+
+#EXTINF:-1 tvg-id="History.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/history.png" group-title="Documentary",History
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+#EXTVLCOPT:http-referrer=https://galandriel1.thobias.cfd/000/1hyst.html
+https://galandriel1.thobias.cfd/hystor/usergendxc9g8rnd.htm
+
+#EXTINF:-1 tvg-id="HtMusicChannel.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/hit-music-channel.png" group-title="Music",H!t Music Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/1hitivi.html
+https://cronos.mangora.cfd/hitivi/usergendhh62jfcs5rnd.htm
+
+#EXTINF:-1 tvg-id="ImpactTVDance.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/impacttv.png" group-title="Music",Impact TV Dance
+https://online.tvimpact.live/hls/dancetv.m3u8
+
+#EXTINF:-1 tvg-id="ImpactTVManele.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/impacttv.png" group-title="Music",Impact TV Manele
+https://online.tvimpact.live/hls/impact_tv.m3u8
+
+#EXTINF:-1 tvg-id="Iris.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/iris.png" group-title="Entertainment",Iris
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Italia1.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia1.png" group-title="General",Italia 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Italia2.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/italia2.png" group-title="Entertainment",Italia 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="K2.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/k2.png" group-title="Kids",K2
+https://d1pmpe0hs35ka5.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-39hsskpppgf72/K2_IT.m3u8
+
+#EXTINF:-1 tvg-id="KanalD.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kanal-d.png" group-title="General",Kanal D
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/106.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-chanald.html
+https://arwen1.panaka1.cfd/canald/usergenxq0jl72l0rnd.m3u8
+
+#EXTINF:-1 tvg-id="KanalD2.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kanal-d2.png" group-title="General",Kanal D2
+https://stream2.kanald.ro/iphone/knd2-live_low/index.m3u8
+
+#EXTINF:-1 tvg-id="KissKissTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kisskisstv.png" group-title="Music",Kiss Kiss TV
+https://kk.fluid.stream/KKMulti/smil:KissKissTV.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="KissTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/kiss-tv.png" group-title="Music",Kiss TV
+#EXTVLCOPT:http-referrer=https://tv.broadcasting.ro/a629c031-2170-4ee9-a36d-87a891aa3131.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36
+https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
+
+#EXTINF:-1 tvg-id="La5.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la5.png" group-title="Entertainment",La5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
+
