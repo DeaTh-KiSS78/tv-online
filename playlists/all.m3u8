@@ -251,3 +251,94 @@ https://tv.broadcasting.ro/kisstv/a629c031-2170-4ee9-a36d-87a891aa3131.m3u8
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/manifest.mpd
 
+#EXTINF:-1 tvg-id="La7Cinema.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/LA7Cinema.png" group-title="Movies",La7 Cinema
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd
+
+#EXTINF:-1 tvg-id="LA7.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/la7.png" group-title="General",LA7
+https://d1chghleocc9sm.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-evfku205gqrtf/Live.m3u8
+
+#EXTINF:-1 tvg-id="m2oTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/m2o.png" group-title="Music",m2o TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
+
+#EXTINF:-1 tvg-id="MagicTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/magic-tv.png" group-title="Music",Magic TV
+https://tv.broadcasting.ro/magictv/925f90db-5c88-4190-a53d-5163cdffe6f4.m3u8
+
+#EXTINF:-1 tvg-id="MediasetExtra.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mediasetextra.png" group-title="General",Mediaset Extra
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Minimax.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/minimax.png" group-title="Kids",Minimax
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax1.cfd/000/minmax.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/minimaxy/usergendxny9zrnd.m3u8
+
+#EXTINF:-1 tvg-id="MoozDance.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mooz-dance.png" group-title="Music",Mooz Dance
+https://rtmp.digitalbroadcast.ro/moozdance/moozdance.m3u8
+
+#EXTINF:-1 tvg-id="MoozHits.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mooz-hits.png" group-title="Music",Mooz Hits
+https://rtmp.digitalbroadcast.ro/moozhits/moozhits.m3u8
+
+#EXTINF:-1 tvg-id="MoozRo.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/mooz-ro.png" group-title="Music",Mooz Ro!
+https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
+
+#EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png" group-title="Auto",Motor Trend
+https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
+
+#EXTINF:-1 tvg-id="NasulTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" group-title="General",Nasul TV
+https://live.nasul.tv/live/stream.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographicWild.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic-wild.png" group-title="Documentary",National Geografic Wild
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/wild/usergenr9qsi5gt.m3u8
+
+#EXTINF:-1 tvg-id="NationalGeographic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/national-geographic.png" group-title="Documentary",National Geographic
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://onyx1.mofta1.cfd/ngeo/usergenrnd84oeigt.m3u8
+
+#EXTINF:-1 tvg-id="Nove.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nove.png" group-title="General",Nove
+https://d31mw7o1gs0dap.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-y5pbi2sq9r609/NOVE_IT.m3u8
+
+#EXTINF:-1 tvg-id="ProArena.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-arena.png" group-title="General",Pro Arena
+#EXTVLCOPT:http-referrer=https://arwen1.panaka.cfd/000/xena-prx.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://arwen1.panaka1.cfd/prx/usergenrnvdfki42man4l.m3u8
+
+#EXTINF:-1 tvg-id="ProCinema.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-cinema.png" group-title="Movies",Pro Cinema
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/procinema.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/porkynema/usergenrnd0ek16an4l.m3u8
+
+#EXTINF:-1 tvg-id="PROTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/pro-tv.png" group-title="General",Pro TV
+#EXTVLCOPT:http-referrer=https://ultra3.ronanx.cfd/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/102.0.5005.115 Safari/537.36
+https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8
+
+#EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/profi-24-tv.png" group-title="General",PROFI 24 TV
+https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/r101tv.png" group-title="Music",R101 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-er/er-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Radio105TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radio105tv.png" group-title="Music",Radio 105 TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ec/ec-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RadioItaliaTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radioitaliatv.png" group-title="Music",Radio Italia TV
+https://radioitaliatv.akamaized.net/hls/live/2093117/RadioitaliaTV/master.m3u8
+
+#EXTINF:-1 tvg-id="RadioMonteCarloTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiomontecarlotv.png" group-title="Music",Radio Monte Carlo TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-bb/bb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RadioNorbaTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radionorba.png" group-title="General",Radio Norba TV 
+https://router.xdevel.com/video0s975885-462/stream/playlist_dvr.m3u8
+
+#EXTINF:-1 tvg-id="RadioZeta.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiozetatv.png" group-title="Music",Radio Zeta
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="Radiofreccia.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiofrecciatv.png" group-title="Music",Radiofreccia
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
+
