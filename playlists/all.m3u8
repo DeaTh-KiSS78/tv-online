@@ -1,0 +1,132 @@
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
+
+#EXTINF:-1 tvg-id="7Gold.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/7gold.png" group-title="Entertainment",7 Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="20.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png" group-title="Entertainment",20
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/acasa.png" group-title="Entertainment",Acasa
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.cool-itv.com/acasa/usergenx3e7g4rnd.m3u8
+
+#EXTINF:-1 tvg-id="AMC.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/amc.png" group-title="Movies",AMC
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+https://iron1.jarvisx1.cfd/amece/usergenrx3oq1kr.m3u8
+
+#EXTINF:-1 tvg-id="Antena1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-1.png" group-title="General",Antena 1
+#EXTVLCOPT:http-referrer=https://alpha1.yosefina.cfd/000/xena-anyone.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:104.0) Gecko/20100101 Firefox/104.0
+https://alpha1.yosefina.cfd/ah1/usergenx304Jtlrnd.m3u8
+
+#EXTINF:-1 tvg-id="Antena3CNN.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-3-cnn.png" group-title="News",Antena 3 CNN
+#EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-ant3.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36
+https://alpha1.cool-itv.com/an3/high/usergen801l41hcrnd.m3u8
+
+#EXTINF:-1 tvg-id="AntenaStars.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/antena-stars.png" group-title="Entertainment",Antena Stars
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://iron1.jarvisx1.cfd/antstar/usergenrxl7m94sq.m3u8
+
+#EXTINF:-1 tvg-id="AtomicAcademyTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic-academy.png" group-title="Music",Atomic Academy TV
+https://atomic.streamnet.ro/academia.m3u8
+
+#EXTINF:-1 tvg-id="AtomicTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/atomic.png" group-title="Music",Atomic TV
+https://atomic.streamnet.ro/atomictv.m3u8
+
+#EXTINF:-1 tvg-id="AXN.Black.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-black.png" group-title="Movies",AXN Black
+#EXTVLCOPT:http-referrer=https://saruman1.tharen.cfd/000/axblack.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/axyblack/usergenrxi6s93hs2.m3u8
+
+#EXTINF:-1 tvg-id="AXN.White.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn-white.png" group-title="Movies",AXN White
+#EXTVLCOPT:http-referrer=https://onyx1.mofta.cfd/000/xena-white.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/axwhite/usergenx23rnd.m3u8
+
+#EXTINF:-1 tvg-id="AXN.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/axn.png" group-title="Movies",AXN
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-axy.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/axy/usergend3h5jkc9rnd.htm
+
+#EXTINF:-1 tvg-id="B1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/b1-tv.png" group-title="News",B1
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
+
+#EXTINF:-1 tvg-id="BBC.Earth.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-earth.png" group-title="Documentary",BBC Earth
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Safari/537.36
+https://iron1.jarvisx1.cfd/ert/usergenrx8ofzq1kr.m3u8
+
+#EXTINF:-1 tvg-id="BBC.First.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-first.png" group-title="General",BBC First
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+https://onyx1.mofta1.cfd/bibi1/usergendxn09l2s6cek.m3u8
+
+#EXTINF:-1 tvg-id="Boing.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/boing.png" group-title="Kids",Boing
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RO1#Bollywood.Clasic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bollywood-classic.png" group-title="Movies",Bollywood Classic RO
+#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/1buly.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/boly/usergenr9j8s2t.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodClassic.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bollywood-classic.png" group-title="Movies",Bollywood Classic
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
+
+#EXTINF:-1 tvg-id="BollywoodHD.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bollywood-hd.png" group-title="Movies",Bollywood HD
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/manifest.m3u8
+
+#EXTINF:-1 tvg-id="Canale5.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/canale5.png" group-title="Entertainment",Canale 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito.png" group-title="Kids",Cartoonito IT
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cartoonito.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cartoonito-ro.png" group-title="Kids",Cartoonito RO
+#EXTVLCOPT:http-referrer=https://flash1.bogulus.cfd/000/bomy.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://flash1.bogulus.cfd/bomer/usergenrx2c86jey.m3u8
+
+#EXTINF:-1 tvg-id="Cielo.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cielo.png" group-title="General",Cielo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="Cine34.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cine34.png" group-title="Movies",Cine34
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Cinemax.2.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax-2.png" group-title="Movies",Cinemax 2
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/xmas2/usergendxt1v8klq6rnd.htm
+
+#EXTINF:-1 tvg-id="CineMAX.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/cinemax.png" group-title="Movies",Cinemax
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-cx1.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36
+https://cronos.mangora.cfd/xmas1/usergendx27y41s0rnd.htm
+
+#EXTINF:-1 tvg-id="ComedyCentral.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-central.png" group-title="Comedy",Comedy Central
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://saruman1.tharen1.cfd/comedi/usergenrx7zo1kr.m3u8
+
+#EXTINF:-1 tvg-id="ComedyPlay.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/comedy-play.png" group-title="Comedy",Comedy Play
+https://stream1.antenaplay.ro/live/ComedyPlay/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="DeejayTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/deejaytv.png" group-title="Music",Deejay TV
+https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S85984808/sMO0tz9Sr2Rk/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Digi24.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/digi-24.png" group-title="News",Digi 24
+#EXTVLCOPT:http-referrer=https://filme24.club/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64; rv:89.0) Gecko/20100101 Firefox/89.0
+https://edge-ar.rcs-rds.ro/digi24ar/hq.m3u8
+
