@@ -1,11 +1,23 @@
 #EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
 
-#EXTINF:-1 tvg-id="7Gold.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/7gold.png" group-title="Entertainment",7 Gold
-https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
-
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/20mediaset.png" group-title="Entertainment",20
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="7Gold.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/7gold.png" group-title="Entertainment",7 Gold
+https://streamcdnr6-dddfac816632463dac50b21109dc1bb3.msvdn.net/live/S58803518/OOZape6Nxp4H/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9x-jalwa.png" group-title="Music",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9x-jhakaas.png" group-title="Music",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9X-tashan.png" group-title="Music",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9XM.png" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
 
 #EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/acasa.png" group-title="Entertainment",Acasa
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
@@ -57,6 +69,12 @@ https://cronos.mangora.cfd/axy/usergend3h5jkc9rnd.htm
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://saruman1.tharen1.cfd/b1/usergenrnd840zwl3m.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/b4u-music.png" group-title="Music",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/balle-balle.png" group-title="Music",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
 
 #EXTINF:-1 tvg-id="BBC.Earth.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/bbc-earth.png" group-title="Documentary",BBC Earth
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
@@ -284,6 +302,9 @@ https://rtmp.digitalbroadcast.ro/moozro/moozro.m3u8
 #EXTINF:-1 tvg-id="MotorTrend.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/motortrend.png" group-title="Auto",Motor Trend
 https://d205m6k582pec4.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-asg5puyzdtnqu/Motortrend_IT.m3u8
 
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/music-india.png" group-title="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
 #EXTINF:-1 tvg-id="NasulTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/nasul-tv.png" group-title="General",Nasul TV
 https://live.nasul.tv/live/stream.m3u8
 
@@ -317,6 +338,18 @@ https://thanos1.gamorax1.cfd/porky/high/usergenx7240lrnd.m3u8
 
 #EXTINF:-1 tvg-id="PROFI24TV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/profi-24-tv.png" group-title="General",PROFI 24 TV
 https://owncast-jjg42-u20330.vm.elestio.app/hls/0/stream.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/ptc-chakde.png" group-title="Music",PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/ptc-music.png" group-title="Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/public-music.png" group-title="Music",Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/punjabi-hits.png" group-title="Music",Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
 
 #EXTINF:-1 tvg-id="R101TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/r101tv.png" group-title="Music",R101 TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
@@ -407,15 +440,33 @@ https://cronos.mangora.cfd/rtv/usergendx473dx9qrnd.htm
 #EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rtl1025tv.png" group-title="Music",RTL 102.5 TV
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sana-plus.png" group-title="Music",Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sangeet-bhojpuri.png" group-title="Music",Sangeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sangeet-marathi.png" group-title="Music",Sangeet Marathi
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowBox.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/showbox.png" group-title="Music",ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
 #EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/skytg24.png" group-title="News",Sky TG24
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/steelbird-music.png" group-title="Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
 
 #EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/supersix.png" group-title="General",Super SIX
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Super.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/super.png" group-title="Kids",Super!
 https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tabbar-hits.png" group-title="Music",Tabbar Hits
+https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
 
 #EXTINF:-1 tvg-id="Tele7music.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tele7music.png" group-title="Music",Tele7music
 https://live.tele7music.ro/hls/stream/index.m3u8
@@ -478,6 +529,9 @@ https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
 #EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/virginradiotv.png" group-title="Music",Virgin Radio TV
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
 https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zoom.png" group-title="Music",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 
 #EXTINF:-1 tvg-id="ZUTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zu-tv.png" group-title="Music",ZU TV
 #EXTVLCOPT:http-referrer=https://canale-tv.com/
