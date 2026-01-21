@@ -342,3 +342,145 @@ https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S9346184/XEx1LqlYbNic/pl
 #EXTINF:-1 tvg-id="Radiofreccia.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/radiofrecciatv.png" group-title="Music",Radiofreccia
 https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S3160845/0tuSetc8UFkF/playlist_video.m3u8
 
+#EXTINF:-1 tvg-id="Rai1.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai1.png" group-title="General",Rai 1
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai2.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai2.png" group-title="General",Rai 2
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai3.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai3.png" group-title="General",Rai 3
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai4.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai4.png" group-title="Movies",Rai 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="Rai5.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rai5.png" group-title="Movies",Rai 5
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiGulp.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raigulp.png" group-title="Kids",Rai Gulp
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiMovie.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raimovie.png" group-title="Movies",Rai Movie
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiNews24.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rainews24.png" group-title="News",Rai News 24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiPremium.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raipremium.png" group-title="Movies",Rai Premium
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiScuola.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raiscuola.png" group-title="Education",Rai Scuola
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747011&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiStoria.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raistoria.png" group-title="General",Rai Storia
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RaiYoyo.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/raiyoyo.png" group-title="Kids",Rai Yoyo
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=7&forceUserAgent=raiplayappletv
+
+#EXTINF:-1 tvg-id="RDSSocialTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rdssocialtv.png" group-title="Music",RDS Social TV
+https://stream.rdstv.radio/index.m3u8
+
+#EXTINF:-1 tvg-id="RealTime.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/realtime.png" group-title="General",Real Time
+https://d3562mgijzx0zq.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-kizqtzpvvl3i8/Realtime_IT.m3u8
+
+#EXTINF:-1 tvg-id="Rete4.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rete4.png" group-title="General",Rete 4
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="RomaniaTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/romania-tv.png" group-title="News",Romania TV
+#EXTVLCOPT:http-referrer=https://cronos.mangora.cfd/000/2xena-rteve.html
+https://cronos.mangora.cfd/rtv/usergendx473dx9qrnd.htm
+
+#EXTINF:-1 tvg-id="RTL1025TV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/rtl1025tv.png" group-title="Music",RTL 102.5 TV
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-id="SkyTG24.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/skytg24.png" group-title="News",Sky TG24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="SuperSix.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/supersix.png" group-title="General",Super SIX
+https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Super.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/super.png" group-title="Kids",Super!
+https://495c5a85d9074f29acffeaea9e0215eb.msvdn.net/super/super_main/super_main_hbbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Tele7music.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tele7music.png" group-title="Music",Tele7music
+https://live.tele7music.ro/hls/stream/index.m3u8
+
+#EXTINF:-1 tvg-id="TGCom24.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tgcom24.png" group-title="News",TGCom24
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TLC.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tlc.png" group-title="Lifestyle",TLC
+#EXTVLCOPT:http-referrer=https://atlantida1.aquax.cfd/000/xena-t1c.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+https://atlantida1.aquax1.cfd/telece/usergendc8sxt317rnd.m3u8
+
+#EXTINF:-1 tvg-id="TopCrime.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/topcrime.png" group-title="Movies",Top Crime
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="TV8.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tv8.png" group-title="General",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnts=st=1764666351~exp=1829466206~acl=/*~hmac=b0e9165b6c55027903ad103c8219f363d8765eb300c0d9a339e9767fc3509556
+
+#EXTINF:-1 tvg-id="TVR1.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-1.png" group-title="General",TVR 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://ultra2.falconx.cfd/000/xena-t001.html
+https://ultra2.falconx1.cfd/t001/usergend4sdkx9q2rnd.m3u8
+
+#EXTINF:-1 tvg-id="TVR2.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-2.png" group-title="General",TVR 2
+#EXTVLCOPT:http-referrer=https://thor1.syndula.cfd/000/xena-tivi2.html
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://thor1.syndula1.cfd/tevere2/usergendxl6d4vnd.m3u8
+
+#EXTINF:-1 tvg-id="TVR3.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tvr-3.png" group-title="General",TVR 3
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:138.0) Gecko/20100101 Firefox/138.0
+https://thor1.syndula1.cfd/tevere3/usergenx4klq9qrnd.m3u8
+
+#EXTINF:-1 tvg-id="Twentyseven.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/twentyseven.png" group-title="Movies",Twentyseven
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="UTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/utv.png" group-title="Music",UTV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://cronos.mangora.cfd/utivi/usergenck9astrnd.htm
+
+#EXTINF:-1 tvg-id="Viasat.Explore.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-explore.png" group-title="Documentary",Viasat Explore
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
+https://arwen1.panaka1.cfd/vexplr/usergenrnd7ke5lgt.m3u8
+
+#EXTINF:-1 tvg-id="Viasat.History.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-history.png" group-title="Documentary",Viasat History
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
+https://arwen1.panaka1.cfd/vhis/usergenrnd4v6g8eigt.m3u8
+
+#EXTINF:-1 tvg-id="Viasat.Nature.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/viasat-nature.png" group-title="Documentary",Viasat Nature
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.6478.61 Chrome/126.0.6478.61 Not/A)Brand/8  Safari/537.36
+https://arwen1.panaka1.cfd/vnature/usergenrnd2g9eqk.m3u8
+
+#EXTINF:-1 tvg-id="VirginRadioTV.it" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/virginradiotv.png" group-title="Music",Virgin Radio TV
+#EXTVLCOPT:http-user-agent=HbbTV/1.6.1
+https://live03-col.msr.cdn.mediaset.net/live/ch-ew/ew-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-id="ZUTV.ro" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zu-tv.png" group-title="Music",ZU TV
+#EXTVLCOPT:http-referrer=https://canale-tv.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:144.0) Gecko/20100101 Firefox/144.0
+https://iron1.jarvisx1.cfd/zzz/usergenrx8c0k3lkr.m3u8
+
