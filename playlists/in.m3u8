@@ -1,0 +1,55 @@
+#EXTM3U url-tvg="https://av3ntura78-lang.github.io/tv-online/epg/epg.xml"
+
+#EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9x-jalwa.png" group-title="Music",9X Jalwa
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
+
+#EXTINF:-1 tvg-id="9XJhakaas.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9x-jhakaas.png" group-title="Music",9X Jhakaas
+https://9xjio.wiseplayout.com/9X_Jhakaas/master.m3u8
+
+#EXTINF:-1 tvg-id="9XTashan.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9X-tashan.png" group-title="Music",9X Tashan
+https://9xjio.wiseplayout.com/9X_Tashan/master.m3u8
+
+#EXTINF:-1 tvg-id="9XM.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/9XM.png" group-title="Music",9XM
+https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/9xm/23886666-8fc5-470f-aab1-bd637ed607b1/3.m3u8
+
+#EXTINF:-1 tvg-id="B4UMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/b4u-music.png" group-title="Music",B4U Music
+https://cdnb4u.wiseplayout.com/B4U_Music/master.m3u8
+
+#EXTINF:-1 tvg-id="BalleBalle.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/balle-balle.png" group-title="Music",Balle Balle
+https://mcncdndigital.com/balleballetv/index.m3u8
+
+#EXTINF:-1 tvg-id="MusicIndia.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/music-india.png" group-title="Music",Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCChakde.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/ptc-chakde.png" group-title="Music",PTC Chakde
+https://cdn-1.pishow.tv/live/449/master.m3u8
+
+#EXTINF:-1 tvg-id="PTCMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/ptc-music.png" group-title="Music",PTC Music
+https://d2lk5u59tns74c.cloudfront.net/out/v1/f913cf893c594f73b114216e74a2efbc/index.m3u8
+
+#EXTINF:-1 tvg-id="PublicMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/public-music.png" group-title="Music",Public Music
+https://cdn-3.pishow.tv/live/441/master.m3u8
+
+#EXTINF:-1 tvg-id="PunjabiHits.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/punjabi-hits.png" group-title="Music",Punjabi Hits
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/punjabi-hits/index.m3u8
+
+#EXTINF:-1 tvg-id="SanaPlus.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sana-plus.png" group-title="Music",Sana Plus
+https://galaxyott.live/hls/sanaplus.m3u8
+
+#EXTINF:-1 tvg-id="SangeetBhojpuri.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sangeet-bhojpuri.png" group-title="Music",Sangeet Bhojpuri
+https://cdn-4.pishow.tv/live/1293/master.m3u8
+
+#EXTINF:-1 tvg-id="SangeetMarathi.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/sangeet-marathi.png" group-title="Music",Sangeet Marathi
+https://cdn-3.pishow.tv/live/1229/master.m3u8
+
+#EXTINF:-1 tvg-id="ShowBox.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/showbox.png" group-title="Music",ShowBox
+https://epiconvh.akamaized.net/live/showbox/master.m3u8
+
+#EXTINF:-1 tvg-id="SteelbirdMusic.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/steelbird-music.png" group-title="Music",Steelbird Music
+https://cdn2.in/SteelbirdMusicTVhls/live.m3u8
+
+#EXTINF:-1 tvg-id="TabbarHits.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/tabbar-hits.png" group-title="Music",Tabbar Hits
+https://live1.ottlive.co.in/tabbarhitsswift/index.m3u8
+
+#EXTINF:-1 tvg-id="Zoom.in" tvg-logo="https://av3ntura78-lang.github.io/tv-online/logos/zoom.png" group-title="Music",Zoom
+https://dai.google.com/linear/hls/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
