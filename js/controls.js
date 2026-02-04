@@ -33,12 +33,12 @@ function togglePlayPause() {
 
 function volumeUp() {
     if (!video) return;
-    video.volume = Math.min(1, video.volume + 0.05);
+    video.volume = Math.min(1, video.volume + 0.01);
 }
 
 function volumeDown() {
     if (!video) return;
-    video.volume = Math.max(0, video.volume - 0.05);
+    video.volume = Math.max(0, video.volume - 0.01);
 }
 
 function toggleMute() {
