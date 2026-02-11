@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://death-kiss78.github.io/tv-online/epg/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DeaTh-KiSS78/epg/refs/heads/master/epg.xml"
 
 #EXTINF:-1 tvg-id="Acasa.ro" tvg-logo="https://death-kiss78.github.io/tv-online/logos/acasa.png" group-title="Entertainment",Acasa
 #EXTVLCOPT:http-referrer=https://alpha1.cool-itv.com/000/xena-acasa.html
