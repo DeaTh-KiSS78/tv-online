@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://death-kiss78.github.io/tv-online/epg/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DeaTh-KiSS78/epg/refs/heads/master/epg.xml"
 
 #EXTINF:-1 tvg-id="20.it" tvg-logo="https://death-kiss78.github.io/tv-online/logos/20mediaset.png" group-title="Entertainment",20
 #EXTVLCOPT:http-user-agent=HbbTV/1.6.1
