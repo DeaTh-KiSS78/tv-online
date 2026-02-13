@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8" ?><tv date="20260213">
 <channel id="20.it"><display-name>20</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/20_Mediaset_2018.svg/512px-20_Mediaset_2018.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="ZUTV.ro"><display-name>ZU TV</display-name><icon src="https://i.imgur.com/1gtkGhB.png"/><url>https://programetv.ro</url></channel>
-<channel id="Zoom.in"><display-name>Zoom</display-name><icon src="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
-<channel id="VirginRadioTV.it"><display-name>Virgin Radio TV</display-name><icon src="https://i.imgur.com/aUY2KvX.png"/><url>https://superguidatv.it</url></channel>
-<channel id="Viasat.Nature.ro"><display-name>Viasat Nature</display-name><url>https://programetv.ro</url></channel>
-<channel id="Viasat.History.ro"><display-name>Viasat History</display-name><url>https://programetv.ro</url></channel>
-<channel id="Viasat.Explore.ro"><display-name>Viasat Explore</display-name><url>https://programetv.ro</url></channel>
-<channel id="UTV.ro"><display-name>UTV</display-name><icon src="https://i.imgur.com/aBdz9IT.png"/><url>https://programetv.ro</url></channel>
-<channel id="Twentyseven.it"><display-name>Twentyseven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TVR3.ro"><display-name>TVR 3</display-name><icon src="https://i.imgur.com/yHCuTap.png"/><url>https://programetv.ro</url></channel>
-<channel id="TVR2.ro"><display-name>TVR 2</display-name><icon src="https://i.imgur.com/mKouHIZ.png"/><url>https://programetv.ro</url></channel>
-<channel id="TVR1.ro"><display-name>TVR 1</display-name><icon src="https://i.imgur.com/CcUX1gB.png"/><url>https://programetv.ro</url></channel>
-<channel id="TV8.it"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
-<channel id="TopCrime.it"><display-name>Top Crime</display-name><icon src="https://i.postimg.cc/tJFTm2cZ/topcrime.png"/><url>https://superguidatv.it</url></channel>
+<channel id="7Gold.it"><display-name>7 Gold</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg"/><url>https://superguidatv.it</url></channel>
+<channel id="9XJhakaas.in"><display-name>9X Jhakaas</display-name><icon src="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png"/><url>https://dishtv.in</url></channel>
+<channel id="AMC.ro"><display-name>AMC</display-name><url>https://programetv.ro</url></channel>
+<channel id="Acasa.ro"><display-name>Acasa</display-name><icon src="https://i.postimg.cc/MHrWkxdF/acasa.png"/><url>https://programetv.ro</url></channel>
+<channel id="AXN.ro"><display-name>AXN</display-name><url>https://programetv.ro</url></channel>
+<channel id="AXN.White.ro"><display-name>AXN White</display-name><url>https://programetv.ro</url></channel>
+<channel id="9XJalwa.in"><display-name>9X Jalwa</display-name><icon src="https://i.imgur.com/qubgOi5.png"/><url>https://epgshare01.online</url></channel>
+<channel id="9XM.in"><display-name>9XM</display-name><icon src="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
+<channel id="AXN.Black.ro"><display-name>AXN Black</display-name><url>https://programetv.ro</url></channel>
+<channel id="AntenaStars.ro"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
+<channel id="9XTashan.in"><display-name>9X Tashan</display-name><icon src="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png"/><url>https://dishtv.in</url></channel>
+<channel id="Antena3CNN.ro"><display-name>Antena 3 CNN</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512"/><url>https://programetv.ro</url></channel>
+<channel id="Antena1.ro"><display-name>Antena 1</display-name><icon src="https://i.imgur.com/EPmwuuv.png"/><url>https://programetv.ro</url></channel>
 <channel id="TLC.ro"><display-name>TLC</display-name><icon src="https://i.postimg.cc/NMnt7mfy/tlc.png"/><url>https://programetv.ro</url></channel>
 <channel id="TGCom24.it"><display-name>TGCom24</display-name><icon src="https://i.imgur.com/fPmvbGH.png"/><url>https://superguidatv.it</url></channel>
 <channel id="TabbarHits.in"><display-name>Tabbar Hits</display-name><icon src="https://dtil.tmsimg.com/assets/s143292_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
@@ -109,19 +109,19 @@
 <channel id="BalleBalle.in"><display-name>Balle Balle</display-name><icon src="https://i.imgur.com/oxkkWH5.png"/><url>https://tataplay.com</url></channel>
 <channel id="B4UMusic.in"><display-name>B4U Music</display-name><icon src="https://dtil.tmsimg.com/assets/s158141_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
 <channel id="B1.ro"><display-name>B1</display-name><icon src="https://i.postimg.cc/R059cgW2/b1.png"/><url>https://programetv.ro</url></channel>
-<channel id="AXN.ro"><display-name>AXN</display-name><url>https://programetv.ro</url></channel>
-<channel id="AXN.White.ro"><display-name>AXN White</display-name><url>https://programetv.ro</url></channel>
-<channel id="AXN.Black.ro"><display-name>AXN Black</display-name><url>https://programetv.ro</url></channel>
-<channel id="AntenaStars.ro"><display-name>Antena Stars</display-name><icon src="https://i.postimg.cc/3xkzf2M7/antenastars.png"/><url>https://programetv.ro</url></channel>
-<channel id="Antena3CNN.ro"><display-name>Antena 3 CNN</display-name><icon src="https://static.wikia.nocookie.net/logopedia/images/8/82/Antena_3_CNN_2022_v1.png/revision/latest/scale-to-width-down/512"/><url>https://programetv.ro</url></channel>
-<channel id="Antena1.ro"><display-name>Antena 1</display-name><icon src="https://i.imgur.com/EPmwuuv.png"/><url>https://programetv.ro</url></channel>
-<channel id="AMC.ro"><display-name>AMC</display-name><url>https://programetv.ro</url></channel>
-<channel id="Acasa.ro"><display-name>Acasa</display-name><icon src="https://i.postimg.cc/MHrWkxdF/acasa.png"/><url>https://programetv.ro</url></channel>
-<channel id="9XM.in"><display-name>9XM</display-name><icon src="https://dtil.tmsimg.com/assets/s77447_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
-<channel id="9XTashan.in"><display-name>9X Tashan</display-name><icon src="https://dtil.tmsimg.com/assets/s142504_ld_h15_aa.png"/><url>https://dishtv.in</url></channel>
-<channel id="9XJhakaas.in"><display-name>9X Jhakaas</display-name><icon src="https://dtil.tmsimg.com/assets/s90012_ld_h15_aa.png"/><url>https://dishtv.in</url></channel>
-<channel id="9XJalwa.in"><display-name>9X Jalwa</display-name><icon src="https://i.imgur.com/qubgOi5.png"/><url>https://epgshare01.online</url></channel>
-<channel id="7Gold.it"><display-name>7 Gold</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/7gold.jpg/512px-7gold.jpg"/><url>https://superguidatv.it</url></channel>
+<channel id="Zoom.in"><display-name>Zoom</display-name><icon src="https://dtil.tmsimg.com/assets/s157600_ld_h15_aa.png"/><url>https://tataplay.com</url></channel>
+<channel id="VirginRadioTV.it"><display-name>Virgin Radio TV</display-name><icon src="https://i.imgur.com/aUY2KvX.png"/><url>https://superguidatv.it</url></channel>
+<channel id="Viasat.Nature.ro"><display-name>Viasat Nature</display-name><url>https://programetv.ro</url></channel>
+<channel id="Viasat.Explore.ro"><display-name>Viasat Explore</display-name><url>https://programetv.ro</url></channel>
+<channel id="UTV.ro"><display-name>UTV</display-name><icon src="https://i.imgur.com/aBdz9IT.png"/><url>https://programetv.ro</url></channel>
+<channel id="Twentyseven.it"><display-name>Twentyseven</display-name><icon src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Twentyseven_logo.svg/512px-Twentyseven_logo.svg.png"/><url>https://superguidatv.it</url></channel>
+<channel id="TVR2.ro"><display-name>TVR 2</display-name><icon src="https://i.imgur.com/mKouHIZ.png"/><url>https://programetv.ro</url></channel>
+<channel id="TVR1.ro"><display-name>TVR 1</display-name><icon src="https://i.imgur.com/CcUX1gB.png"/><url>https://programetv.ro</url></channel>
+<channel id="TV8.it"><display-name>TV8</display-name><icon src="https://i.postimg.cc/Wpf0FB91/tv8.png"/><url>https://superguidatv.it</url></channel>
+<channel id="ZUTV.ro"><display-name>ZU TV</display-name><icon src="https://i.imgur.com/1gtkGhB.png"/><url>https://programetv.ro</url></channel>
+<channel id="Viasat.History.ro"><display-name>Viasat History</display-name><url>https://programetv.ro</url></channel>
+<channel id="TVR3.ro"><display-name>TVR 3</display-name><icon src="https://i.imgur.com/yHCuTap.png"/><url>https://programetv.ro</url></channel>
+<channel id="TopCrime.it"><display-name>Top Crime</display-name><icon src="https://i.postimg.cc/tJFTm2cZ/topcrime.png"/><url>https://superguidatv.it</url></channel>
 <programme start="20260213000000 +0000" stop="20260213050000 +0000" channel="7Gold.it"><title lang="it">Programmazione notturna</title><category lang="it">Notizie</category></programme>
 <programme start="20260213050000 +0000" stop="20260213060000 +0000" channel="7Gold.it"><title lang="it">Diretta Stadio</title><category lang="it">Sport</category></programme>
 <programme start="20260213060000 +0000" stop="20260213063000 +0000" channel="7Gold.it"><title lang="it">TG7</title><category lang="it">Notizie</category></programme>
