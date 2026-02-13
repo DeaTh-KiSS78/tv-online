@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://death-kiss78.github.io/tv-online/epg/epg.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/DeaTh-KiSS78/epg/refs/heads/master/epg.xml"
 
 #EXTINF:-1 tvg-id="9XJalwa.in" tvg-logo="https://death-kiss78.github.io/tv-online/logos/9x-jalwa.png" group-title="Music",9X Jalwa
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/9x-jalwa/master.m3u8
